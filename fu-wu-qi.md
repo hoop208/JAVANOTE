@@ -4,3 +4,5 @@
 
 [Apache Tomcat下载、安装、配置图文教程](https://blog.csdn.net/yangxingpa/article/details/58174598)
 
+[IntelliJ IDEA 创建Web项目（全教程）](https://www.jianshu.com/p/455c7c11dfb2)
+
