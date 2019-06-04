@@ -11,3 +11,7 @@
 # 字符串格式化
 
 [Java魔法堂：String.format详解](https://www.cnblogs.com/fsjohnhuang/p/4094777.html)
+
+# Protocol Buffers
+
+[在Java中使用Protocol Buffers](https://www.jianshu.com/p/1bf426a9f8f4)
