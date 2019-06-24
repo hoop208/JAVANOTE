@@ -12,6 +12,8 @@
 
 [原创 | 不了解这12个语法糖，别说你会Java](https://mp.weixin.qq.com/s/EBnM7QAOPjDk5bG3M0Mu-w)
 
+[Java对象克隆（Clone）及Cloneable接口、Serializable接口的深入探讨](https://blog.csdn.net/kenthong/article/details/5758884)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
