@@ -31,3 +31,5 @@
 [为什么完美的 lambda 表达式只有一行](https://www.ibm.com/developerworks/cn/java/j-java8idioms6/index.html)
 
 [深入探索 Java 8 Lambda 表达式](https://www.infoq.cn/article/Java-8-Lambdas-A-Peek-Under-the-Hood)
+
+[Java Lambda表达式入门](https://blog.csdn.net/renfufei/article/details/24600507)
