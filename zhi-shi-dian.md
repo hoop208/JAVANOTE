@@ -18,6 +18,8 @@
 
 [在Java中如何优雅地判空](https://juejin.im/post/5bf60e286fb9a049dd7fe9f8)
 
+[Java 8新特性（三）：Optional类](https://lw900925.github.io/java/java8-optional.html)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
