@@ -16,9 +16,11 @@
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
 
-# 字符串格式化
+# String
 
 [Java魔法堂：String.format详解](https://www.cnblogs.com/fsjohnhuang/p/4094777.html)
+
+[JAVA字符串格式化-String.format()的使用](https://blog.csdn.net/lonely_fireworks/article/details/7962171)
 
 # javadoc
 
