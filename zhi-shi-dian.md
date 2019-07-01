@@ -16,6 +16,8 @@
 
 [ava中的随机数Random](https://lehsyh.iteye.com/blog/646658)
 
+[在Java中如何优雅地判空](https://juejin.im/post/5bf60e286fb9a049dd7fe9f8)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
