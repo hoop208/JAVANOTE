@@ -26,3 +26,6 @@
 
 [Javadoc 使用详解](https://blog.csdn.net/vbirdbest/article/details/80296136)
 
+# lambda
+
+[为什么完美的 lambda 表达式只有一行](https://www.ibm.com/developerworks/cn/java/j-java8idioms6/index.html)
