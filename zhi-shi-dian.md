@@ -22,6 +22,8 @@
 
 [JAVA字符串格式化-String.format()的使用](https://blog.csdn.net/lonely_fireworks/article/details/7962171)
 
+[Java String 格式化示例](https://blog.csdn.net/isea533/article/details/70193652)
+
 # javadoc
 
 [Javadoc 使用详解](https://blog.csdn.net/vbirdbest/article/details/80296136)
