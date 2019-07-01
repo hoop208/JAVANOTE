@@ -14,6 +14,8 @@
 
 [JAVA中的Random()函数](https://www.cnblogs.com/ningvsban/p/3590722.html)
 
+[ava中的随机数Random](https://lehsyh.iteye.com/blog/646658)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
