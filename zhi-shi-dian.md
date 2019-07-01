@@ -12,6 +12,8 @@
 
 [Java对象克隆（Clone）及Cloneable接口、Serializable接口的深入探讨](https://blog.csdn.net/kenthong/article/details/5758884)
 
+[JAVA中的Random()函数](https://www.cnblogs.com/ningvsban/p/3590722.html)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
