@@ -30,6 +30,8 @@
 
 [Java String 格式化示例](https://blog.csdn.net/isea533/article/details/70193652)
 
+[Java中判断String不为空的问题](https://for-dream.iteye.com/blog/1570499)
+
 # javadoc
 
 [Javadoc 使用详解](https://blog.csdn.net/vbirdbest/article/details/80296136)
