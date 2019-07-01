@@ -38,4 +38,6 @@
 
 [深入浅出 Java 8 Lambda 表达式](http://blog.oneapm.com/apm-tech/226.html)
 
+[Java 8 Lambda 表达式详解](https://segmentfault.com/a/1190000009186509)
+
 
