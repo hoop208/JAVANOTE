@@ -2,8 +2,7 @@
 
 * [Introduction](README.md)
 * [java io](java-io.md)
-* [源码](yuan-ma.md)
-  * [集合](yuan-ma/ji-he.md)
+* [集合框架](yuan-ma/ji-he.md)
 * [java并发](javaji-chu.md)
 * [知识点](zhi-shi-dian.md)
 * [服务器](fu-wu-qi.md)

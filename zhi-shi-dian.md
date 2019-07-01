@@ -1,7 +1,5 @@
 # 其它
 
-[深入浅出 Java 8 Lambda 表达式](http://blog.oneapm.com/apm-tech/226.html)
-
 [【Java编程】写入、读取、遍历Properties文件](https://blog.csdn.net/andie_guo/article/details/25425403)
 
 [Java 解惑：Comparable 和 Comparator 的区别](https://blog.csdn.net/u011240877/article/details/53399019)
@@ -33,3 +31,7 @@
 [深入探索 Java 8 Lambda 表达式](https://www.infoq.cn/article/Java-8-Lambdas-A-Peek-Under-the-Hood)
 
 [Java Lambda表达式入门](https://blog.csdn.net/renfufei/article/details/24600507)
+
+[深入浅出 Java 8 Lambda 表达式](http://blog.oneapm.com/apm-tech/226.html)
+
+
