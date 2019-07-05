@@ -18,6 +18,8 @@
 
 [Java中jar命令详解](https://www.cnblogs.com/zhouxuanyu/p/3948124.html)
 
+[java数值范围以及float与double精度丢失问题](https://blog.csdn.net/tomcat_2014/article/details/51453988)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
