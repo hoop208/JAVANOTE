@@ -16,6 +16,8 @@
 
 [jar命令打包与java执行jar包](https://segmentfault.com/a/1190000012019605)
 
+[Java中jar命令详解](https://www.cnblogs.com/zhouxuanyu/p/3948124.html)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
