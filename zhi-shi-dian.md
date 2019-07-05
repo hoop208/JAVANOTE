@@ -20,6 +20,8 @@
 
 [java数值范围以及float与double精度丢失问题](https://blog.csdn.net/tomcat_2014/article/details/51453988)
 
+[关于java中Double类型的运算精度问题(转)](https://492664447-qq-com.iteye.com/blog/1294111)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
