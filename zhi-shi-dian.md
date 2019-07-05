@@ -24,6 +24,8 @@
 
 [String源码分析](https://github.com/francistao/LearningNotes/blob/master/Part2/JavaSE/String%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
 
+[为什么阿里巴巴要求谨慎使用ArrayList中的subList方法](https://juejin.im/post/5d117ef7f265da1ba328d240)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
