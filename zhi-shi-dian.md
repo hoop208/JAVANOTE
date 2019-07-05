@@ -26,6 +26,8 @@
 
 [为什么阿里巴巴要求谨慎使用ArrayList中的subList方法](https://juejin.im/post/5d117ef7f265da1ba328d240)
 
+[Java 8 的 Lambda 表达式和流处理](https://www.ibm.com/developerworks/cn/java/j-understanding-functional-programming-3/index.html)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
