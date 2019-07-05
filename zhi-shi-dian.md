@@ -22,6 +22,8 @@
 
 [关于java中Double类型的运算精度问题(转)](https://492664447-qq-com.iteye.com/blog/1294111)
 
+[String源码分析](https://github.com/francistao/LearningNotes/blob/master/Part2/JavaSE/String%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
