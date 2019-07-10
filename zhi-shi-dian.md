@@ -22,6 +22,8 @@
 
 [反射进阶，编写反射代码值得注意的诸多细节](https://frank909.blog.csdn.net/article/details/76223206)
 
+[学习java应该如何理解反射？](https://www.zhihu.com/question/24304289)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
