@@ -4,8 +4,6 @@
 
 [Java 解惑：Comparable 和 Comparator 的区别](https://blog.csdn.net/u011240877/article/details/53399019)
 
-[Java中字符串split\(\) 的使用方法.没你想的那么简单](https://blog.csdn.net/qq_27093465/article/details/54910323)
-
 [Java异常处理12条军规](https://mp.weixin.qq.com/s/Oo53o8Qhiu8VHH70dTIOuA)
 
 [原创 | 不了解这12个语法糖，别说你会Java](https://mp.weixin.qq.com/s/EBnM7QAOPjDk5bG3M0Mu-w)
@@ -37,6 +35,10 @@
 [Java String 格式化示例](https://blog.csdn.net/isea533/article/details/70193652)
 
 [Java中判断String不为空的问题](https://for-dream.iteye.com/blog/1570499)
+
+[Java中字符串split\(\) 的使用方法.没你想的那么简单](https://blog.csdn.net/qq_27093465/article/details/54910323)
+
+
 
 # javadoc
 
