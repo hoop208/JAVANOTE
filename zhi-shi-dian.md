@@ -58,4 +58,6 @@
 
 [java 泛型详解-绝对是对泛型方法讲解最详细的，没有之一](https://blog.csdn.net/s10461/article/details/53941091)
 
+[Java泛型：泛型类、泛型接口和泛型方法](https://segmentfault.com/a/1190000002646193)
+
 
