@@ -60,4 +60,6 @@
 
 [Java泛型：泛型类、泛型接口和泛型方法](https://segmentfault.com/a/1190000002646193)
 
+[了解泛型](https://www.ibm.com/developerworks/cn/java/j-jtp01255.html)
+
 
