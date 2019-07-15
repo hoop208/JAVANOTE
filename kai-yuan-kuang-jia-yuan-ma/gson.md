@@ -14,3 +14,5 @@
 
 [搞定Gson泛型封装](https://www.jianshu.com/p/d62c2be60617)
 
+[Json转换利器Gson之实例三-Map处理(上)](https://blog.csdn.net/lk_blog/article/details/7685210)
+
