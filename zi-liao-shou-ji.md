@@ -16,6 +16,8 @@
 
 [Java知识图谱收集整理](https://www.jianshu.com/p/746c01a8535a)
 
+[To Be Top Javaer - Java工程师成神之路](https://github.com/hollischuang/toBeTopJavaer)
+
 # 资料
 
 [how2j.cn](http://how2j.cn/)
