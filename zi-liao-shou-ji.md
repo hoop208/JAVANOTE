@@ -17,3 +17,5 @@
 # 资料
 
 [how2j.cn](http://how2j.cn/)
+
+[记录各种学习笔记(算法、Java、数据库、并发......)](https://github.com/ZXZxin/ZXBlog)
