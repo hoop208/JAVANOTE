@@ -10,3 +10,5 @@
 
 [你真的会用Gson吗?Gson使用指南（四）](https://www.jianshu.com/p/3108f1e44155)
 
+[接口返回的 JSON，再离谱也有办法，谈谈 JSON 容错！](https://mp.weixin.qq.com/s/EIEHValrjZhjcaKRYjKxHw)
+
