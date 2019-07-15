@@ -14,6 +14,8 @@
 
 [如何快速学习ssm 框架？](https://www.zhihu.com/question/57719761/answer/156952139)
 
+[Java知识图谱收集整理](https://www.jianshu.com/p/746c01a8535a)
+
 # 资料
 
 [how2j.cn](http://how2j.cn/)
