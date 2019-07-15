@@ -27,3 +27,5 @@
 [【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识](https://github.com/Snailclimb/JavaGuide)
 
 [mall学习教程，架构、业务、技术要点全方位解析](https://github.com/macrozheng/mall-learning)
+
+[ava Core Sprout : basic, concurrent, algorithm](https://github.com/crossoverJie/JCSprout)
