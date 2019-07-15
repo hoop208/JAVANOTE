@@ -8,6 +8,8 @@
 
 [RxJava操作符（五）Error Handling](https://mushuichuan.com/2015/12/11/rxjava-operator-5/)
 
+[给初学者的RxJava2.0系列教程的demo](https://github.com/ssseasonnn/RxJava2Demo)
+
 #资料
 
 [rxjava中文文档](https://github.com/mcxiaoke/RxDocs)
