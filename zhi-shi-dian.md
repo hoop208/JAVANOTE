@@ -26,6 +26,8 @@
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
 
+[深入理解Java注解类型(@Annotation)](https://blog.csdn.net/javazejian/article/details/71860633)
+
 # String
 
 [Java魔法堂：String.format详解](https://www.cnblogs.com/fsjohnhuang/p/4094777.html)
