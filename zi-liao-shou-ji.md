@@ -28,4 +28,4 @@
 
 [mall学习教程，架构、业务、技术要点全方位解析](https://github.com/macrozheng/mall-learning)
 
-[ava Core Sprout : basic, concurrent, algorithm](https://github.com/crossoverJie/JCSprout)
+[Java Core Sprout : basic, concurrent, algorithm](https://github.com/crossoverJie/JCSprout)
