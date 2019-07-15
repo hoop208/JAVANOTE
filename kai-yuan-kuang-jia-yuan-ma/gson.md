@@ -17,3 +17,5 @@
 [Json转换利器Gson之实例三-Map处理(上)](https://blog.csdn.net/lk_blog/article/details/7685210)
 
 [Json转换利器Gson之实例四-Map处理(下)](https://blog.csdn.net/lk_blog/article/details/7685224)
+
+[Json转换利器Gson之实例六-注册TypeAdapter及处理Enum类型](https://blog.csdn.net/lk_blog/article/details/7685347)
