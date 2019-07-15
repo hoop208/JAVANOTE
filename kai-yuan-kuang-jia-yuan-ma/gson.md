@@ -12,3 +12,5 @@
 
 [接口返回的 JSON，再离谱也有办法，谈谈 JSON 容错！](https://mp.weixin.qq.com/s/EIEHValrjZhjcaKRYjKxHw)
 
+[搞定Gson泛型封装](https://www.jianshu.com/p/d62c2be60617)
+
