@@ -23,3 +23,5 @@
 [记录各种学习笔记(算法、Java、数据库、并发......)](https://github.com/ZXZxin/ZXBlog)
 
 [【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识](https://github.com/Snailclimb/JavaGuide)
+
+[【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识](https://github.com/Snailclimb/JavaGuide)
