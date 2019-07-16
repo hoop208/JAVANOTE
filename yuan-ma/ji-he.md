@@ -5,3 +5,5 @@
 [Java 容器源码分析之 LinkedHashMap](http://blog.jrwang.me/2016/java-collections-linkedhashmap/)
 
 # 知识点
+
+[Java之美[从菜鸟到高手演练]之Arrays类及其方法分析](https://blog.csdn.net/zhangerqing/article/details/42750027)
