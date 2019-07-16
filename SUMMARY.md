@@ -15,6 +15,5 @@
   * [OKHTTP](kai-yuan-kuang-jia-yuan-ma/okhttp.md)
   * [Eventbus](kai-yuan-kuang-jia-yuan-ma/eventbuf.md)
   * [Retrofit](kai-yuan-kuang-jia-yuan-ma/retrofit.md)
-  * [Greendao](kai-yuan-kuang-jia-yuan-ma/greendao.md)
 * [Aop](aop.md)
 
