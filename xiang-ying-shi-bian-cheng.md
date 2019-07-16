@@ -8,7 +8,6 @@
 
 [RxBus的实现及简单使用](https://www.jianshu.com/p/eec1b280b941)
 
-[
-轻松学，浅析依赖倒置（DIP）、控制反转(IOC)和依赖注入(DI)](https://frank909.blog.csdn.net/article/details/75093382)
+[轻松学，浅析依赖倒置（DIP）、控制反转(IOC)和依赖注入(DI)](https://frank909.blog.csdn.net/article/details/75093382)
 
 
