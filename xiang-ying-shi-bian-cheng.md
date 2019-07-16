@@ -12,4 +12,7 @@
 
 [基于RxJava2和RxRelay实现RxBus](https://blog.kuwork.net/2017/06/30/%E5%9F%BA%E4%BA%8ERxJava2%E5%92%8CRxRelay%E5%AE%9E%E7%8E%B0RxBus/)
 
+# 开源库
+
+[RxRelay](https://github.com/JakeWharton/RxRelay)
 
