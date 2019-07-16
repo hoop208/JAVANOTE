@@ -14,5 +14,6 @@
   * [Gson](kai-yuan-kuang-jia-yuan-ma/gson.md)
   * [OKHTTP](kai-yuan-kuang-jia-yuan-ma/okhttp.md)
   * [Eventbus](kai-yuan-kuang-jia-yuan-ma/eventbuf.md)
+  * [Retrofit](kai-yuan-kuang-jia-yuan-ma/retrofit.md)
 * [Aop](aop.md)
 
