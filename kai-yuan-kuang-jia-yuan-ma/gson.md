@@ -19,3 +19,7 @@
 [Json转换利器Gson之实例四-Map处理(下)](https://blog.csdn.net/lk_blog/article/details/7685224)
 
 [Json转换利器Gson之实例六-注册TypeAdapter及处理Enum类型](https://blog.csdn.net/lk_blog/article/details/7685347)
+
+# 源码解析
+
+[Gson源码解析和它的设计模式](https://www.jianshu.com/p/aef252db9869)
