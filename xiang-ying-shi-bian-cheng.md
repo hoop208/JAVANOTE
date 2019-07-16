@@ -37,3 +37,9 @@
 
 [The RxJava2 Default Error Handler](https://medium.com/@bherbst/the-rxjava2-default-error-handler-e50e0cab6f9f)
 
+# Rxbinding
+
+[RxBinding详解: 规范而强大的安卓UI响应式编程](https://www.jianshu.com/p/34cf96b72102)
+
+[Android APP中的RxJava 2：RxBinding和RxLifecycle](https://code.tutsplus.com/zh-hans/tutorials/rxjava-for-android-apps-introducing-rxbinding-and-rxlifecycle--cms-28565)
+
