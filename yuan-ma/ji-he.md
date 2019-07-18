@@ -13,3 +13,5 @@
 # hashmap
 
 [HashMap深度分析](https://www.jianshu.com/p/8b372f3a195d)
+
+[HashMap源码剖析.md](https://github.com/francistao/LearningNotes/blob/master/Part2/JavaSE/HashMap%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90.md)
