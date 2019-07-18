@@ -4,3 +4,5 @@
 
 [腾讯面试题04.进程和线程的区别？](https://blog.csdn.net/mxsgoden/article/details/8821936)
 
+[图解 Java 线程安全](https://juejin.im/post/5d2c97bff265da1bc552954b)
+
