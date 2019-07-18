@@ -11,3 +11,5 @@
 [java.io.Serializable浅析](https://www.cnblogs.com/gw811/archive/2012/10/10/2718331.html)
 
 [Java 序列化的高级认识](https://www.ibm.com/developerworks/cn/java/j-lo-serial/index.html)
+
+[Java中Properties类的操作](https://www.cnblogs.com/bakari/p/3562244.html)
