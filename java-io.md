@@ -13,3 +13,5 @@
 [Java 序列化的高级认识](https://www.ibm.com/developerworks/cn/java/j-lo-serial/index.html)
 
 [Java中Properties类的操作](https://www.cnblogs.com/bakari/p/3562244.html)
+
+[Java文件IO操作应该抛弃File拥抱Paths和Files](https://www.cnblogs.com/digdeep/p/4478734.html)
