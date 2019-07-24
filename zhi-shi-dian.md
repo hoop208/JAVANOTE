@@ -22,6 +22,8 @@
 
 [学习java应该如何理解反射？](https://www.zhihu.com/question/24304289)
 
+[【译】java8之lambda表达式](https://www.jianshu.com/p/3f16ecb28275)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
