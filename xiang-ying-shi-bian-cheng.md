@@ -16,6 +16,8 @@
 
 [基于RxJava2和RxRelay实现RxBus](https://blog.kuwork.net/2017/06/30/%E5%9F%BA%E4%BA%8ERxJava2%E5%92%8CRxRelay%E5%AE%9E%E7%8E%B0RxBus/)
 
+[RxBus真的能替代EventBus吗？](https://www.jianshu.com/p/669eda5dc5a4)
+
 
 # 开源库
 
