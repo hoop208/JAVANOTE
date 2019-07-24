@@ -22,6 +22,8 @@
 
 [学习java应该如何理解反射？](https://www.zhihu.com/question/24304289)
 
+[Java常量池理解与总结](https://www.jianshu.com/p/c7f47de2ee80)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
