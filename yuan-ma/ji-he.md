@@ -4,6 +4,8 @@
 
 [Java 集合系列18之 Iterator和Enumeration比较](https://www.cnblogs.com/skywang12345/p/3311275.html)
 
+[JAVA集合框架中的常用集合及其特点、适用场景、实现原理简介](https://www.jianshu.com/p/b54f1df33f84)
+
 # hashmap
 
 [HashMap深度分析](https://www.jianshu.com/p/8b372f3a195d)
