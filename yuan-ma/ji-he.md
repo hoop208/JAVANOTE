@@ -6,6 +6,8 @@
 
 [JAVA集合框架中的常用集合及其特点、适用场景、实现原理简介](https://www.jianshu.com/p/b54f1df33f84)
 
+[千万不要这样使用 Arrays.asList !](https://mp.weixin.qq.com/s/iDpx7krEjSue0-IXGiMFeQ)
+
 # hashmap
 
 [HashMap深度分析](https://www.jianshu.com/p/8b372f3a195d)
