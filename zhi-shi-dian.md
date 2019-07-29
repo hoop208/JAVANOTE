@@ -24,6 +24,8 @@
 
 [Java常量池理解与总结](https://www.jianshu.com/p/c7f47de2ee80)
 
+[Java 基础：动态代理、多态原理](https://blog.piasy.com/2017/01/17/Java-Basics-Dynamic-proxy-and-Polymorphism/index.html)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
