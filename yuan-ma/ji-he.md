@@ -18,3 +18,5 @@
 
 [Java 容器源码分析之 LinkedHashMap](http://blog.jrwang.me/2016/java-collections-linkedhashmap/)
 
+[HashMap实现原理及源码分析](https://www.cnblogs.com/chengxiao/p/6059914.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
