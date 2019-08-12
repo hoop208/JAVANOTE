@@ -28,5 +28,7 @@
 
 [Java 集合系列03之 ArrayList详细介绍(源码解析)和使用示例](https://www.cnblogs.com/skywang12345/p/3308556.html)
 
+[【Java集合系列】---ArrayList](https://zhuanlan.zhihu.com/p/24247566)
+
 
 
