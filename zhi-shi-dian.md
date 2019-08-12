@@ -30,6 +30,8 @@
 
 [菜鸟教程-Java 8 Stream](https://www.runoob.com/java/java8-streams.html)
 
+[菜鸟教程-Java 8 Optional 类](https://www.runoob.com/java/java8-optional-class.html)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
