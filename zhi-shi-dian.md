@@ -36,6 +36,8 @@
 
 [菜鸟教程-Java 8 函数式接口](https://www.runoob.com/java/java8-functional-interfaces.html)
 
+[Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
