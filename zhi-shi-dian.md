@@ -34,6 +34,8 @@
 
 [Handling Exceptions: The Easy Way](https://proandroiddev.com/handling-exceptions-the-easy-way-3aeade554613)
 
+[菜鸟教程-Java 8 函数式接口](https://www.runoob.com/java/java8-functional-interfaces.html)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
