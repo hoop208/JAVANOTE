@@ -26,10 +26,6 @@
 
 [Handling Exceptions: The Easy Way](https://proandroiddev.com/handling-exceptions-the-easy-way-3aeade554613)
 
-[菜鸟教程-Java 8 函数式接口](https://www.runoob.com/java/java8-functional-interfaces.html)
-
-[Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial)
-
 [java.text.NumberFormat用法](https://blog.csdn.net/pengchua/article/details/1956810)
 
 [SimpleDateFormat与DateTimeFormatter](https://www.jianshu.com/p/b212afa16f1f)
