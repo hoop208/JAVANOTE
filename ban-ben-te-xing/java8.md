@@ -16,6 +16,8 @@
 
 [Java 8 中的 Streams API 详解](https://www.ibm.com/developerworks/cn/java/j-lo-java8streamapi/index.html)
 
+[Java Stream 详解](https://colobu.com/2016/03/02/Java-Stream/)
+
 
 
 
