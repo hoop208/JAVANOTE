@@ -8,6 +8,8 @@
 
 [轻松学，浅析依赖倒置（DIP）、控制反转(IOC)和依赖注入(DI)](https://frank909.blog.csdn.net/article/details/75093382)
 
+[Introduction to RxRelay for RxJava](https://www.baeldung.com/rx-relay)
+
 # Rxbus
 
 [RxBus在rxjava2.0 的基本使用](https://blog.csdn.net/donkor_/article/details/79709366)
