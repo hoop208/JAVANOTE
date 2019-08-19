@@ -22,6 +22,8 @@
 
 [简洁方便的集合处理——Java 8 stream流](https://segmentfault.com/a/1190000019574204?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
 
+[深入理解Java Stream流水线](https://www.cnblogs.com/CarpenterLee/p/6637118.html)
+
 
 
 
