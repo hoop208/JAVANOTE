@@ -14,6 +14,8 @@
 
 [菜鸟教程-Java 8 Stream](https://www.runoob.com/java/java8-streams.html)
 
+[Java 8 中的 Streams API 详解](https://www.ibm.com/developerworks/cn/java/j-lo-java8streamapi/index.html)
+
 
 
 
