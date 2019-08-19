@@ -24,12 +24,6 @@
 
 [Java 基础：动态代理、多态原理](https://blog.piasy.com/2017/01/17/Java-Basics-Dynamic-proxy-and-Polymorphism/index.html)
 
-[菜鸟教程-Java 8 方法引用](https://www.runoob.com/java/java8-method-references.html)
-
-[菜鸟教程-Java 8 Stream](https://www.runoob.com/java/java8-streams.html)
-
-[菜鸟教程-Java 8 Optional 类](https://www.runoob.com/java/java8-optional-class.html)
-
 [Handling Exceptions: The Easy Way](https://proandroiddev.com/handling-exceptions-the-easy-way-3aeade554613)
 
 [菜鸟教程-Java 8 函数式接口](https://www.runoob.com/java/java8-functional-interfaces.html)
