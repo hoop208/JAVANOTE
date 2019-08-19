@@ -20,6 +20,8 @@
 
 [Java8初体验（二）Stream语法详解](http://ifeve.com/stream/)
 
+[简洁方便的集合处理——Java 8 stream流](https://segmentfault.com/a/1190000019574204?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
+
 
 
 
