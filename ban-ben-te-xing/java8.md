@@ -18,6 +18,8 @@
 
 [Java Stream 详解](https://colobu.com/2016/03/02/Java-Stream/)
 
+[Java8初体验（二）Stream语法详解](http://ifeve.com/stream/)
+
 
 
 
