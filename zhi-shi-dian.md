@@ -38,6 +38,8 @@
 
 [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial)
 
+[java.text.NumberFormat用法](https://blog.csdn.net/pengchua/article/details/1956810)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
