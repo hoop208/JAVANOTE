@@ -16,8 +16,6 @@
 
 [在Java中如何优雅地判空](https://juejin.im/post/5bf60e286fb9a049dd7fe9f8)
 
-[Java 8新特性（三）：Optional类](https://lw900925.github.io/java/java8-optional.html)
-
 [反射进阶，编写反射代码值得注意的诸多细节](https://frank909.blog.csdn.net/article/details/76223206)
 
 [学习java应该如何理解反射？](https://www.zhihu.com/question/24304289)
