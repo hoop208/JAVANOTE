@@ -22,6 +22,8 @@
 
 [HashMap实现原理及源码分析](https://www.cnblogs.com/chengxiao/p/6059914.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[Map 综述（一）：彻头彻尾理解 HashMap](https://blog.csdn.net/justloveyou_/article/details/62893086)
+
 # ArrayList
 
 [Java 集合系列03之 ArrayList详细介绍(源码解析)和使用示例](https://www.cnblogs.com/skywang12345/p/3308556.html)
