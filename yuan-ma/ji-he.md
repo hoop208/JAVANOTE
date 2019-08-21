@@ -8,6 +8,8 @@
 
 [千万不要这样使用 Arrays.asList !](https://mp.weixin.qq.com/s/iDpx7krEjSue0-IXGiMFeQ)
 
+[Java之美[从菜鸟到高手演练]之Arrays类及其方法分析](https://blog.csdn.net/zhangerqing/article/details/42750027)
+
 # hashmap
 
 [HashMap深度分析](https://www.jianshu.com/p/8b372f3a195d)
