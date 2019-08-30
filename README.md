@@ -1,3 +1,2 @@
-# JAVANOTE
 [目录](SUMMARY.md)
 
