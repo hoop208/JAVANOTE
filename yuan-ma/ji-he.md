@@ -41,5 +41,7 @@
 
 [Java 集合系列05之 LinkedList详细介绍(源码解析)和使用示例](https://www.cnblogs.com/skywang12345/p/3308807.html)
 
+[Java集合之LinkedHashMap](https://www.cnblogs.com/xiaoxi/p/6170590.html)
+
 
 
