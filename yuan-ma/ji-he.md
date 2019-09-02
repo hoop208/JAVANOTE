@@ -43,5 +43,7 @@
 
 [Java集合之LinkedHashMap](https://www.cnblogs.com/xiaoxi/p/6170590.html)
 
+[Java 容器源码分析之 LinkedHashMap](http://blog.jrwang.me/2016/java-collections-linkedhashmap/)
+
 
 
