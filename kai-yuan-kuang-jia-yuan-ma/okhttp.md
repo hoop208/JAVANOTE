@@ -6,6 +6,9 @@
 
 [OkHttp使用完全教程](https://www.jianshu.com/p/ca8a982a116b)
 
+[Android OKHttp使用详解
+](https://www.jianshu.com/p/2663ce3da0db)
+
 # 视频教程
 
 [okhttp的使用](https://www.imooc.com/learn/764)
