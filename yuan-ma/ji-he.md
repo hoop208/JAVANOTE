@@ -23,6 +23,7 @@
 [HashMap实现原理及源码分析](https://www.cnblogs.com/chengxiao/p/6059914.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [Map 综述（一）：彻头彻尾理解 HashMap](https://blog.csdn.net/justloveyou_/article/details/62893086)
+[Map 综述（二）：彻头彻尾理解 LinkedHashMap](https://blog.csdn.net/justloveyou_/article/details/71713781)
 
 # ArrayList
 
