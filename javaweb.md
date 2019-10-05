@@ -6,5 +6,4 @@
 
 博客
 
-[servlet的本质是什么，它是如何工作的？
-](https://www.zhihu.com/question/21416727/answer/690289895)
+[servlet的本质是什么，它是如何工作的？](https://www.zhihu.com/question/21416727/answer/690289895)
