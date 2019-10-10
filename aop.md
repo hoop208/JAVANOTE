@@ -10,5 +10,4 @@
 
 博客
 
-[Javassist 使用指南（一）
-](https://www.jianshu.com/p/43424242846b)
+[Javassist 使用指南（一）](https://www.jianshu.com/p/43424242846b)
