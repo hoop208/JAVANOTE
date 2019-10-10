@@ -29,3 +29,5 @@
 [如何优雅的使用和理解线程池](https://segmentfault.com/a/1190000015808897)
 
 [Java四种线程池的使用](https://www.iteye.com/blog/cuisuqiang-2019372)
+
+[深入理解 Java 线程池：ThreadPoolExecutor](https://juejin.im/entry/58fada5d570c350058d3aaad)
