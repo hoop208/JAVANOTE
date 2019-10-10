@@ -23,3 +23,5 @@
 [Java并发编程：线程池的使用](https://www.cnblogs.com/dolphin0520/p/3932921.html)
 
 [探索JAVA并发 - 线程池详解](https://acupt.cn/2019/07/30/concurrent-thread-pool/)
+
+[Java 四种线程池的用法分析](https://blog.csdn.net/u011974987/article/details/51027795)
