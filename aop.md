@@ -7,3 +7,8 @@
 文档
 
 [用 Javassist 进行类转换](https://www.ibm.com/developerworks/cn/java/j-dyn0916/index.html)
+
+博客
+
+[Javassist 使用指南（一）
+](https://www.jianshu.com/p/43424242846b)
