@@ -19,3 +19,5 @@
 # 线程池
 
 [Java线程池「异常处理」正确姿势：有病就得治](https://mp.weixin.qq.com/s/Lfe0hIDeHcAhvSCSiHt5sg)
+
+[Java并发编程：线程池的使用](https://www.cnblogs.com/dolphin0520/p/3932921.html)
