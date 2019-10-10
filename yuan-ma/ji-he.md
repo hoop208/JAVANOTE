@@ -14,6 +14,8 @@
 
 [Java中vector的使用详解](https://blog.csdn.net/Listening_music/article/details/7034070)
 
+[Java数组转List的三种方式及对比](https://blog.csdn.net/x541211190/article/details/79597236)
+
 # hashmap
 
 [HashMap深度分析](https://www.jianshu.com/p/8b372f3a195d)
