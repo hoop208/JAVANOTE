@@ -27,3 +27,5 @@
 [Java 四种线程池的用法分析](https://blog.csdn.net/u011974987/article/details/51027795)
 
 [如何优雅的使用和理解线程池](https://segmentfault.com/a/1190000015808897)
+
+[Java四种线程池的使用](https://www.iteye.com/blog/cuisuqiang-2019372)
