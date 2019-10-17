@@ -30,7 +30,7 @@
 
 [SimpleDateFormat与DateTimeFormatter](https://www.jianshu.com/p/b212afa16f1f)
 
-
+[消灭 Java 代码的“坏味道”](https://mp.weixin.qq.com/s/yvG2KdNewPmOL_YVE4VX8A)
 
 # 注解
 
