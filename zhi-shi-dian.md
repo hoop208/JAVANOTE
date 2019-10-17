@@ -48,6 +48,8 @@
 
 [Java中字符串split\(\) 的使用方法.没你想的那么简单](https://blog.csdn.net/qq_27093465/article/details/54910323)
 
+[Java String 对象，你真的了解了吗？| CSDN 博文精选](https://mp.weixin.qq.com/s/DztbgSXXp1_P7oYSNX_T_Q)
+
 # javadoc
 
 [Javadoc 使用详解](https://blog.csdn.net/vbirdbest/article/details/80296136)
