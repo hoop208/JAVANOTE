@@ -81,6 +81,8 @@
 
 [了解泛型](https://www.ibm.com/developerworks/cn/java/j-jtp01255.html)
 
+[聊一聊-JAVA 泛型中的通配符 T，E，K，V，？](https://juejin.im/post/5d5789d26fb9a06ad0056bd9)
+
 # Docker
 
 [如何通俗解释Docker是什么？](https://www.zhihu.com/question/28300645/answer/67707287)
