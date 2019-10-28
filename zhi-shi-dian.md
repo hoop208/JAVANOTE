@@ -18,10 +18,6 @@
 
 [在Java中如何优雅地判空](https://juejin.im/post/5bf60e286fb9a049dd7fe9f8)
 
-[反射进阶，编写反射代码值得注意的诸多细节](https://frank909.blog.csdn.net/article/details/76223206)
-
-[学习java应该如何理解反射？](https://www.zhihu.com/question/24304289)
-
 [Java常量池理解与总结](https://www.jianshu.com/p/c7f47de2ee80)
 
 [Java 基础：动态代理、多态原理](https://blog.piasy.com/2017/01/17/Java-Basics-Dynamic-proxy-and-Polymorphism/index.html)
@@ -90,5 +86,9 @@
 # 反射
 
 [大家都说 Java 反射效率低，你知道原因在哪里么](https://juejin.im/post/5da33b2351882509334fc0d3)
+
+[反射进阶，编写反射代码值得注意的诸多细节](https://frank909.blog.csdn.net/article/details/76223206)
+
+[学习java应该如何理解反射？](https://www.zhihu.com/question/24304289)
 
 
