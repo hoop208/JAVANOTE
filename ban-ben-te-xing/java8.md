@@ -10,6 +10,8 @@
 
 [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial)
 
+[Java 8的这个新特性，你用了吗？](https://mp.weixin.qq.com/s/252Uay68lH39sGh80rnbGg)
+
 # Stream
 
 [菜鸟教程-Java 8 Stream](https://www.runoob.com/java/java8-streams.html)
