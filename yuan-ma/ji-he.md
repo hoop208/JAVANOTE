@@ -55,4 +55,5 @@
 
 [linkedlist](https://github.com/Snailclimb/JavaGuide/blob/master/docs/java/collection/LinkedList.md)
 
+[Java性能 -- ArrayList + LinkedList](http://zhongmingmao.me/2019/06/26/java-performance-arraylist-linkedlist/)
 
