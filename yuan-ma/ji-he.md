@@ -57,3 +57,5 @@
 
 [Java性能 -- ArrayList + LinkedList](http://zhongmingmao.me/2019/06/26/java-performance-arraylist-linkedlist/)
 
+[LinkedList的局限](http://jm.taobao.org/2010/09/16/322/)
+
