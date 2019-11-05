@@ -53,4 +53,6 @@
 
 [请不要无脑ArrayList 还有一个LinkedList也不错哟](https://zhuanlan.zhihu.com/p/49060408)
 
+[linkedlist](https://github.com/Snailclimb/JavaGuide/blob/master/docs/java/collection/LinkedList.md)
+
 
