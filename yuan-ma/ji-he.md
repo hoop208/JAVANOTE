@@ -51,5 +51,6 @@
 
 [Java 容器源码分析之 LinkedHashMap](http://blog.jrwang.me/2016/java-collections-linkedhashmap/)
 
+[请不要无脑ArrayList 还有一个LinkedList也不错哟](https://zhuanlan.zhihu.com/p/49060408)
 
 
