@@ -37,3 +37,5 @@
 # syncronize
 
 [Java线程同步：synchronized锁住的是代码还是对象](https://blog.csdn.net/xiao__gui/article/details/8188833)
+
+[Java synchronized 多线程同步问题详解](https://segmentfault.com/a/1190000009225706)
