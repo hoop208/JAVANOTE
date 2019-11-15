@@ -4,9 +4,11 @@
 
 [易百教程-springmvc](https://www.yiibai.com/spring_mvc/spring-mvc-tutorial-for-beginners.html)
 
-# 博客
+# 知识点
 
 [spring入门](https://www.liaoxuefeng.com/article/895887872094400)
+
+[Spring IoC有什么好处呢？](https://www.zhihu.com/question/23277575/answer/24259844)
 
 # 经验分享
 
