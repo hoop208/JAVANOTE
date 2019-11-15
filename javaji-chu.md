@@ -43,3 +43,5 @@
 [Java synchronized 多线程同步问题详解](https://segmentfault.com/a/1190000009225706)
 
 [java synchronized详解](https://www.cnblogs.com/GnagWang/archive/2011/02/27/1966606.html)
+
+[且听我一个故事讲透一个锁原理之synchronized](https://mp.weixin.qq.com/s/i1jtqQcP7kz5uS86GZ6Lgg)
