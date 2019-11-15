@@ -38,6 +38,8 @@
 
 [深入理解Java注解类型(@Annotation)](https://blog.csdn.net/javazejian/article/details/71860633)
 
+[JAVA 注解的基本原理](https://juejin.im/post/5b45bd715188251b3a1db54f)
+
 # String
 
 [Java魔法堂：String.format详解](https://www.cnblogs.com/fsjohnhuang/p/4094777.html)
