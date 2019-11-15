@@ -30,6 +30,8 @@
 
 [消灭 Java 代码的“坏味道”](https://mp.weixin.qq.com/s/yvG2KdNewPmOL_YVE4VX8A)
 
+[Java finally 语句到底是在 return 之前还是之后执行？](https://mp.weixin.qq.com/s/MhEEJLvMrXvVXTohiEEDZA)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
