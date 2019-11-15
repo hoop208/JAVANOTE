@@ -46,6 +46,8 @@
 [RxJava 沉思录（三）：时间维度](https://juejin.im/post/5b8f5ea8f265da0a9223887e)
 [RxJava 沉思录（四）：总结](https://juejin.im/post/5b8f5f0ee51d450ea52f6a37)
 
+[我们眼中 RxJava 式的网络请求](https://qiantao.one/2019/02/25/best-practice-in-rxjava-network-method/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 # Rxbinding
 
 [RxBinding详解: 规范而强大的安卓UI响应式编程](https://www.jianshu.com/p/34cf96b72102)
