@@ -56,6 +56,8 @@
 
 [Java String 对象，你真的了解了吗？| CSDN 博文精选](https://mp.weixin.qq.com/s/DztbgSXXp1_P7oYSNX_T_Q)
 
+[框架开发之Java注解的妙用](https://www.jianshu.com/p/b560b30726d4)
+
 # javadoc
 
 [Javadoc 使用详解](https://blog.csdn.net/vbirdbest/article/details/80296136)
