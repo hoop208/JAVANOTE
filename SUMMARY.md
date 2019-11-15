@@ -18,4 +18,5 @@
 * [版本特性](ban-ben-te-xing.md)
   * [java8](ban-ben-te-xing/java8.md)
 * [jvm](jvm.md)
+* [视频教程](shi-pin-jiao-cheng.md)
 
