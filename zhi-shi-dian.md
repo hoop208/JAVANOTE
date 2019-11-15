@@ -40,6 +40,8 @@
 
 [JAVA 注解的基本原理](https://juejin.im/post/5b45bd715188251b3a1db54f)
 
+[Java注解基本原理](https://www.cnblogs.com/huajiezh/p/5263849.html)
+
 # String
 
 [Java魔法堂：String.format详解](https://www.cnblogs.com/fsjohnhuang/p/4094777.html)
