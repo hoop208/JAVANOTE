@@ -89,7 +89,7 @@
 
 [学习java应该如何理解反射？](https://www.zhihu.com/question/24304289)
 
-# IOC
+# IOC&DI
 
 [自定义 Android IOC 框架](https://www.jianshu.com/p/d12b2752c763?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
