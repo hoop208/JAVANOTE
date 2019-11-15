@@ -93,4 +93,8 @@
 
 [自定义 Android IOC 框架](https://www.jianshu.com/p/d12b2752c763?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+# 代理
+
+[Java 动态代理作用是什么？](https://www.zhihu.com/question/20794107)
+
 
