@@ -48,6 +48,8 @@
 
 [我们眼中 RxJava 式的网络请求](https://qiantao.one/2019/02/25/best-practice-in-rxjava-network-method/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[All RxJava - 为Retrofit添加重试](https://juejin.im/entry/59c0c097f265da066563d058)
+
 # Rxbinding
 
 [RxBinding详解: 规范而强大的安卓UI响应式编程](https://www.jianshu.com/p/34cf96b72102)
