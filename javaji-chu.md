@@ -45,3 +45,5 @@
 [java synchronized详解](https://www.cnblogs.com/GnagWang/archive/2011/02/27/1966606.html)
 
 [且听我一个故事讲透一个锁原理之synchronized](https://mp.weixin.qq.com/s/i1jtqQcP7kz5uS86GZ6Lgg)
+
+[synchronized、锁、多线程同步的原理是咋样的](https://www.jianshu.com/p/5dbb07c8d5d5)
