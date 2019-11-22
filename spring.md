@@ -11,6 +11,7 @@
 [Spring IoC有什么好处呢？](https://www.zhihu.com/question/23277575/answer/24259844)
 
 [用小说的形式讲解Spring（1） —— 为什么需要依赖注入](https://zhuanlan.zhihu.com/p/29426019)
+[用小说的形式讲解Spring（2） —— 注入方式哪家强](https://zhuanlan.zhihu.com/p/29629813)
 
 # 经验分享
 
