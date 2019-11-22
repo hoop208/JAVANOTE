@@ -10,6 +10,8 @@
 
 [Spring IoC有什么好处呢？](https://www.zhihu.com/question/23277575/answer/24259844)
 
+[用小说的形式讲解Spring（1） —— 为什么需要依赖注入](https://zhuanlan.zhihu.com/p/29426019)
+
 # 经验分享
 
 [大学生刚学完 Java 如何学习 SpringMVC？](https://www.zhihu.com/question/327107482/answer/718731277)
