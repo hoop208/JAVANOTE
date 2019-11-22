@@ -12,6 +12,7 @@
 
 [用小说的形式讲解Spring（1） —— 为什么需要依赖注入](https://zhuanlan.zhihu.com/p/29426019)
 [用小说的形式讲解Spring（2） —— 注入方式哪家强](https://zhuanlan.zhihu.com/p/29629813)
+[用小说的形式讲解Spring（3） —— xml、注解和Java Config到底选哪个](https://zhuanlan.zhihu.com/p/29938139)
 
 # 经验分享
 
