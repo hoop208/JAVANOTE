@@ -49,3 +49,5 @@
 [synchronized、锁、多线程同步的原理是咋样的](https://www.jianshu.com/p/5dbb07c8d5d5)
 
 [深入理解 Java 锁与线程阻塞](https://pqpo.me/2019/01/30/learn-java-lock-block/)
+
+[深入理解Java并发之synchronized实现原理](https://blog.csdn.net/javazejian/article/details/72828483)
