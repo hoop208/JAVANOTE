@@ -29,3 +29,5 @@
 
 [学习Spring之前要先学习什么？](https://zhuanlan.zhihu.com/p/64001753)
 
+[Spring 框架有哪些缺点？](https://www.zhihu.com/question/25255223/answer/31961636)
+
