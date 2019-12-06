@@ -34,6 +34,8 @@
 
 [这才是JAVA中打印日志的正确姿势](https://mp.weixin.qq.com/s/v3aF1zVwsP5g8KcuJFP4fQ)
 
+[Java提高篇——equals()方法和“==”运算符](https://mp.weixin.qq.com/s/qpBWYnHGsM61Orproko8dQ)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
