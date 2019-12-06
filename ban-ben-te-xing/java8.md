@@ -12,6 +12,8 @@
 
 [Java 8的这个新特性，你用了吗？](https://mp.weixin.qq.com/s/252Uay68lH39sGh80rnbGg)
 
+[Java 8：一文掌握 Lambda 表达式 | CSDN 博文精选](https://mp.weixin.qq.com/s/8k92CCGg9I6EAR7pAq698A)
+
 # Stream
 
 [菜鸟教程-Java 8 Stream](https://www.runoob.com/java/java8-streams.html)
