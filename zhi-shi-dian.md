@@ -32,6 +32,8 @@
 
 [Java finally 语句到底是在 return 之前还是之后执行？](https://mp.weixin.qq.com/s/MhEEJLvMrXvVXTohiEEDZA)
 
+[这才是JAVA中打印日志的正确姿势](https://mp.weixin.qq.com/s/v3aF1zVwsP5g8KcuJFP4fQ)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
