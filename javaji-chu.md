@@ -24,6 +24,8 @@
 
 [Thread和Runnable实现多线程的区别](https://github.com/francistao/LearningNotes/blob/master/Part2/JavaConcurrent/Thread%E5%92%8CRunnable%E5%AE%9E%E7%8E%B0%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 
+[为什么 Java 线程没有 Running 状态？一下被问懵！](https://mp.weixin.qq.com/s/4MYc3rzoJ_CqJqMcL25grA)
+
 # 线程池
 
 [Java线程池「异常处理」正确姿势：有病就得治](https://mp.weixin.qq.com/s/Lfe0hIDeHcAhvSCSiHt5sg)
