@@ -38,6 +38,8 @@
 
 [8 张图，看你是否理解 Java](https://mp.weixin.qq.com/s/xZ2_Wx953pZBSR0NLmbqnw)
 
+[char 搞明白了吗?](https://mp.weixin.qq.com/s/7DJs8Zrs3d3tjn4glARYsA)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
