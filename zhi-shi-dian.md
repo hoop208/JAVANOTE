@@ -66,6 +66,8 @@
 
 [框架开发之Java注解的妙用](https://www.jianshu.com/p/b560b30726d4)
 
+[Java 干货之深入理解String](https://mp.weixin.qq.com/s/L5HBaDJBLtyhuCeNaxBntQ)
+
 # javadoc
 
 [Javadoc 使用详解](https://blog.csdn.net/vbirdbest/article/details/80296136)
