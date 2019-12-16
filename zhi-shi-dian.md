@@ -36,6 +36,8 @@
 
 [Java提高篇——equals()方法和“==”运算符](https://mp.weixin.qq.com/s/qpBWYnHGsM61Orproko8dQ)
 
+[8 张图，看你是否理解 Java](https://mp.weixin.qq.com/s/xZ2_Wx953pZBSR0NLmbqnw)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
