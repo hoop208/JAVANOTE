@@ -90,6 +90,8 @@
 
 [【译】java8之lambda表达式](https://www.jianshu.com/p/3f16ecb28275)
 
+[匿名内部类的这几个骚操作，99% 的人都不知道！](https://mp.weixin.qq.com/s/qIpwEjRd2rYEze6KzC6o6Q)
+
 
 # 泛型
 
