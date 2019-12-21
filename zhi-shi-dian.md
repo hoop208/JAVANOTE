@@ -1,5 +1,7 @@
 # 其它
 
+[Java 开发者最困惑的四件事](https://mp.weixin.qq.com/s/7FETNRMoU42pEVOgVm-reQ)
+
 [一文读懂自动拆装箱](https://mp.weixin.qq.com/s/HLVl60H14s0WZyJSay-7bQ)
 
 [在Java 中安全使用接口引用](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872434&idx=1&sn=709ecf8d19a02fc6b8f8fa6f3647ada7&scene=19#wechat_redirect)
