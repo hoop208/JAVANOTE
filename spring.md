@@ -4,6 +4,8 @@
 
 [易百教程-springmvc](https://www.yiibai.com/spring_mvc/spring-mvc-tutorial-for-beginners.html)
 
+[社区 Spring Boot 从入门到进阶系列教程](http://www.spring4all.com/article/246)
+
 # 知识点
 
 [spring入门](https://www.liaoxuefeng.com/article/895887872094400)
