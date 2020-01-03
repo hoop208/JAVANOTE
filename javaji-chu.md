@@ -1,5 +1,7 @@
 # 知识点
 
+[深入理解 Java 并发核心机制，看完后好爽~](https://mp.weixin.qq.com/s/RXBAep1FI4bEP24-6-kW5A)
+
 [Java线程有哪些不太为人所知的技巧与用法？](https://mp.weixin.qq.com/s/gPhLRzLYY94Nu4WdqNjuHA)
 
 [忘掉什么鬼并发，先听完这个故事！](https://mp.weixin.qq.com/s/Hb8dq0Lqd7bA-2-b3c6Qjg)
