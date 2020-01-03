@@ -1,5 +1,7 @@
 # 知识点
 
+[忘掉什么鬼并发，先听完这个故事！](https://mp.weixin.qq.com/s/Hb8dq0Lqd7bA-2-b3c6Qjg)
+
 [Java中sleep()与wait()区别](https://blog.csdn.net/u012050154/article/details/50903326)
 
 [进程与线程的一个简单解释](http://www.ruanyifeng.com/blog/2013/04/processes_and_threads.html)
