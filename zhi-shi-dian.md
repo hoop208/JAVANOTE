@@ -1,5 +1,7 @@
 # 其它
 
+[Java中如何编写简洁代码？任何傻瓜都能写出让计算机理解的代码。优秀的程序员才会编写出人类能够理解的代码！](https://mp.weixin.qq.com/s/fsVuix9BVYfIO3gq9-tpwQ)
+
 [Java 开发者最困惑的四件事](https://mp.weixin.qq.com/s/7FETNRMoU42pEVOgVm-reQ)
 
 [一文读懂自动拆装箱](https://mp.weixin.qq.com/s/HLVl60H14s0WZyJSay-7bQ)
