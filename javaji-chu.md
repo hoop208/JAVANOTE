@@ -1,5 +1,7 @@
 # 知识点
 
+[Java线程有哪些不太为人所知的技巧与用法？](https://mp.weixin.qq.com/s/gPhLRzLYY94Nu4WdqNjuHA)
+
 [忘掉什么鬼并发，先听完这个故事！](https://mp.weixin.qq.com/s/Hb8dq0Lqd7bA-2-b3c6Qjg)
 
 [Java中sleep()与wait()区别](https://blog.csdn.net/u012050154/article/details/50903326)
