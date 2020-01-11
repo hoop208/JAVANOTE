@@ -48,6 +48,8 @@
 
 [不敢相信？System.currentTimeMillis() 居然存在性能问题](https://mp.weixin.qq.com/s/-NzUniIGIFpyKP3Fg82qrQ)
 
+[Java中处理异常的9条最佳实践！快看你有没有搞错！](https://mp.weixin.qq.com/s/eYT1cus0XtKCpBSED8PnaQ)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
