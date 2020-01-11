@@ -22,6 +22,8 @@
 
 [Java并发基础，不怕你看不懂！](https://mp.weixin.qq.com/s/qDhNySGzD3Dc4jsQei_Rwg)
 
+[谈谈Java任务的并行处理](https://mp.weixin.qq.com/s/TaO2Gg39P7E1tESJT8VXIg)
+
 # 线程
 
 [守护线程与阻塞线程的四种情况](https://github.com/francistao/LearningNotes/blob/master/Part2/JavaConcurrent/%E5%AE%88%E6%8A%A4%E7%BA%BF%E7%A8%8B%E4%B8%8E%E9%98%BB%E5%A1%9E%E7%BA%BF%E7%A8%8B.md)
