@@ -50,6 +50,8 @@
 
 [Java中处理异常的9条最佳实践！快看你有没有搞错！](https://mp.weixin.qq.com/s/eYT1cus0XtKCpBSED8PnaQ)
 
+[灵魂拷问：如何检查 Java 数组中是否包含某个值 ？](https://mp.weixin.qq.com/s/EDIgWHA00IrhzTP6e9DzAA)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
