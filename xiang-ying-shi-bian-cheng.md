@@ -50,6 +50,8 @@
 
 [All RxJava - 为Retrofit添加重试](https://juejin.im/entry/59c0c097f265da066563d058)
 
+[大佬们，一波RxJava 3.0来袭，请做好准备~](https://juejin.im/post/5d1eeffe6fb9a07f0870b4e8)
+
 # Rxbinding
 
 [RxBinding详解: 规范而强大的安卓UI响应式编程](https://www.jianshu.com/p/34cf96b72102)
