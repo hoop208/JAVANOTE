@@ -10,6 +10,10 @@
 
 [Introduction to RxRelay for RxJava](https://www.baeldung.com/rx-relay)
 
+# 书
+
+java编程方法论:响应式rxjava与代码设计实现(京东读书)
+
 # Rxbus
 
 [RxBus在rxjava2.0 的基本使用](https://blog.csdn.net/donkor_/article/details/79709366)
