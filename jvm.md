@@ -8,4 +8,6 @@
 
 # 文档
 
-[深入理解 Java 虚拟机](https://www.w3cschool.cn/javavm/)
+[wc-深入理解 Java 虚拟机](https://www.w3cschool.cn/javavm/)
+
+[极客学院-深入理解 Java 虚拟机](https://wiki.jikexueyuan.com/project/java-vm/)
