@@ -135,3 +135,5 @@
 
 [轻松学，Java 中的代理模式及动态代理](https://frank909.blog.csdn.net/article/details/73928350)
 
+[Java JDK 动态代理（AOP）使用及实现原理分析](https://mp.weixin.qq.com/s/FXw3XS7fDl1rCrRrPi4Dvw)
+
