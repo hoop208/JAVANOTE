@@ -133,3 +133,5 @@
 
 [Java动态代理](https://juejin.im/post/5ad3e6b36fb9a028ba1fee6a)
 
+[轻松学，Java 中的代理模式及动态代理](https://frank909.blog.csdn.net/article/details/73928350)
+
