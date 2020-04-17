@@ -129,4 +129,5 @@
 
 [Java 动态代理作用是什么？](https://www.zhihu.com/question/20794107)
 
+[java的动态代理机制详解](https://www.cnblogs.com/xiaoluo501395377/p/3383130.html)
 
