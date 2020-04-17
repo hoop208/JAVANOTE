@@ -131,3 +131,5 @@
 
 [java的动态代理机制详解](https://www.cnblogs.com/xiaoluo501395377/p/3383130.html)
 
+[Java动态代理](https://juejin.im/post/5ad3e6b36fb9a028ba1fee6a)
+
