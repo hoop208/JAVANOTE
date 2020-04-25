@@ -68,3 +68,5 @@
 [Java中 CopyOnWriteArrayList 的使用](https://blog.csdn.net/imzoer/article/details/9751591)
 
 [ArrayList和CopyOnWriteArrayList](https://www.cnblogs.com/simple-focus/p/7439919.html)
+
+[CopyOnWriteArrayList详解](https://my.oschina.net/jielucky/blog/167198)
