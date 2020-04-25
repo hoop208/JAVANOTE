@@ -137,9 +137,3 @@
 
 [Java JDK 动态代理（AOP）使用及实现原理分析](https://mp.weixin.qq.com/s/FXw3XS7fDl1rCrRrPi4Dvw)
 
-# 序列化
-
-[Java中的关键字 transient](https://www.cnblogs.com/chenpi/p/6185773.html)
-
-[Java transient关键字使用小记](https://www.cnblogs.com/lanxuezaipiao/p/3369962.html)
-

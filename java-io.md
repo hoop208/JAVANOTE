@@ -19,3 +19,9 @@
 # NIO
 
 [极客学院-javanio指南](http://wiki.jikexueyuan.com/project/java-nio/overview.html)
+
+# 序列化
+
+[Java中的关键字 transient](https://www.cnblogs.com/chenpi/p/6185773.html)
+
+[Java transient关键字使用小记](https://www.cnblogs.com/lanxuezaipiao/p/3369962.html)
