@@ -63,3 +63,5 @@
 
 [CopyOnWriteArrayList详解](https://www.cnblogs.com/myseries/p/10877420.html)
 
+[CopyOnWriteArrayList](https://www.jianshu.com/p/9b6a4d0b94ac)
+
