@@ -65,3 +65,4 @@
 
 [CopyOnWriteArrayList](https://www.jianshu.com/p/9b6a4d0b94ac)
 
+[Java中 CopyOnWriteArrayList 的使用](https://blog.csdn.net/imzoer/article/details/9751591)
