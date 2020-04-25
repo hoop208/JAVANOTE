@@ -26,4 +26,6 @@
 
 [Java 序列化的高级认识](https://www.ibm.com/developerworks/cn/java/j-lo-serial/index.html)
 
+[序列化--Serializable与Parcelable](https://juejin.im/post/58eb9d59ac502e4957cf1337)
+
 
