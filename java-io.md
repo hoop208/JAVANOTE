@@ -30,4 +30,6 @@
 
 [Serializable 和 Parcelable 的再次回忆](https://juejin.im/entry/5815cd86570c3500606c7130)
 
+[Serializable 都这么牛逼了，Parcelable，我还要你何用](https://juejin.im/post/5a24fd8151882531ea651c37)
+
 
