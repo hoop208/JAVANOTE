@@ -28,4 +28,6 @@
 
 [序列化--Serializable与Parcelable](https://juejin.im/post/58eb9d59ac502e4957cf1337)
 
+[Serializable 和 Parcelable 的再次回忆](https://juejin.im/entry/5815cd86570c3500606c7130)
+
 
