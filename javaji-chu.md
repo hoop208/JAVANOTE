@@ -60,6 +60,8 @@ java并发编程的艺术(京东读书)
 
 [深入理解 Java 线程池：ThreadPoolExecutor](https://juejin.im/entry/58fada5d570c350058d3aaad)
 
+[Android开发之线程池使用总结](https://blog.csdn.net/u012702547/article/details/52259529)
+
 # syncronize
 
 [Java线程同步：synchronized锁住的是代码还是对象](https://blog.csdn.net/xiao__gui/article/details/8188833)
