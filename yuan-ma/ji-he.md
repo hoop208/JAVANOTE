@@ -59,3 +59,7 @@
 
 [LinkedList的局限](http://jm.taobao.org/2010/09/16/322/)
 
+# CopyOnWriteArrayList
+
+[CopyOnWriteArrayList详解](https://www.cnblogs.com/myseries/p/10877420.html)
+
