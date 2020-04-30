@@ -45,6 +45,8 @@
 
 [【Java集合系列】---ArrayList](https://zhuanlan.zhihu.com/p/24247566)
 
+[ArrayList集合为什么不能使用foreach增删改？](https://mp.weixin.qq.com/s/yISMOS5rOSlgNsgKRP7aTA)
+
 # LinkedList
 
 [Java 集合系列05之 LinkedList详细介绍(源码解析)和使用示例](https://www.cnblogs.com/skywang12345/p/3308807.html)
