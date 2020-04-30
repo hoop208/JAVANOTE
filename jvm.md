@@ -11,3 +11,7 @@
 [wc-深入理解 Java 虚拟机](https://www.w3cschool.cn/javavm/)
 
 [极客学院-深入理解 Java 虚拟机](https://wiki.jikexueyuan.com/project/java-vm/)
+
+# 类加载器
+
+[你知道 Java 类是如何被加载的吗？](https://mp.weixin.qq.com/s/QoDuR3_aeqylMioNQuDh6Q)
