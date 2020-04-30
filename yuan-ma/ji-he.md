@@ -16,6 +16,8 @@
 
 [Java数组转List的三种方式及对比](https://blog.csdn.net/x541211190/article/details/79597236)
 
+[HashSet的秘密](https://zhuanlan.zhihu.com/p/29021276)
+
 # hashmap
 
 [HashMap深度分析](https://www.jianshu.com/p/8b372f3a195d)
