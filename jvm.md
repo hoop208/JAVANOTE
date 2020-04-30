@@ -15,3 +15,5 @@
 # 类加载器
 
 [你知道 Java 类是如何被加载的吗？](https://mp.weixin.qq.com/s/QoDuR3_aeqylMioNQuDh6Q)
+
+[你有真正理解 Java 的类加载机制吗？| 原力计划](https://mp.weixin.qq.com/s/pU-yPiO2F5lBcaxcV0lS5g)
