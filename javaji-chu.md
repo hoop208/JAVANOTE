@@ -10,17 +10,9 @@ java并发编程的艺术(京东读书)
 
 [深入理解 Java 并发核心机制，看完后好爽~](https://mp.weixin.qq.com/s/RXBAep1FI4bEP24-6-kW5A)
 
-[Java线程有哪些不太为人所知的技巧与用法？](https://mp.weixin.qq.com/s/gPhLRzLYY94Nu4WdqNjuHA)
-
 [忘掉什么鬼并发，先听完这个故事！](https://mp.weixin.qq.com/s/Hb8dq0Lqd7bA-2-b3c6Qjg)
 
 [Java中sleep()与wait()区别](https://blog.csdn.net/u012050154/article/details/50903326)
-
-[进程与线程的一个简单解释](http://www.ruanyifeng.com/blog/2013/04/processes_and_threads.html)
-
-[腾讯面试题04.进程和线程的区别？](https://blog.csdn.net/mxsgoden/article/details/8821936)
-
-[图解 Java 线程安全](https://juejin.im/post/5d2c97bff265da1bc552954b)
 
 [生产者和消费者问题](https://github.com/francistao/LearningNotes/blob/master/Part2/JavaConcurrent/%E7%94%9F%E4%BA%A7%E8%80%85%E5%92%8C%E6%B6%88%E8%B4%B9%E8%80%85%E9%97%AE%E9%A2%98.md)
 
@@ -37,6 +29,14 @@ java并发编程的艺术(京东读书)
 [那些常见的并发模型相关知识](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247485265&idx=1&sn=5dbe59ef48ad8fb72d5358f65fcac8cb&chksm=a69daa6f91ea23792690a293bb8db6100d41ff74fd7a2d81aa2be947f394c0b11998dd11a9f3&token=1451689666&lang=zh_CN#rd)
 
 # 线程
+
+[进程与线程的一个简单解释](http://www.ruanyifeng.com/blog/2013/04/processes_and_threads.html)
+
+[腾讯面试题04.进程和线程的区别？](https://blog.csdn.net/mxsgoden/article/details/8821936)
+
+[图解 Java 线程安全](https://juejin.im/post/5d2c97bff265da1bc552954b)
+
+[Java线程有哪些不太为人所知的技巧与用法？](https://mp.weixin.qq.com/s/gPhLRzLYY94Nu4WdqNjuHA)
 
 [守护线程与阻塞线程的四种情况](https://github.com/francistao/LearningNotes/blob/master/Part2/JavaConcurrent/%E5%AE%88%E6%8A%A4%E7%BA%BF%E7%A8%8B%E4%B8%8E%E9%98%BB%E5%A1%9E%E7%BA%BF%E7%A8%8B.md)
 
