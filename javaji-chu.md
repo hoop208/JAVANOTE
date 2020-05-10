@@ -50,6 +50,8 @@ java并发编程的艺术(京东读书)
 
 [Java 线程的 5 个使用技巧](https://mp.weixin.qq.com/s/luvM8yiWqnfTYj2HMsSohw)
 
+[浅析几种线程安全模型](https://mp.weixin.qq.com/s/XE2rZZa-T_qI1anZV3uT8g)
+
 # 线程池
 
 [Java线程池「异常处理」正确姿势：有病就得治](https://mp.weixin.qq.com/s/Lfe0hIDeHcAhvSCSiHt5sg)
