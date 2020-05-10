@@ -46,6 +46,8 @@ java并发编程的艺术(京东读书)
 
 [为什么 Java 线程没有 Running 状态？一下被问懵！](https://mp.weixin.qq.com/s/4MYc3rzoJ_CqJqMcL25grA)
 
+[线程最最基础的知识](https://mp.weixin.qq.com/s/8oMGJFEEy6L1hFcrIcKhaA)
+
 # 线程池
 
 [Java线程池「异常处理」正确姿势：有病就得治](https://mp.weixin.qq.com/s/Lfe0hIDeHcAhvSCSiHt5sg)
