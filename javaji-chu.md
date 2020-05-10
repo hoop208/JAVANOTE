@@ -34,6 +34,8 @@ java并发编程的艺术(京东读书)
 
 [Java ThreadLocal的使用](http://ifeve.com/java-threadlocal%E7%9A%84%E4%BD%BF%E7%94%A8/)
 
+[那些常见的并发模型相关知识](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247485265&idx=1&sn=5dbe59ef48ad8fb72d5358f65fcac8cb&chksm=a69daa6f91ea23792690a293bb8db6100d41ff74fd7a2d81aa2be947f394c0b11998dd11a9f3&token=1451689666&lang=zh_CN#rd)
+
 # 线程
 
 [守护线程与阻塞线程的四种情况](https://github.com/francistao/LearningNotes/blob/master/Part2/JavaConcurrent/%E5%AE%88%E6%8A%A4%E7%BA%BF%E7%A8%8B%E4%B8%8E%E9%98%BB%E5%A1%9E%E7%BA%BF%E7%A8%8B.md)
