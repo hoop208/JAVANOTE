@@ -80,6 +80,8 @@ java并发编程的艺术(京东读书)
 
 [深入理解Java并发之synchronized实现原理](https://blog.csdn.net/javazejian/article/details/72828483)
 
+[深入并发锁，解析Synchronized锁升级](https://segmentfault.com/a/1190000021711242)
+
 # kafka
 
 [w3c-Apache Kafka 概述](https://www.w3cschool.cn/apache_kafka/apache_kafka_introduction.html)
