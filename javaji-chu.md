@@ -95,6 +95,8 @@ java并发编程的艺术(京东读书)
 
 # syncronize
 
+使用
+
 [Java线程同步：synchronized锁住的是代码还是对象](https://blog.csdn.net/xiao__gui/article/details/8188833)
 
 [Java synchronized 多线程同步问题详解](https://segmentfault.com/a/1190000009225706)
@@ -110,6 +112,10 @@ java并发编程的艺术(京东读书)
 [深入理解Java并发之synchronized实现原理](https://blog.csdn.net/javazejian/article/details/72828483)
 
 [深入并发锁，解析Synchronized锁升级](https://segmentfault.com/a/1190000021711242)
+
+原理
+
+[Java同步机制的底层实现](https://segmentfault.com/a/1190000019296548)
 
 # atomic相关
 
