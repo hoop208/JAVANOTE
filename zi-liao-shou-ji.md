@@ -40,6 +40,8 @@
 
 [国内外知名的 Java 学习网站有哪些？](https://mp.weixin.qq.com/s/EHBmwy3Lm-eETgdyMcBaKw)
 
+[成为专业程序员路上用到的各种优秀资料、神器及框架](https://github.com/stanzhai/be-a-professional-programmer)
+
 # 文档
 
 
