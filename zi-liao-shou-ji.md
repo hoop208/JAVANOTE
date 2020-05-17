@@ -36,6 +36,8 @@
 
 [菜鸟教程-java教程](https://www.runoob.com/java/java-tutorial.html)
 
+[Resources for writing modern Java](https://github.com/cxxr/better-java)
+
 # 经验分享
 
 [国内外知名的 Java 学习网站有哪些？](https://mp.weixin.qq.com/s/EHBmwy3Lm-eETgdyMcBaKw)
