@@ -39,6 +39,8 @@ java并发编程的艺术(京东读书)
 
 [关于线程和I/O模型的极简知识](https://mp.weixin.qq.com/s/qodCngOPXGSaaBy2ULAgqg)
 
+[Java线程安全策略与多线程并发最佳实践](https://www.jianshu.com/p/965f324b8d74?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 # 线程
 
 [进程与线程的一个简单解释](http://www.ruanyifeng.com/blog/2013/04/processes_and_threads.html)
