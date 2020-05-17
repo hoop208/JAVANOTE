@@ -39,6 +39,8 @@ java并发编程的艺术(京东读书)
 
 [Java并发编程：Callable、Future和FutureTask](https://www.cnblogs.com/dolphin0520/p/3949310.html)
 
+[关于线程和I/O模型的极简知识](https://mp.weixin.qq.com/s/qodCngOPXGSaaBy2ULAgqg)
+
 # 线程
 
 [进程与线程的一个简单解释](http://www.ruanyifeng.com/blog/2013/04/processes_and_threads.html)
