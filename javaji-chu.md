@@ -41,13 +41,10 @@ java并发编程的艺术(京东读书)
 
 [Java线程安全策略与多线程并发最佳实践](https://www.jianshu.com/p/965f324b8d74?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-[Java 并发专题 ： Timer的缺陷 用ScheduledExecutorService替代](https://blog.csdn.net/lmj623565791/article/details/27109467)
-
-[Java 并发专题 ： CyclicBarrier 打造一个安全的门禁系统](https://blog.csdn.net/lmj623565791/article/details/26829117)
-
-[Java 并发专题 ：FutureTask 实现预加载数据 在线看电子书、浏览器浏览网页等](https://blog.csdn.net/lmj623565791/article/details/26817403)
-
-[Java 并发专题 ： Semaphore 实现 互斥 与 连接池](https://blog.csdn.net/lmj623565791/article/details/26810813)
+[Java 并发专题 ： Timer的缺陷 用ScheduledExecutorService替代](https://blog.csdn.net/lmj623565791/article/details/27109467)  
+[Java 并发专题 ： CyclicBarrier 打造一个安全的门禁系统](https://blog.csdn.net/lmj623565791/article/details/26829117)  
+[Java 并发专题 ：FutureTask 实现预加载数据 在线看电子书、浏览器浏览网页等](https://blog.csdn.net/lmj623565791/article/details/26817403)  
+[Java 并发专题 ： Semaphore 实现 互斥 与 连接池](https://blog.csdn.net/lmj623565791/article/details/26810813)  
 
 # 线程
 
