@@ -31,6 +31,8 @@ java并发编程的艺术(京东读书)
 [高并发编程学习(1)——并发基础](https://mp.weixin.qq.com/s/gFQowVpBWUtiE-caTCGSyA)  
 [高并发编程学习(2)——线程通信详解](https://mp.weixin.qq.com/s/efBpMT-6RK6q4XvMVtH1yQ)
 
+[大白话搞懂什么是同步/异步/阻塞/非阻塞](https://mp.weixin.qq.com/s/TW82I31CVRbKOwJGnTTP8A)
+
 # 线程
 
 [进程与线程的一个简单解释](http://www.ruanyifeng.com/blog/2013/04/processes_and_threads.html)
