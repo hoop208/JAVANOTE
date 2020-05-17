@@ -67,8 +67,6 @@ java并发编程的艺术(京东读书)
 
 [Java Thread.join()等待线程](http://www.51gjie.com/java/718.html)
 
-
-
 # 线程池
 
 使用
