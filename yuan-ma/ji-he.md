@@ -35,6 +35,8 @@
 [Map 综述（三）：彻头彻尾理解 ConcurrentHashMap](https://blog.csdn.net/justloveyou_/article/details/72783008)
 [Map 综述（四）：彻头彻尾理解 HashTable](https://blog.csdn.net/justloveyou_/article/details/72862373)
 
+[用漫画告诉你—什么是HashMap？](https://zhuanlan.zhihu.com/p/78079598)
+
 # ArrayList
 
 [Java 集合系列03之 ArrayList详细介绍(源码解析)和使用示例](https://www.cnblogs.com/skywang12345/p/3308556.html)
