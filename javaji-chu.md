@@ -93,6 +93,8 @@ java并发编程的艺术(京东读书)
 
 [分析源码，线程池的正确用法你知道吗？](https://mp.weixin.qq.com/s/oZA_ct1uiZRBR6hECxBpeA)
 
+[Java 并发编程 -- 线程池源码实战](https://mp.weixin.qq.com/s/N2KTqNMx1nKLDtrVu9ewTw)
+
 # syncronize
 
 使用
