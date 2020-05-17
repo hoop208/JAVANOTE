@@ -118,8 +118,6 @@ java并发编程的艺术(京东读书)
 [且听我一个故事讲透一个锁原理之synchronized](https://mp.weixin.qq.com/s/i1jtqQcP7kz5uS86GZ6Lgg)
 
 
-
-
 # atomic相关
 
 [Java中的Atomic包使用指南](http://ifeve.com/java-atomic/)
