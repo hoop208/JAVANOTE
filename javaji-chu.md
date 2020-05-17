@@ -81,6 +81,8 @@ java并发编程的艺术(京东读书)
 
 [Android开发之线程池使用总结](https://blog.csdn.net/u012702547/article/details/52259529)
 
+[线程池开门营业招聘开发人员的一天](https://mp.weixin.qq.com/s/RLrgrQYWqm2EvBx6HfsAaQ)
+
 源码
 
 [分析源码，线程池的正确用法你知道吗？](https://mp.weixin.qq.com/s/oZA_ct1uiZRBR6hECxBpeA)
