@@ -33,6 +33,8 @@ java并发编程的艺术(京东读书)
 
 [大白话搞懂什么是同步/异步/阻塞/非阻塞](https://mp.weixin.qq.com/s/TW82I31CVRbKOwJGnTTP8A)
 
+[原创 | 灵魂拷问：Java对象的内存分配过程是如何保证线程安全的？](https://mp.weixin.qq.com/s/kCGYWuWORDW1oCECIHRV7A)
+
 # 线程
 
 [进程与线程的一个简单解释](http://www.ruanyifeng.com/blog/2013/04/processes_and_threads.html)
