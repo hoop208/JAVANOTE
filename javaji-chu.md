@@ -47,6 +47,8 @@ java并发编程的艺术(京东读书)
 
 [Java 并发专题 ：FutureTask 实现预加载数据 在线看电子书、浏览器浏览网页等](https://blog.csdn.net/lmj623565791/article/details/26817403)
 
+[Java 并发专题 ： Semaphore 实现 互斥 与 连接池](https://blog.csdn.net/lmj623565791/article/details/26810813)
+
 # 线程
 
 [进程与线程的一个简单解释](http://www.ruanyifeng.com/blog/2013/04/processes_and_threads.html)
