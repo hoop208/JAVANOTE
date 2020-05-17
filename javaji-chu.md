@@ -28,7 +28,8 @@ java并发编程的艺术(京东读书)
 
 [那些常见的并发模型相关知识](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247485265&idx=1&sn=5dbe59ef48ad8fb72d5358f65fcac8cb&chksm=a69daa6f91ea23792690a293bb8db6100d41ff74fd7a2d81aa2be947f394c0b11998dd11a9f3&token=1451689666&lang=zh_CN#rd)
 
-[高并发编程学习(1)——并发基础](https://mp.weixin.qq.com/s/gFQowVpBWUtiE-caTCGSyA)
+[高并发编程学习(1)——并发基础](https://mp.weixin.qq.com/s/gFQowVpBWUtiE-caTCGSyA)  
+[高并发编程学习(2)——线程通信详解](https://mp.weixin.qq.com/s/efBpMT-6RK6q4XvMVtH1yQ)
 
 # 线程
 
