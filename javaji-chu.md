@@ -109,6 +109,10 @@ java并发编程的艺术(京东读书)
 
 [深入并发锁，解析Synchronized锁升级](https://segmentfault.com/a/1190000021711242)
 
+# atomic相关
+
+[Java中的Atomic包使用指南](http://ifeve.com/java-atomic/)
+
 # kafka
 
 [w3c-Apache Kafka 概述](https://www.w3cschool.cn/apache_kafka/apache_kafka_introduction.html)
