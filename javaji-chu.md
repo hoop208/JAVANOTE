@@ -18,8 +18,6 @@ java并发编程的艺术(京东读书)
 
 [java并发编程的艺术](https://www.infoq.cn/profile/1277812)
 
-[Java Thread.join()等待线程](http://www.51gjie.com/java/718.html)
-
 [Java并发基础，不怕你看不懂！](https://mp.weixin.qq.com/s/qDhNySGzD3Dc4jsQei_Rwg)
 
 [谈谈Java任务的并行处理](https://mp.weixin.qq.com/s/TaO2Gg39P7E1tESJT8VXIg)
@@ -66,6 +64,10 @@ java并发编程的艺术(京东读书)
 [浅析几种线程安全模型](https://mp.weixin.qq.com/s/XE2rZZa-T_qI1anZV3uT8g)
 
 [Java 线程基础，从这篇开始](https://ytao.top/2020/04/19/22-thread-base/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[Java Thread.join()等待线程](http://www.51gjie.com/java/718.html)
+
+
 
 # 线程池
 
