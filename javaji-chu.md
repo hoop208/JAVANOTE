@@ -103,19 +103,22 @@ java并发编程的艺术(京东读书)
 
 [java synchronized详解](https://www.cnblogs.com/GnagWang/archive/2011/02/27/1966606.html)
 
-[且听我一个故事讲透一个锁原理之synchronized](https://mp.weixin.qq.com/s/i1jtqQcP7kz5uS86GZ6Lgg)
-
 [synchronized、锁、多线程同步的原理是咋样的](https://www.jianshu.com/p/5dbb07c8d5d5)
 
 [深入理解 Java 锁与线程阻塞](https://pqpo.me/2019/01/30/learn-java-lock-block/)
-
-[深入理解Java并发之synchronized实现原理](https://blog.csdn.net/javazejian/article/details/72828483)
 
 [深入并发锁，解析Synchronized锁升级](https://segmentfault.com/a/1190000021711242)
 
 原理
 
 [Java同步机制的底层实现](https://segmentfault.com/a/1190000019296548)
+
+[深入理解Java并发之synchronized实现原理](https://blog.csdn.net/javazejian/article/details/72828483)
+
+[且听我一个故事讲透一个锁原理之synchronized](https://mp.weixin.qq.com/s/i1jtqQcP7kz5uS86GZ6Lgg)
+
+
+
 
 # atomic相关
 
