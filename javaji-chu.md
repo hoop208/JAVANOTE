@@ -37,6 +37,8 @@ java并发编程的艺术(京东读书)
 
 [使用Java的Callable接口运行线程](https://www.iteye.com/blog/tonl-1874187)
 
+[Java并发编程：Callable、Future和FutureTask](https://www.cnblogs.com/dolphin0520/p/3949310.html)
+
 # 线程
 
 [进程与线程的一个简单解释](http://www.ruanyifeng.com/blog/2013/04/processes_and_threads.html)
