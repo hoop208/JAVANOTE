@@ -162,6 +162,8 @@ java并发编程的艺术(京东读书)
 
 [Java并发编程：volatile关键字解析](https://www.cnblogs.com/dolphin0520/p/3920373.html)
 
+[正确使用 Volatile 变量](https://www.ibm.com/developerworks/cn/java/j-jtp06197.html)
+
 # atomic相关
 
 [Java中的Atomic包使用指南](http://ifeve.com/java-atomic/)
