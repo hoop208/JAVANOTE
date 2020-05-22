@@ -37,6 +37,7 @@ java并发编程的艺术(京东读书)
 [Java 并发专题 ： CyclicBarrier 打造一个安全的门禁系统](https://blog.csdn.net/lmj623565791/article/details/26829117)  
 [Java 并发专题 ：FutureTask 实现预加载数据 在线看电子书、浏览器浏览网页等](https://blog.csdn.net/lmj623565791/article/details/26817403)  
 [Java 并发专题 ： Semaphore 实现 互斥 与 连接池](https://blog.csdn.net/lmj623565791/article/details/26810813)  
+[Java 并发专题 ：闭锁 CountDownLatch 之一家人一起吃个饭](https://blog.csdn.net/lmj623565791/article/details/26626391)  
 
 [JAVA并发编程与实践](https://rdc.hundsun.com/portal/article/954.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
@@ -69,8 +70,6 @@ callable&future:
 [不懂什么是锁？看看这篇你就明白了](https://segmentfault.com/a/1190000021307302)
 
 [深入 Java Lock 锁](https://mp.weixin.qq.com/s/27z4mD-fnWYgdYlnD4ZJhw)
-
-[Java 并发专题 ：闭锁 CountDownLatch 之一家人一起吃个饭](https://blog.csdn.net/lmj623565791/article/details/26626391)
 
 [同步锁基本原理与实现，看这篇就够了！](https://mp.weixin.qq.com/s/izhT-GiGwwSLmOk1m5T_oQ)
 
