@@ -153,6 +153,10 @@ java并发编程的艺术(京东读书)
 
 [Java并发编程：阻塞队列](https://www.cnblogs.com/dolphin0520/p/3932906.html)
 
+# 锁
+
+[不懂什么是锁？看看这篇你就明白了](https://segmentfault.com/a/1190000021307302)
+
 # kafka
 
 [w3c-Apache Kafka 概述](https://www.w3cschool.cn/apache_kafka/apache_kafka_introduction.html)
