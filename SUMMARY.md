@@ -7,6 +7,7 @@
   * [线程](javaji-chu/xian-cheng.md)
   * [syncronize](javaji-chu/syncronize.md)
   * [线程池](javaji-chu/xian-cheng-chi.md)
+  * [锁](javaji-chu/suo.md)
 * [知识点](zhi-shi-dian.md)
 * [资料收集](zi-liao-shou-ji.md)
 * [spring](spring.md)
