@@ -156,6 +156,9 @@ java并发编程的艺术(京东读书)
 
 [死磕Synchronized底层实现](https://mp.weixin.qq.com/s/C8i-Xsn7M_L8sEFmE0SN1g)
 
+# volatile
+
+[既生synchronized，何生volatil](https://www.hollischuang.com/archives/3928?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 # atomic相关
 
