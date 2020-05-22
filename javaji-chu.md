@@ -110,6 +110,8 @@ java并发编程的艺术(京东读书)
 
 [Java 并发编程 -- 线程池源码实战](https://mp.weixin.qq.com/s/N2KTqNMx1nKLDtrVu9ewTw)
 
+[深入理解 Java 线程池，讲解的太清晰了](https://mp.weixin.qq.com/s/-_sW-5CQVhFMk5UqHQhg3A)
+
 # syncronize
 
 使用
