@@ -50,6 +50,8 @@ java并发编程的艺术(京东读书)
 
 [JAVA多线程使用场景和注意事项简版](https://mp.weixin.qq.com/s/d9zHIXsSA8olmNA89kpHvQ)
 
+[深入理解 Java 之 FutureTask 和 Callable](https://allenwu.itscoder.com/java-futuretask)
+
 # 线程
 
 [进程与线程的一个简单解释](http://www.ruanyifeng.com/blog/2013/04/processes_and_threads.html)
