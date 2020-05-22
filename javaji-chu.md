@@ -56,6 +56,8 @@ java并发编程的艺术(京东读书)
 
 [浅谈Java Future](https://zhuanlan.zhihu.com/p/42682411)
 
+[JAVA Future类详解](https://blog.csdn.net/u014209205/article/details/80598209)
+
 # 线程
 
 [进程与线程的一个简单解释](http://www.ruanyifeng.com/blog/2013/04/processes_and_threads.html)
