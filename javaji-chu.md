@@ -169,6 +169,8 @@ java并发编程的艺术(京东读书)
 
 [同步锁基本原理与实现，看这篇就够了！](https://mp.weixin.qq.com/s/izhT-GiGwwSLmOk1m5T_oQ)
 
+[Java中的锁，你真的了解了嘛？](https://mp.weixin.qq.com/s/1mmEUZEIec4i7sJFlfqMJw)
+
 # kafka
 
 [w3c-Apache Kafka 概述](https://www.w3cschool.cn/apache_kafka/apache_kafka_introduction.html)
