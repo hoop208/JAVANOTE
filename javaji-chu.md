@@ -194,6 +194,8 @@ java并发编程的艺术(京东读书)
 
 [ThreadLocal源码完美解读](https://mp.weixin.qq.com/s/mdn5F0Gz9-Ce6-21Z20QxQ)
 
+[深入理解Object提供的阻塞和唤醒API](https://www.throwable.club/2019/04/30/java-object-wait-notify/#Object%E6%8F%90%E4%BE%9B%E7%9A%84%E9%98%BB%E5%A1%9E%E5%92%8C%E5%94%A4%E9%86%92API)
+
 # kafka
 
 [w3c-Apache Kafka 概述](https://www.w3cschool.cn/apache_kafka/apache_kafka_introduction.html)
