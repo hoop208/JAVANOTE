@@ -163,6 +163,8 @@ java并发编程的艺术(京东读书)
 
 [深入 Java Lock 锁](https://mp.weixin.qq.com/s/27z4mD-fnWYgdYlnD4ZJhw)
 
+[Java 并发专题 ：闭锁 CountDownLatch 之一家人一起吃个饭](https://blog.csdn.net/lmj623565791/article/details/26626391)
+
 # kafka
 
 [w3c-Apache Kafka 概述](https://www.w3cschool.cn/apache_kafka/apache_kafka_introduction.html)
