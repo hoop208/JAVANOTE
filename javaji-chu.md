@@ -116,6 +116,8 @@ java并发编程的艺术(京东读书)
 
 [从源码的角度解析线程池运行原理](https://mp.weixin.qq.com/s/2pspUsnFOXDNVfcB_tj22w)
 
+[深入分析java线程池的实现原理](https://www.jianshu.com/p/87bff5cc8d8c)
+
 # syncronize
 
 使用
