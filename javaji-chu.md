@@ -165,6 +165,8 @@ java并发编程的艺术(京东读书)
 
 [Java 并发专题 ：闭锁 CountDownLatch 之一家人一起吃个饭](https://blog.csdn.net/lmj623565791/article/details/26626391)
 
+[同步锁基本原理与实现，看这篇就够了！](https://mp.weixin.qq.com/s/izhT-GiGwwSLmOk1m5T_oQ)
+
 # kafka
 
 [w3c-Apache Kafka 概述](https://www.w3cschool.cn/apache_kafka/apache_kafka_introduction.html)
