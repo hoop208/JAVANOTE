@@ -52,6 +52,8 @@ java并发编程的艺术(京东读书)
 
 [深入理解 Java 之 FutureTask 和 Callable](https://allenwu.itscoder.com/java-futuretask)
 
+[Java多线程 - Future模式](https://www.jianshu.com/p/949d44f3d9e3)
+
 # 线程
 
 [进程与线程的一个简单解释](http://www.ruanyifeng.com/blog/2013/04/processes_and_threads.html)
