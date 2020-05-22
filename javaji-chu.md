@@ -160,6 +160,8 @@ java并发编程的艺术(京东读书)
 
 [既生synchronized，何生volatil](https://www.hollischuang.com/archives/3928?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[Java并发编程：volatile关键字解析](https://www.cnblogs.com/dolphin0520/p/3920373.html)
+
 # atomic相关
 
 [Java中的Atomic包使用指南](http://ifeve.com/java-atomic/)
