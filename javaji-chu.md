@@ -188,6 +188,8 @@ java并发编程的艺术(京东读书)
 
 [使用 ThreadLocal 一次解决老大难问题](https://mp.weixin.qq.com/s/eRxGPIoUbijYot2uqulVGQ)
 
+[理解Java中的ThreadLocal](https://droidyue.com/blog/2016/03/13/learning-threadlocal-in-java/)
+
 # kafka
 
 [w3c-Apache Kafka 概述](https://www.w3cschool.cn/apache_kafka/apache_kafka_introduction.html)
