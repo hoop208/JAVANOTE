@@ -32,4 +32,7 @@
 
 [为什么说“除非深思熟虑，尽量使用 notifyAll()”？](https://mp.weixin.qq.com/s/b5Nnqh64Qx_Tet9m1OqJbg)
 
+[Java中sleep()与wait()区别](https://blog.csdn.net/u012050154/article/details/50903326)
+
+
 
