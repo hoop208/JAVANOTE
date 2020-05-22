@@ -192,6 +192,8 @@ java并发编程的艺术(京东读书)
 
 [Java进阶（七）正确理解Thread Local的原理与适用场景](http://www.jasongj.com/java/threadlocal/)
 
+[ThreadLocal源码完美解读](https://mp.weixin.qq.com/s/mdn5F0Gz9-Ce6-21Z20QxQ)
+
 # kafka
 
 [w3c-Apache Kafka 概述](https://www.w3cschool.cn/apache_kafka/apache_kafka_introduction.html)
