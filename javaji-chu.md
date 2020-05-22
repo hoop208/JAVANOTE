@@ -80,6 +80,8 @@ java并发编程的艺术(京东读书)
 
 [(四)Thread.join的作用和原理](https://segmentfault.com/a/1190000017255019)
 
+[Java多线程系列--“基础篇”08之 join()](https://www.cnblogs.com/skywang12345/p/3479275.html)
+
 # 线程池
 
 使用
