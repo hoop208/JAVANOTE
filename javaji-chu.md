@@ -92,6 +92,8 @@ java并发编程的艺术(京东读书)
 
 [深入理解Object提供的阻塞和唤醒API](https://www.throwable.club/2019/04/30/java-object-wait-notify/#Object%E6%8F%90%E4%BE%9B%E7%9A%84%E9%98%BB%E5%A1%9E%E5%92%8C%E5%94%A4%E9%86%92API)
 
+[为什么说“除非深思熟虑，尽量使用 notifyAll()”？](https://mp.weixin.qq.com/s/b5Nnqh64Qx_Tet9m1OqJbg)
+
 # 线程池
 
 使用
