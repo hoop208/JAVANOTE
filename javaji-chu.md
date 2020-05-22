@@ -20,8 +20,6 @@ java并发编程的艺术(京东读书)
 
 [谈谈Java任务的并行处理](https://mp.weixin.qq.com/s/TaO2Gg39P7E1tESJT8VXIg)
 
-[Java ThreadLocal的使用](http://ifeve.com/java-threadlocal%E7%9A%84%E4%BD%BF%E7%94%A8/)
-
 [那些常见的并发模型相关知识](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247485265&idx=1&sn=5dbe59ef48ad8fb72d5358f65fcac8cb&chksm=a69daa6f91ea23792690a293bb8db6100d41ff74fd7a2d81aa2be947f394c0b11998dd11a9f3&token=1451689666&lang=zh_CN#rd)
 
 [高并发编程学习(1)——并发基础](https://mp.weixin.qq.com/s/gFQowVpBWUtiE-caTCGSyA)  
@@ -47,6 +45,8 @@ java并发编程的艺术(京东读书)
 [JAVA并发编程与实践](https://rdc.hundsun.com/portal/article/954.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [JAVA多线程使用场景和注意事项简版](https://mp.weixin.qq.com/s/d9zHIXsSA8olmNA89kpHvQ)
+
+future:
 
 [深入理解 Java 之 FutureTask 和 Callable](https://allenwu.itscoder.com/java-futuretask)
 
@@ -159,3 +159,5 @@ java并发编程的艺术(京东读书)
 [Java进阶（七）正确理解Thread Local的原理与适用场景](http://www.jasongj.com/java/threadlocal/)
 
 [ThreadLocal源码完美解读](https://mp.weixin.qq.com/s/mdn5F0Gz9-Ce6-21Z20QxQ)
+
+[Java ThreadLocal的使用](http://ifeve.com/java-threadlocal%E7%9A%84%E4%BD%BF%E7%94%A8/)
