@@ -5,6 +5,7 @@
 * [集合框架](yuan-ma/ji-he.md)
 * [java并发](javaji-chu.md)
   * [线程](javaji-chu/xian-cheng.md)
+  * [syncronize](javaji-chu/syncronize.md)
 * [知识点](zhi-shi-dian.md)
 * [资料收集](zi-liao-shou-ji.md)
 * [spring](spring.md)
