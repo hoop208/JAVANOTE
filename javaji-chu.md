@@ -184,6 +184,10 @@ java并发编程的艺术(京东读书)
 
 [Java中的锁，你真的了解了嘛？](https://mp.weixin.qq.com/s/1mmEUZEIec4i7sJFlfqMJw)
 
+# ThreadLocal
+
+[使用 ThreadLocal 一次解决老大难问题](https://mp.weixin.qq.com/s/eRxGPIoUbijYot2uqulVGQ)
+
 # kafka
 
 [w3c-Apache Kafka 概述](https://www.w3cschool.cn/apache_kafka/apache_kafka_introduction.html)
