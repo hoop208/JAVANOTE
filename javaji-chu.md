@@ -106,6 +106,8 @@ java并发编程的艺术(京东读书)
 
 [Java线程池使用与分析总结](https://mp.weixin.qq.com/s/uNYYXNrCjVB8Z_G06ldVBQ)
 
+[为什么阿里巴巴要禁用 Executors 创建线程池？](https://mp.weixin.qq.com/s/dIcmMfguaPav0918SqEyrQ)
+
 源码
 
 [分析源码，线程池的正确用法你知道吗？](https://mp.weixin.qq.com/s/oZA_ct1uiZRBR6hECxBpeA)
