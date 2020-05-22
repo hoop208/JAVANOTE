@@ -139,6 +139,10 @@ java并发编程的艺术(京东读书)
 
 [Java中的Atomic包使用指南](http://ifeve.com/java-atomic/)
 
+# 阻塞队列
+
+[Java并发编程：阻塞队列](https://www.cnblogs.com/dolphin0520/p/3932906.html)
+
 # kafka
 
 [w3c-Apache Kafka 概述](https://www.w3cschool.cn/apache_kafka/apache_kafka_introduction.html)
