@@ -104,6 +104,8 @@ java并发编程的艺术(京东读书)
 
 [线程池开门营业招聘开发人员的一天](https://mp.weixin.qq.com/s/RLrgrQYWqm2EvBx6HfsAaQ)
 
+[Java线程池使用与分析总结](https://mp.weixin.qq.com/s/uNYYXNrCjVB8Z_G06ldVBQ)
+
 源码
 
 [分析源码，线程池的正确用法你知道吗？](https://mp.weixin.qq.com/s/oZA_ct1uiZRBR6hECxBpeA)
