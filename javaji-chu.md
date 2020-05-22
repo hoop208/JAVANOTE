@@ -29,10 +29,6 @@ java并发编程的艺术(京东读书)
 
 [原创 | 灵魂拷问：Java对象的内存分配过程是如何保证线程安全的？](https://mp.weixin.qq.com/s/kCGYWuWORDW1oCECIHRV7A)
 
-[使用Java的Callable接口运行线程](https://www.iteye.com/blog/tonl-1874187)
-
-[Java并发编程：Callable、Future和FutureTask](https://www.cnblogs.com/dolphin0520/p/3949310.html)
-
 [关于线程和I/O模型的极简知识](https://mp.weixin.qq.com/s/qodCngOPXGSaaBy2ULAgqg)
 
 [Java线程安全策略与多线程并发最佳实践](https://www.jianshu.com/p/965f324b8d74?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
@@ -46,7 +42,7 @@ java并发编程的艺术(京东读书)
 
 [JAVA多线程使用场景和注意事项简版](https://mp.weixin.qq.com/s/d9zHIXsSA8olmNA89kpHvQ)
 
-future:
+callable&future:
 
 [深入理解 Java 之 FutureTask 和 Callable](https://allenwu.itscoder.com/java-futuretask)
 
@@ -55,6 +51,10 @@ future:
 [浅谈Java Future](https://zhuanlan.zhihu.com/p/42682411)
 
 [JAVA Future类详解](https://blog.csdn.net/u014209205/article/details/80598209)
+
+[使用Java的Callable接口运行线程](https://www.iteye.com/blog/tonl-1874187)
+
+[Java并发编程：Callable、Future和FutureTask](https://www.cnblogs.com/dolphin0520/p/3949310.html)
 
 # 线程池
 
