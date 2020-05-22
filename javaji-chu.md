@@ -136,6 +136,8 @@ java并发编程的艺术(京东读书)
 
 [深入并发锁，解析Synchronized锁升级](https://segmentfault.com/a/1190000021711242)
 
+[Java多线程之Synchronized](https://juejin.im/post/5e01be596fb9a0161d743cd0)
+
 原理
 
 [Java同步机制的底层实现](https://segmentfault.com/a/1190000019296548)
