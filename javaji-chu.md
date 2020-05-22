@@ -161,6 +161,8 @@ java并发编程的艺术(京东读书)
 
 [不懂什么是锁？看看这篇你就明白了](https://segmentfault.com/a/1190000021307302)
 
+[深入 Java Lock 锁](https://mp.weixin.qq.com/s/27z4mD-fnWYgdYlnD4ZJhw)
+
 # kafka
 
 [w3c-Apache Kafka 概述](https://www.w3cschool.cn/apache_kafka/apache_kafka_introduction.html)
