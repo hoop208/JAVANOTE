@@ -90,6 +90,8 @@ java并发编程的艺术(京东读书)
 
 [Java多线程系列--“基础篇”08之 join()](https://www.cnblogs.com/skywang12345/p/3479275.html)
 
+[深入理解Object提供的阻塞和唤醒API](https://www.throwable.club/2019/04/30/java-object-wait-notify/#Object%E6%8F%90%E4%BE%9B%E7%9A%84%E9%98%BB%E5%A1%9E%E5%92%8C%E5%94%A4%E9%86%92API)
+
 # 线程池
 
 使用
@@ -193,8 +195,6 @@ java并发编程的艺术(京东读书)
 [Java进阶（七）正确理解Thread Local的原理与适用场景](http://www.jasongj.com/java/threadlocal/)
 
 [ThreadLocal源码完美解读](https://mp.weixin.qq.com/s/mdn5F0Gz9-Ce6-21Z20QxQ)
-
-[深入理解Object提供的阻塞和唤醒API](https://www.throwable.club/2019/04/30/java-object-wait-notify/#Object%E6%8F%90%E4%BE%9B%E7%9A%84%E9%98%BB%E5%A1%9E%E5%92%8C%E5%94%A4%E9%86%92API)
 
 # kafka
 
