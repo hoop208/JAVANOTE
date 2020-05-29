@@ -154,3 +154,5 @@
 
 [Java动态代理InvocationHandler和Proxy学习笔记](https://blog.csdn.net/yaomingyang/article/details/80981004)
 
+[Java 动态代理机制分析及扩展，第 1 部分](https://android-developers.googleblog.com/2007/11/)
+
