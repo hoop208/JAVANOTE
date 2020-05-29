@@ -156,3 +156,5 @@
 
 [Java 动态代理机制分析及扩展，第 1 部分](https://android-developers.googleblog.com/2007/11/)
 
+[Java三种代理模式：静态代理、动态代理和cglib代理](https://segmentfault.com/a/1190000011291179)
+
