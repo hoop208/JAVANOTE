@@ -150,3 +150,5 @@
 
 [Java的动态代理(dynamic proxy)](https://www.cnblogs.com/techyc/p/3455950.html)
 
+[Java 动态代理(Dynamic proxy) 小结](https://segmentfault.com/a/1190000007089902)
+
