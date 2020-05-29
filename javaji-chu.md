@@ -60,6 +60,7 @@ callable&future:
 [Java 并发编程：核心理论](https://www.cnblogs.com/paddix/p/5374810.html)  
 [Java并发编程：Synchronized及其实现原理](https://www.cnblogs.com/paddix/p/5367116.html)  
 [Java并发编程：Synchronized底层优化（偏向锁、轻量级锁）](https://www.cnblogs.com/paddix/p/5405678.html)  
+[Java 并发编程：线程间的协作(wait/notify/sleep/yield/join)](https://www.cnblogs.com/paddix/p/5381958.html)
 
 
 # atomic相关
