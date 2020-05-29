@@ -67,6 +67,7 @@
 
 [自定义Android注解Part1:注解变量](https://segmentfault.com/a/1190000015468666)  
 [自定义Android注解Part2:代码自动生成](https://segmentfault.com/a/1190000015592883)
+[自定义Android注解Part3:绑定](https://segmentfault.com/a/1190000015607766)
 
 # String
 
