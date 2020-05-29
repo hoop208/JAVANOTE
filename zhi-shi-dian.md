@@ -65,6 +65,9 @@
 [Android 进阶 教你打造 Android 中的 IOC 框架 【ViewInject】 （上）](https://blog.csdn.net/lmj623565791/article/details/39269193)  
 [Android 进阶 教你打造 Android 中的 IOC 框架 【ViewInject】 （下）](https://blog.csdn.net/lmj623565791/article/details/39275847)
 
+[自定义Android注解Part1:注解变量](https://segmentfault.com/a/1190000015468666)  
+[自定义Android注解Part2:代码自动生成](https://segmentfault.com/a/1190000015592883)
+
 # String
 
 [Java魔法堂：String.format详解](https://www.cnblogs.com/fsjohnhuang/p/4094777.html)
