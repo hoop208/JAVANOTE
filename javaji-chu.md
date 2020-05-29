@@ -57,6 +57,8 @@ callable&future:
 
 [Java并发编程：Callable、Future和FutureTask](https://www.cnblogs.com/dolphin0520/p/3949310.html)
 
+[Java 并发编程：核心理论](https://www.cnblogs.com/paddix/p/5374810.html)
+
 # atomic相关
 
 [Java中的Atomic包使用指南](http://ifeve.com/java-atomic/)
