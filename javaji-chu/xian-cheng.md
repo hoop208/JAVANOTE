@@ -18,6 +18,18 @@
 
 [Java 线程基础，从这篇开始](https://ytao.top/2020/04/19/22-thread-base/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+# callable&future
+
+[深入理解 Java 之 FutureTask 和 Callable](https://allenwu.itscoder.com/java-futuretask)
+
+[Java多线程 - Future模式](https://www.jianshu.com/p/949d44f3d9e3)
+
+[浅谈Java Future](https://zhuanlan.zhihu.com/p/42682411)
+
+[JAVA Future类详解](https://blog.csdn.net/u014209205/article/details/80598209)
+
+[使用Java的Callable接口运行线程](https://www.iteye.com/blog/tonl-1874187)
+
 # join
 
 [Java Thread.join()等待线程](http://www.51gjie.com/java/718.html)

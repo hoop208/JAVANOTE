@@ -43,18 +43,6 @@ java并发编程的艺术(京东读书)
 
 [JAVA多线程使用场景和注意事项简版](https://mp.weixin.qq.com/s/d9zHIXsSA8olmNA89kpHvQ)
 
-callable&future:
-
-[深入理解 Java 之 FutureTask 和 Callable](https://allenwu.itscoder.com/java-futuretask)
-
-[Java多线程 - Future模式](https://www.jianshu.com/p/949d44f3d9e3)
-
-[浅谈Java Future](https://zhuanlan.zhihu.com/p/42682411)
-
-[JAVA Future类详解](https://blog.csdn.net/u014209205/article/details/80598209)
-
-[使用Java的Callable接口运行线程](https://www.iteye.com/blog/tonl-1874187)
-
 [Java并发编程：Callable、Future和FutureTask](https://www.cnblogs.com/dolphin0520/p/3949310.html)  
 [Java 并发编程：核心理论](https://www.cnblogs.com/paddix/p/5374810.html)  
 [Java并发编程：Synchronized及其实现原理](https://www.cnblogs.com/paddix/p/5367116.html)  
