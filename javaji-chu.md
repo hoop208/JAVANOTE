@@ -55,8 +55,7 @@ callable&future:
 
 [使用Java的Callable接口运行线程](https://www.iteye.com/blog/tonl-1874187)
 
-[Java并发编程：Callable、Future和FutureTask](https://www.cnblogs.com/dolphin0520/p/3949310.html)
-
+[Java并发编程：Callable、Future和FutureTask](https://www.cnblogs.com/dolphin0520/p/3949310.html)  
 [Java 并发编程：核心理论](https://www.cnblogs.com/paddix/p/5374810.html)  
 [Java并发编程：Synchronized及其实现原理](https://www.cnblogs.com/paddix/p/5367116.html)  
 [Java并发编程：Synchronized底层优化（偏向锁、轻量级锁）](https://www.cnblogs.com/paddix/p/5405678.html)  
