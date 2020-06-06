@@ -13,3 +13,5 @@
 # ConcurrentHashmap
 
 [漫画：什么是ConcurrentHashMap？](https://zhuanlan.zhihu.com/p/31614308)
+
+[为什么 ConcurrentHashMap 的读操作不需要加锁？](https://mp.weixin.qq.com/s/KPjFOIjMUJhHgP4Uw5bR5w)
