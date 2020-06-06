@@ -17,3 +17,6 @@
 [为什么 ConcurrentHashMap 的读操作不需要加锁？](https://mp.weixin.qq.com/s/KPjFOIjMUJhHgP4Uw5bR5w)
 
 [HashMap? ConcurrentHashMap? 相信看完这篇没人能难住你！](https://crossoverjie.top/2018/07/23/java-senior/ConcurrentHashMap/)
+
+[别再问我ConcurrentHashMap了
+](https://mp.weixin.qq.com/s?__biz=MzIwNTI2ODY5OA==&mid=2649938471&idx=1&sn=2964df2adc4feaf87c11b4915b9a018e)
