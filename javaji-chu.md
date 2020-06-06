@@ -52,6 +52,8 @@ java并发编程的艺术(京东读书)
 
 [Java多线程系列目录(共43篇)](https://www.cnblogs.com/skywang12345/p/java_threads_category.html)
 
+[并发编程](https://segmentfault.com/blog/kkxmoye)
+
 
 # atomic相关
 
