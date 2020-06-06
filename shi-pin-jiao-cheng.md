@@ -6,3 +6,5 @@
 
 [Java架构之HashMap源码分析](https://ke.qq.com/course/453678?taid=3776337110559790)
 
+[细说Java多线程之内存可见性](https://www.imooc.com/learn/352)
+
