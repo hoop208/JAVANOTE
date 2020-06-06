@@ -54,6 +54,8 @@ java并发编程的艺术(京东读书)
 
 [并发编程](https://segmentfault.com/blog/kkxmoye)
 
+[2018汇总Java并发核心篇](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247484908&idx=1&sn=fe9004cd8369cabf448c9f43466bad0f&chksm=a69da8d291ea21c493d82e63705604055e2bd4d09f42c5e835051e3187a9cfefa317e6484b65&scene=21#wechat_redirect)
+
 
 # atomic相关
 
