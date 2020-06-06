@@ -57,10 +57,6 @@ java并发编程的艺术(京东读书)
 
 [Java中的Atomic包使用指南](http://ifeve.com/java-atomic/)
 
-# 阻塞队列
-
-[Java并发编程：阻塞队列](https://www.cnblogs.com/dolphin0520/p/3932906.html)
-
 # ThreadLocal
 
 [使用 ThreadLocal 一次解决老大难问题](https://mp.weixin.qq.com/s/eRxGPIoUbijYot2uqulVGQ)
