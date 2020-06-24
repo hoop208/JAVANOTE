@@ -19,3 +19,5 @@
 [你有真正理解 Java 的类加载机制吗？| 原力计划](https://mp.weixin.qq.com/s/pU-yPiO2F5lBcaxcV0lS5g)
 
 [深入理解java类加载机制](https://blog.csdn.net/javazejian/article/details/73413292)
+
+[手动写一个java热加载](https://mp.weixin.qq.com/s/iGKprJEqCZpIO77sAMYRCQ)
