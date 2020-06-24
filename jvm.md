@@ -21,3 +21,5 @@
 [深入理解java类加载机制](https://blog.csdn.net/javazejian/article/details/73413292)
 
 [手动写一个java热加载](https://mp.weixin.qq.com/s/iGKprJEqCZpIO77sAMYRCQ)
+
+[一看你就懂，超详细java中的ClassLoader详解](/ https://frank909.blog.csdn.net/article/details/54973413)
