@@ -23,3 +23,7 @@
 [手动写一个java热加载](https://mp.weixin.qq.com/s/iGKprJEqCZpIO77sAMYRCQ)
 
 [一看你就懂，超详细java中的ClassLoader详解](/ https://frank909.blog.csdn.net/article/details/54973413)
+
+[Android解析ClassLoader（一）Java中的ClassLoader](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649841793&idx=1&sn=809d1d2b4a0bf02d4853708c7497cc94&scene=19#wechat_redirect)  
+[Android解析ClassLoader（二）Android中的ClassLoader](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649841837&idx=1&sn=b7ed366003ae168119a9bd42cd500c9c&scene=19#wechat_redirect)  
+
