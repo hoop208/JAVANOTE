@@ -50,6 +50,10 @@
 
 [灵魂拷问：如何检查 Java 数组中是否包含某个值 ？](https://mp.weixin.qq.com/s/EDIgWHA00IrhzTP6e9DzAA)
 
+[不要让你的Java对象"逃逸"了！](https://mp.weixin.qq.com/s/Pub_K7PSCNE82F-96y2v6g)
+
+[为什么给Java代码加个空行，class文件就翻脸不认人了？](https://mp.weixin.qq.com/s/262ogDIKLAY-R6sUX6afEw)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
@@ -137,6 +141,8 @@
 # IOC&DI
 
 [自定义 Android IOC 框架](https://www.jianshu.com/p/d12b2752c763?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[轻松理解 Java开发中的依赖注入(DI)和控制反转(IOC)](https://www.jianshu.com/p/506dcd94d4f9)
 
 # 代理
 
