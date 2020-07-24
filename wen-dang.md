@@ -2,5 +2,9 @@
 
 [极客学院-javanio指南](http://wiki.jikexueyuan.com/project/java-nio/overview.html)
 
+[ 极客学院-Java 并发性和多线程](https://wiki.jikexueyuan.com/project/java-concurrent/amdahls-law.html)
+
+
+
 
 
