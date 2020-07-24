@@ -18,6 +18,8 @@
 
 [Java 线程基础，从这篇开始](https://ytao.top/2020/04/19/22-thread-base/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[bugly-杂谈android线程优先级](https://mp.weixin.qq.com/s/ofmqH2oXhKJdTzrTiQdziA)
+
 # callable&future
 
 [深入理解 Java 之 FutureTask 和 Callable](https://allenwu.itscoder.com/java-futuretask)
