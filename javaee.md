@@ -1,13 +1,5 @@
 # Spring
 
-文档
-
-[w3c-spring教程](https://www.w3cschool.cn/wkspring/pesy1icl.html)
-
-[易百教程-springmvc](https://www.yiibai.com/spring_mvc/spring-mvc-tutorial-for-beginners.html)
-
-[社区 Spring Boot 从入门到进阶系列教程](http://www.spring4all.com/article/246)
-
 知识点
 
 [spring入门](https://www.liaoxuefeng.com/article/895887872094400)
@@ -36,12 +28,6 @@
 [Spring 框架有哪些缺点？](https://www.zhihu.com/question/25255223/answer/31961636)
 
 # Servelet
-
-文档
-
-[Servlet 教程](https://www.runoob.com/servlet/servlet-tutorial.html)
-
-博客
 
 [servlet的本质是什么，它是如何工作的？](https://www.zhihu.com/question/21416727/answer/690289895)
 
