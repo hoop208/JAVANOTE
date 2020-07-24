@@ -8,6 +8,8 @@
 
 [菜鸟教程-Java 8 Stream](https://www.runoob.com/java/java8-streams.html)
 
+[w3c-Apache Kafka 概述](https://www.w3cschool.cn/apache_kafka/apache_kafka_introduction.html)
+
 
 
 
