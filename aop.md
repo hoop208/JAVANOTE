@@ -15,3 +15,8 @@
 [Javassist 使用指南（三）](https://www.jianshu.com/p/7803ffcc81c8)
 
 [Android动态编译技术:Plugin Transform Javassist操作Class文件](https://blog.csdn.net/yulong0809/article/details/77752098)
+
+# 知识点
+
+[谈谈android aop的技术方案](https://mp.weixin.qq.com/s/L9g-5wDSPDbwacGJo0Jy4Q)
+
