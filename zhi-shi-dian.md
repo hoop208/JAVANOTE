@@ -26,8 +26,6 @@
 
 [Java常量池理解与总结](https://www.jianshu.com/p/c7f47de2ee80)
 
-[Java 基础：动态代理、多态原理](https://blog.piasy.com/2017/01/17/Java-Basics-Dynamic-proxy-and-Polymorphism/index.html)
-
 [Handling Exceptions: The Easy Way](https://proandroiddev.com/handling-exceptions-the-easy-way-3aeade554613)
 
 [java.text.NumberFormat用法](https://blog.csdn.net/pengchua/article/details/1956810)
@@ -163,4 +161,8 @@
 [Java 动态代理机制分析及扩展，第 1 部分](https://android-developers.googleblog.com/2007/11/)
 
 [Java三种代理模式：静态代理、动态代理和cglib代理](https://segmentfault.com/a/1190000011291179)
+
+[Java 基础：动态代理、多态原理](https://blog.piasy.com/2017/01/17/Java-Basics-Dynamic-proxy-and-Polymorphism/index.html)
+
+
 
