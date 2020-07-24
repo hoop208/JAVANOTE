@@ -13,3 +13,5 @@
 [Javassist 使用指南（一）](https://www.jianshu.com/p/43424242846b)
 [Javassist 使用指南（二）](https://www.jianshu.com/p/b9b3ff0e1bf8)
 [Javassist 使用指南（三）](https://www.jianshu.com/p/7803ffcc81c8)
+
+[Android动态编译技术:Plugin Transform Javassist操作Class文件](https://blog.csdn.net/yulong0809/article/details/77752098)
