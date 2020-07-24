@@ -71,6 +71,12 @@
 
 [Writing your own Annotation Processors in Android](https://medium.com/androidiots/writing-your-own-annotation-processors-in-android-1fa0cd96ef11)
 
+[Android 如何编写基于编译时注解的项目](https://blog.csdn.net/lmj623565791/article/details/51931859)
+
+[Android 打造编译时注解解析框架 这只是一个开始](https://blog.csdn.net/lmj623565791/article/details/43452969)
+
+[还在用枚举？我早就抛弃了！（Android 注解详解）](https://www.jianshu.com/p/1fb27f46622c)
+
 # String
 
 [Java魔法堂：String.format详解](https://www.cnblogs.com/fsjohnhuang/p/4094777.html)
