@@ -8,3 +8,11 @@
 
 [细说Java多线程之内存可见性](https://www.imooc.com/learn/352)
 
+[AOP权限框架第一集](https://www.bilibili.com/video/BV1fE411k76d)  
+[AOP权限框架第二集](https://www.bilibili.com/video/BV1FE411C716)  
+[AOP权限框架第三集](https://www.bilibili.com/video/BV1cE411C7ZY)  
+[深入解析AOP权限框架第四集](https://www.bilibili.com/video/BV1AE411C7bf)
+
+
+
+
