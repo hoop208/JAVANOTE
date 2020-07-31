@@ -29,3 +29,15 @@
 
 [android类加载机制](http://gityuan.com/2017/03/19/android-classloader/)
 
+# 引用
+
+[理解Java的强引用、软引用、弱引用和虚引用](https://juejin.im/post/5b82c02df265da436152f5ad#heading-5)
+
+[强软弱虚引用，只有体会过了，才能记住](https://www.javazhiyin.com/60330.html) 
+
+[译文：理解Java中的弱引用](https://droidyue.com/blog/2014/10/12/understanding-weakreference-in-java/)
+
+[Java 7之基础 - 强引用、弱引用、软引用、虚引用](https://blog.csdn.net/mazhimazh/article/details/19752475)
+
+
+
