@@ -1,4 +1,4 @@
-# class
+# class[](https://yq.aliyun.com/articles/753815	)
 
 [深入研究java.lang.Class类](https://blog.51cto.com/lavasoft/15433)
 
@@ -28,6 +28,10 @@
 [Android解析ClassLoader（二）Android中的ClassLoader](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649841837&idx=1&sn=b7ed366003ae168119a9bd42cd500c9c&scene=19#wechat_redirect)  
 
 [android类加载机制](http://gityuan.com/2017/03/19/android-classloader/)
+
+# GC
+
+[哪些对象可以作为GC Roots？](https://yq.aliyun.com/articles/753815)
 
 # 引用
 
