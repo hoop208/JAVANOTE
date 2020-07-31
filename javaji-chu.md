@@ -77,3 +77,13 @@ java并发编程的艺术(京东读书)
 
 [正确使用 Volatile 变量](https://www.ibm.com/developerworks/cn/java/j-jtp06197.html)
 
+[JAVA并发六：彻底理解volatile](https://www.javazhiyin.com/887.html)
+
+[Java Volatile关键字](http://ifeve.com/java-volatile%E5%85%B3%E9%94%AE%E5%AD%97/)
+
+[面试官最爱的volatile关键字](https://juejin.im/post/5a2b53b7f265da432a7b821c)
+
+[理解 Java volatile 关键字](https://lotabout.me/2019/Java-volatile-keyword/)
+
+[你真的了解 Java volatile 关键字吗？](https://cloud.tencent.com/developer/article/1637782)
+
