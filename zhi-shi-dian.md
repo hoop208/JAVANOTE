@@ -46,6 +46,20 @@
 
 [为什么给Java代码加个空行，class文件就翻脸不认人了？](https://mp.weixin.qq.com/s/262ogDIKLAY-R6sUX6afEw)
 
+[Java 自动装箱、拆箱引起的耗时](https://juejin.im/post/5dfd83fa51882512664b17a5)
+
+[重写 equals 方法就一定要重写 hashCode 方法？其实有个前提](https://juejin.im/post/5e1482f1e51d4540f1471ab3)
+
+[Java，你告诉我 fail-fast 是什么鬼？](https://juejin.im/post/5dd72dcee51d4535424fc2eb)
+
+[老大，你为什么在代码中要求我们使用LocalDateTime而不是Date？](https://mp.weixin.qq.com/s/Dd_7yUh3lq3TqE2cjsYXvw)
+
+[你真的理解integer的缓存问题吗](https://mp.weixin.qq.com/s/QfCxkNute2IsZAX-dsPNqw)
+
+[为什么要重写hashcode和equals方法](https://mp.weixin.qq.com/s/dnyEc6-WWOm_Ijg7MfSmWw)
+
+[new一个对象的过程中发生了什么](https://mp.weixin.qq.com/s/BBAk_-sfs1CiHCLkXg15eg)
+
 # 注解
 
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
@@ -89,6 +103,10 @@
 
 [Java 干货之深入理解String](https://mp.weixin.qq.com/s/L5HBaDJBLtyhuCeNaxBntQ)
 
+[string有多长](https://mp.weixin.qq.com/s/1UC5sM6Z2QPNCWRztWuQCQ)
+
+[深入java源码剖析之字符串常量](https://mp.weixin.qq.com/s/YvHt9uKKOdYZDdipGJXQYA)
+
 # javadoc
 
 [Javadoc 使用详解](https://blog.csdn.net/vbirdbest/article/details/80296136)
@@ -108,6 +126,8 @@
 [【译】java8之lambda表达式](https://www.jianshu.com/p/3f16ecb28275)
 
 [匿名内部类的这几个骚操作，99% 的人都不知道！](https://mp.weixin.qq.com/s/qIpwEjRd2rYEze6KzC6o6Q)
+
+[lambda完整学习指南](https://mp.weixin.qq.com/s/ogcRRWBE8CtOY5l6kcQvhg)
 
 
 # 泛型
@@ -129,6 +149,8 @@
 [反射进阶，编写反射代码值得注意的诸多细节](https://frank909.blog.csdn.net/article/details/76223206)
 
 [学习java应该如何理解反射？](https://www.zhihu.com/question/24304289)
+
+[java反射中 class.forname和classloader的区别](https://mp.weixin.qq.com/s/Ou1eh-I3kSMpJnrZsCRhDA)
 
 # IOC&DI
 
