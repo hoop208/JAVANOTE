@@ -12,8 +12,6 @@
 
 [Java 解惑：Comparable 和 Comparator 的区别](https://blog.csdn.net/u011240877/article/details/53399019)
 
-[Java异常处理12条军规](https://mp.weixin.qq.com/s/Oo53o8Qhiu8VHH70dTIOuA)
-
 [原创 | 不了解这12个语法糖，别说你会Java](https://mp.weixin.qq.com/s/EBnM7QAOPjDk5bG3M0Mu-w)
 
 [Java对象克隆（Clone）及Cloneable接口、Serializable接口的深入探讨](https://blog.csdn.net/kenthong/article/details/5758884)
@@ -26,15 +24,11 @@
 
 [Java常量池理解与总结](https://www.jianshu.com/p/c7f47de2ee80)
 
-[Handling Exceptions: The Easy Way](https://proandroiddev.com/handling-exceptions-the-easy-way-3aeade554613)
-
 [java.text.NumberFormat用法](https://blog.csdn.net/pengchua/article/details/1956810)
 
 [SimpleDateFormat与DateTimeFormatter](https://www.jianshu.com/p/b212afa16f1f)
 
 [消灭 Java 代码的“坏味道”](https://mp.weixin.qq.com/s/yvG2KdNewPmOL_YVE4VX8A)
-
-[Java finally 语句到底是在 return 之前还是之后执行？](https://mp.weixin.qq.com/s/MhEEJLvMrXvVXTohiEEDZA)
 
 [这才是JAVA中打印日志的正确姿势](https://mp.weixin.qq.com/s/v3aF1zVwsP5g8KcuJFP4fQ)
 
@@ -45,8 +39,6 @@
 [char 搞明白了吗?](https://mp.weixin.qq.com/s/7DJs8Zrs3d3tjn4glARYsA)
 
 [不敢相信？System.currentTimeMillis() 居然存在性能问题](https://mp.weixin.qq.com/s/-NzUniIGIFpyKP3Fg82qrQ)
-
-[Java中处理异常的9条最佳实践！快看你有没有搞错！](https://mp.weixin.qq.com/s/eYT1cus0XtKCpBSED8PnaQ)
 
 [灵魂拷问：如何检查 Java 数组中是否包含某个值 ？](https://mp.weixin.qq.com/s/EDIgWHA00IrhzTP6e9DzAA)
 

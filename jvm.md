@@ -43,5 +43,25 @@
 
 [Java 7之基础 - 强引用、弱引用、软引用、虚引用](https://blog.csdn.net/mazhimazh/article/details/19752475)
 
+# 异常机制
+
+[Java异常处理12条军规](https://mp.weixin.qq.com/s/Oo53o8Qhiu8VHH70dTIOuA)
+
+[Handling Exceptions: The Easy Way](https://proandroiddev.com/handling-exceptions-the-easy-way-3aeade554613)
+
+[Java中处理异常的9条最佳实践！快看你有没有搞错！](https://mp.weixin.qq.com/s/eYT1cus0XtKCpBSED8PnaQ)
+
+[Java finally 语句到底是在 return 之前还是之后执行？](https://mp.weixin.qq.com/s/MhEEJLvMrXvVXTohiEEDZA)
+
+[java异常有效实践](https://www.cnblogs.com/dongxishaonian/p/12029980.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+
+
+
+
+
+
+
+
 
 
