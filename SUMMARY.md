@@ -10,12 +10,10 @@
   * [锁](javaji-chu/suo.md)
   * [并发集合](javaji-chu/bing-fa-ji-he.md)
 * [知识点](zhi-shi-dian.md)
-  * [资料收集](zi-liao-shou-ji.md)
   * [响应式编程](xiang-ying-shi-bian-cheng.md)
   * [Aop](aop.md)
   * [版本特性](ban-ben-te-xing.md)
+  * [反射框架](fan-she-kuang-jia.md)
 * [jvm](jvm.md)
-* [视频教程](shi-pin-jiao-cheng.md)
 * [javaee](javaee.md)
-* [文档](wen-dang.md)
 

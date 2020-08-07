@@ -1,7 +1,3 @@
-# 书
-
-java并发编程的艺术(京东读书)
-
 # 知识点
 
 [深入理解 Java 并发核心机制，看完后好爽~](https://mp.weixin.qq.com/s/RXBAep1FI4bEP24-6-kW5A)
