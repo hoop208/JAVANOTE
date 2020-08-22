@@ -62,7 +62,7 @@
 
 # String
 
-String和Charsequence的区别和联系:	[https://www.cnblogs.com/ChrisMurphy/p/4760197.html](https://www.cnblogs.com/ChrisMurphy/p/4760197.html)
+[String和Charsequence的区别和联系](https://www.cnblogs.com/ChrisMurphy/p/4760197.html)
 
 [Java魔法堂：String.format详解](https://www.cnblogs.com/fsjohnhuang/p/4094777.html)
 
