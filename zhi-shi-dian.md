@@ -62,6 +62,8 @@
 
 # String
 
+String和Charsequence的区别和联系:	[https://www.cnblogs.com/ChrisMurphy/p/4760197.html](https://www.cnblogs.com/ChrisMurphy/p/4760197.html)
+
 [Java魔法堂：String.format详解](https://www.cnblogs.com/fsjohnhuang/p/4094777.html)
 
 [JAVA字符串格式化-String.format()的使用](https://blog.csdn.net/lonely_fireworks/article/details/7962171)
