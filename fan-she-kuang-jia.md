@@ -23,6 +23,12 @@
 
 [还在用枚举？我早就抛弃了！（Android 注解详解）](https://www.jianshu.com/p/1fb27f46622c)
 
+[注解处理器（Annotation Processor）简析](https://www.jianshu.com/p/d7567258ae85)
+
+[聊聊Apt/Annotation Processor](https://zhuanlan.zhihu.com/p/38433630)
+
+[Java注解处理器](https://www.race604.com/annotation-processing/)
+
 # 泛型
 
 [java 泛型详解-绝对是对泛型方法讲解最详细的，没有之一](https://blog.csdn.net/s10461/article/details/53941091)
