@@ -8,26 +8,28 @@
 
 [Java注解基本原理](https://www.cnblogs.com/huajiezh/p/5263849.html)
 
-[Android 进阶 教你打造 Android 中的 IOC 框架 【ViewInject】 （上）](https://blog.csdn.net/lmj623565791/article/details/39269193)  
-[Android 进阶 教你打造 Android 中的 IOC 框架 【ViewInject】 （下）](https://blog.csdn.net/lmj623565791/article/details/39275847)
-
-[自定义Android注解Part1:注解变量](https://segmentfault.com/a/1190000015468666)   
-[自定义Android注解Part2:代码自动生成](https://segmentfault.com/a/1190000015592883)  
-[自定义Android注解Part3:绑定](https://segmentfault.com/a/1190000015607766)  
-
-[Writing your own Annotation Processors in Android](https://medium.com/androidiots/writing-your-own-annotation-processors-in-android-1fa0cd96ef11)
-
 [Android 如何编写基于编译时注解的项目](https://blog.csdn.net/lmj623565791/article/details/51931859)
 
 [Android 打造编译时注解解析框架 这只是一个开始](https://blog.csdn.net/lmj623565791/article/details/43452969)
 
 [还在用枚举？我早就抛弃了！（Android 注解详解）](https://www.jianshu.com/p/1fb27f46622c)
 
+[Android 进阶 教你打造 Android 中的 IOC 框架 【ViewInject】 （上）](https://blog.csdn.net/lmj623565791/article/details/39269193)    
+[Android 进阶 教你打造 Android 中的 IOC 框架 【ViewInject】 （下）](https://blog.csdn.net/lmj623565791/article/details/39275847)  
+
+[自定义Android注解Part1:注解变量](https://segmentfault.com/a/1190000015468666)  
+[自定义Android注解Part2:代码自动生成](https://segmentfault.com/a/1190000015592883)  
+[自定义Android注解Part3:绑定](https://segmentfault.com/a/1190000015607766)  
+
+注解处理器：
+
 [注解处理器（Annotation Processor）简析](https://www.jianshu.com/p/d7567258ae85)
 
 [聊聊Apt/Annotation Processor](https://zhuanlan.zhihu.com/p/38433630)
 
 [Java注解处理器](https://www.race604.com/annotation-processing/)
+
+[Writing your own Annotation Processors in Android](https://medium.com/androidiots/writing-your-own-annotation-processors-in-android-1fa0cd96ef11)
 
 # 泛型
 
