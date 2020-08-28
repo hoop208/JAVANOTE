@@ -2,6 +2,10 @@
 
 [注解使用入门](https://mp.weixin.qq.com/s/L-I2hmuujUSh20pqBW8TNQ)
 
+[Android自定义编译时注解-从一个demo讲起](https://mp.weixin.qq.com/s/PrZnFGD0GD696ntS3tYuWg)
+
+[java注解及其在Android中的应用](https://mp.weixin.qq.com/s/nXX3aF8aDU3zCGSKIJTf_A)
+
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
 
 [深入理解Java注解类型(@Annotation)](https://blog.csdn.net/javazejian/article/details/71860633)
