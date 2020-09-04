@@ -29,6 +29,8 @@
 
 # Rxjava
 
+使用：
+
 [【Android】RxJava的使用（三）转换——map、flatMap](https://www.jianshu.com/p/52cd2d514528)
 
 [RxJava操作符（五）Error Handling](https://mushuichuan.com/2015/12/11/rxjava-operator-5/)
@@ -51,6 +53,21 @@
 [All RxJava - 为Retrofit添加重试](https://juejin.im/entry/59c0c097f265da066563d058)
 
 [大佬们，一波RxJava 3.0来袭，请做好准备~](https://juejin.im/post/5d1eeffe6fb9a07f0870b4e8)
+
+[用rxjava打造eventbus](https://mp.weixin.qq.com/s/3RIxQddpnVbobSxxBG_vlg)
+
+源码：
+
+[rxjava设计回顾](https://blog.piasy.com/AdvancedRxJava/2017/04/21/rxjava-design-retrospect/index.html)
+
+[自己动手来实现一个RxJava](https://mp.weixin.qq.com/s/Px47ZAYURx5flLziR4kHsg)
+
+[大白话讲解RxJava原理](https://mp.weixin.qq.com/s/NsWc201npQDbALxtpLXG3g)
+
+[深入理解 Operator：开篇](https://blog.piasy.com/AdvancedRxJava/2016/10/06/operator-internals-introduction/index.html)  
+[深入理解 Operator：Amb 和 AmbWith](https://blog.piasy.com/AdvancedRxJava/2016/10/06/operator-internals-s-amb-ambwith/index.html)  
+[深入理解 Operator：All，Any 和 Exists](https://blog.piasy.com/AdvancedRxJava/2016/10/16/operator-internals-all/index.html)  
+[深入理解 Operator：AutoConnect](https://blog.piasy.com/AdvancedRxJava/2017/02/24/operator-internals-autoconnect/index.html)  
 
 # Rxbinding
 
