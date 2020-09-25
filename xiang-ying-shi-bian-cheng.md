@@ -56,6 +56,12 @@
 
 [用rxjava打造eventbus](https://mp.weixin.qq.com/s/3RIxQddpnVbobSxxBG_vlg)
 
+[Master error handling in RxJava. Crush em!](https://medium.com/swlh/master-error-handling-in-rxjava-crush-em-5cb66bb16ccd)
+
+[Rx Chain Retrier](https://proandroiddev.com/rx-chain-retrier-45013616efcb)
+
+[Type safety EventBus with RxJava 2](https://proandroiddev.com/type-safety-eventbus-with-rxjava-2-c10d3ea6f7e0)  
+
 源码：
 
 [rxjava设计回顾](https://blog.piasy.com/AdvancedRxJava/2017/04/21/rxjava-design-retrospect/index.html)
