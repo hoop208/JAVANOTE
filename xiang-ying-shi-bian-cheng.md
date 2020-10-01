@@ -43,11 +43,6 @@
 
 [The RxJava2 Default Error Handler](https://medium.com/@bherbst/the-rxjava2-default-error-handler-e50e0cab6f9f)
 
-[RxJava 沉思录（一）：你认为 RxJava 真的好用吗？](https://juejin.im/post/5b8f536c5188255c352d3528)
-[RxJava 沉思录（二）：空间维度](https://juejin.im/post/5b8f5470e51d450e3d2c8ddf)
-[RxJava 沉思录（三）：时间维度](https://juejin.im/post/5b8f5ea8f265da0a9223887e)
-[RxJava 沉思录（四）：总结](https://juejin.im/post/5b8f5f0ee51d450ea52f6a37)
-
 [我们眼中 RxJava 式的网络请求](https://qiantao.one/2019/02/25/best-practice-in-rxjava-network-method/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [All RxJava - 为Retrofit添加重试](https://juejin.im/entry/59c0c097f265da066563d058)
@@ -61,6 +56,13 @@
 [Rx Chain Retrier](https://proandroiddev.com/rx-chain-retrier-45013616efcb)
 
 [Type safety EventBus with RxJava 2](https://proandroiddev.com/type-safety-eventbus-with-rxjava-2-c10d3ea6f7e0)  
+
+[RxJava and Android: working with subjects](https://howrobotswork.wordpress.com/2013/12/23/rxjava-and-android-working-with-subjects/)
+
+[RxJava 沉思录（一）：你认为 RxJava 真的好用吗？](https://juejin.im/post/5b8f536c5188255c352d3528)
+[RxJava 沉思录（二）：空间维度](https://juejin.im/post/5b8f5470e51d450e3d2c8ddf)
+[RxJava 沉思录（三）：时间维度](https://juejin.im/post/5b8f5ea8f265da0a9223887e)
+[RxJava 沉思录（四）：总结](https://juejin.im/post/5b8f5f0ee51d450ea52f6a37)
 
 源码：
 
