@@ -59,6 +59,12 @@
 
 [RxJava and Android: working with subjects](https://howrobotswork.wordpress.com/2013/12/23/rxjava-and-android-working-with-subjects/)
 
+[Don't break the chain: use RxJava's compose() operator](https://blog.danlew.net/2015/03/02/dont-break-the-chain/)
+
+[Loading data from multiple sources with RxJava](https://blog.danlew.net/2015/06/22/loading-data-from-multiple-sources-with-rxjava/)
+
+[Deferring Observable code until subscription in RxJava](https://blog.danlew.net/2015/07/23/deferring-observable-code-until-subscription-in-rxjava/)
+
 [RxJava 沉思录（一）：你认为 RxJava 真的好用吗？](https://juejin.im/post/5b8f536c5188255c352d3528)
 [RxJava 沉思录（二）：空间维度](https://juejin.im/post/5b8f5470e51d450e3d2c8ddf)
 [RxJava 沉思录（三）：时间维度](https://juejin.im/post/5b8f5ea8f265da0a9223887e)
