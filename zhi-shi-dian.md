@@ -60,6 +60,8 @@
 
 [new一个对象的过程中发生了什么](https://mp.weixin.qq.com/s/BBAk_-sfs1CiHCLkXg15eg)
 
+[构造函数没有返回值 是怎么赋值的](https://mp.weixin.qq.com/s/7Pi5fQGALeNxYqJEz_TdJA)
+
 # String
 
 [String和Charsequence的区别和联系](https://www.cnblogs.com/ChrisMurphy/p/4760197.html)
