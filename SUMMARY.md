@@ -10,7 +10,6 @@
   * [锁](javaji-chu/suo.md)
   * [并发集合](javaji-chu/bing-fa-ji-he.md)
 * [知识点](zhi-shi-dian.md)
-  * [响应式编程](xiang-ying-shi-bian-cheng.md)
   * [Aop](aop.md)
   * [版本特性](ban-ben-te-xing.md)
   * [反射框架](fan-she-kuang-jia.md)
