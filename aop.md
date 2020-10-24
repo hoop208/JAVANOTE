@@ -22,3 +22,9 @@
 
 [谈谈android aop的技术方案](https://mp.weixin.qq.com/s/L9g-5wDSPDbwacGJo0Jy4Q)
 
+[Android 中的 AOP 编程](https://www.androidos.net.cn/doc/android/issue/aspect-oriented-programming-in-android.html)
+
+[Android面向切面aop架构设计简析](https://mp.weixin.qq.com/s/DQYes4qSLCTm0mu_SFRe8Q)
+
+[一起用Gradle Transform API + ASM完成代码织入呀～](https://mp.weixin.qq.com/s/wMrk_RkY4nucL3n3JKNg7A)
+
