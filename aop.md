@@ -2,6 +2,12 @@
 
 [AspectJ基本用法](https://www.jianshu.com/p/27b997677149)
 
+[Android AspectJ详解](https://juejin.im/post/5d7a049af265da03d1557f42)
+
+[AspectJ in Android （一），AspectJ 基础概念](https://johnnyshieh.me/posts/aspectj-in-android-basic/)  
+[AspectJ in Android （二），AspectJ 语法](https://johnnyshieh.me/posts/aspectj-grammar/)  
+[AspectJ in Android （三），AspectJ 两种用法以及常见问题](https://johnnyshieh.me/posts/aspectj-in-android-usage/)  
+
 # JavaAssist
 
 [用 Javassist 进行类转换](https://www.ibm.com/developerworks/cn/java/j-dyn0916/index.html)
