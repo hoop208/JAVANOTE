@@ -29,6 +29,10 @@
 
 [哪些对象可以作为GC Roots？](https://yq.aliyun.com/articles/753815)
 
+# 内存模型
+
+[虚拟机系列 | JVM运行时数据区](https://mp.weixin.qq.com/s/CMvhvV5kwzijq2t9eqlsoA)
+
 # 引用
 
 [理解Java的强引用、软引用、弱引用和虚引用](https://juejin.im/post/5b82c02df265da436152f5ad#heading-5)
