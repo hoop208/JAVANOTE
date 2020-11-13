@@ -8,6 +8,8 @@
 
 [jvm连环十问](https://mp.weixin.qq.com/s/_0IANOvyP_UNezDm0bxXmg)
 
+[int类型在栈中是否会被缓存](https://mp.weixin.qq.com/s/EeIrG82ki5RD3wRg-2Gbkg)
+
 # 类加载器
 
 [你知道 Java 类是如何被加载的吗？](https://mp.weixin.qq.com/s/QoDuR3_aeqylMioNQuDh6Q)
