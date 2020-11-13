@@ -6,6 +6,8 @@
 
 [Java中Class类详解、用法及泛化](https://www.cnblogs.com/bethunebtj/p/4680532.html)
 
+[jvm连环十问](https://mp.weixin.qq.com/s/_0IANOvyP_UNezDm0bxXmg)
+
 # 类加载器
 
 [你知道 Java 类是如何被加载的吗？](https://mp.weixin.qq.com/s/QoDuR3_aeqylMioNQuDh6Q)
@@ -18,10 +20,10 @@
 
 [一看你就懂，超详细java中的ClassLoader详解](/ https://frank909.blog.csdn.net/article/details/54973413)
 
+[android类加载机制](http://gityuan.com/2017/03/19/android-classloader/)
+
 [Android解析ClassLoader（一）Java中的ClassLoader](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649841793&idx=1&sn=809d1d2b4a0bf02d4853708c7497cc94&scene=19#wechat_redirect)  
 [Android解析ClassLoader（二）Android中的ClassLoader](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649841837&idx=1&sn=b7ed366003ae168119a9bd42cd500c9c&scene=19#wechat_redirect)  
-
-[android类加载机制](http://gityuan.com/2017/03/19/android-classloader/)
 
 # GC
 
