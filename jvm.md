@@ -10,6 +10,8 @@
 
 [int类型在栈中是否会被缓存](https://mp.weixin.qq.com/s/EeIrG82ki5RD3wRg-2Gbkg)
 
+[Java代码编译和执行的整个过程](https://mp.weixin.qq.com/s/MY-FcTsDGnXvYCG41Ur9mA)
+
 # 类加载器
 
 [你知道 Java 类是如何被加载的吗？](https://mp.weixin.qq.com/s/QoDuR3_aeqylMioNQuDh6Q)
@@ -34,6 +36,8 @@
 # 内存模型
 
 [虚拟机系列 | JVM运行时数据区](https://mp.weixin.qq.com/s/CMvhvV5kwzijq2t9eqlsoA)
+
+[动画：深度解析JVM运行时数据区 之 线程独占区](https://mp.weixin.qq.com/s/MB7XcCtvzCmARPwJ_oCQbQ)
 
 # 引用
 
