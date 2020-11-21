@@ -55,6 +55,8 @@
 
 [一文读懂java中的Reference和引用类型](https://my.oschina.net/flydean/blog/4263694/print)
 
+[深入探讨 java.lang.ref 包](https://developer.ibm.com/zh/articles/j-lo-langref/)
+
 # 异常机制
 
 [Java异常处理12条军规](https://mp.weixin.qq.com/s/Oo53o8Qhiu8VHH70dTIOuA)
