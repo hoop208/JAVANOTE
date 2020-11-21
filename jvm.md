@@ -61,6 +61,8 @@ class：
 
 [大话Java对象在虚拟机中是什么样子？](https://mp.weixin.qq.com/s/fyvoraVu9yjgqX-xhn6EHQ)
 
+[java对象都是在堆上分配内存吗](https://mp.weixin.qq.com/s/J9cSgfs7nO0eC363AVuwcQ)
+
 # 引用
 
 [理解Java的强引用、软引用、弱引用和虚引用](https://juejin.im/post/5b82c02df265da436152f5ad#heading-5)
