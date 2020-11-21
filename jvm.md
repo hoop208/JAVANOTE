@@ -1,19 +1,5 @@
 # 知识点
 
-# class
-
-[深入研究java.lang.Class类](https://blog.51cto.com/lavasoft/15433)
-
-[深入理解Java类型信息(Class对象)与反射机制](https://blog.csdn.net/javazejian/article/details/70768369)
-
-[Java中Class类详解、用法及泛化](https://www.cnblogs.com/bethunebtj/p/4680532.html)
-
-[jvm连环十问](https://mp.weixin.qq.com/s/_0IANOvyP_UNezDm0bxXmg)
-
-[int类型在栈中是否会被缓存](https://mp.weixin.qq.com/s/EeIrG82ki5RD3wRg-2Gbkg)
-
-[Java代码编译和执行的整个过程](https://mp.weixin.qq.com/s/MY-FcTsDGnXvYCG41Ur9mA)
-
 # 类加载子系统
 
 [你知道 Java 类是如何被加载的吗？](https://mp.weixin.qq.com/s/QoDuR3_aeqylMioNQuDh6Q)
@@ -37,7 +23,21 @@
 [Android解析ClassLoader（一）Java中的ClassLoader](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649841793&idx=1&sn=809d1d2b4a0bf02d4853708c7497cc94&scene=19#wechat_redirect)  
 [Android解析ClassLoader（二）Android中的ClassLoader](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649841837&idx=1&sn=b7ed366003ae168119a9bd42cd500c9c&scene=19#wechat_redirect)  
 
-# 内存结构
+### class
+
+[深入研究java.lang.Class类](https://blog.51cto.com/lavasoft/15433)
+
+[深入理解Java类型信息(Class对象)与反射机制](https://blog.csdn.net/javazejian/article/details/70768369)
+
+[Java中Class类详解、用法及泛化](https://www.cnblogs.com/bethunebtj/p/4680532.html)
+
+[jvm连环十问](https://mp.weixin.qq.com/s/_0IANOvyP_UNezDm0bxXmg)
+
+[int类型在栈中是否会被缓存](https://mp.weixin.qq.com/s/EeIrG82ki5RD3wRg-2Gbkg)
+
+[Java代码编译和执行的整个过程](https://mp.weixin.qq.com/s/MY-FcTsDGnXvYCG41Ur9mA)
+
+# 运行时数据区
 
 # GC
 
