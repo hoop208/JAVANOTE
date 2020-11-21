@@ -57,6 +57,8 @@ class：
 
 [探究Java虚拟机栈](https://mp.weixin.qq.com/s/dG93G2lsD632nMZrKtCZwA)
 
+[大话Java对象在虚拟机中是什么样子？](https://mp.weixin.qq.com/s/fyvoraVu9yjgqX-xhn6EHQ)
+
 # 引用
 
 [理解Java的强引用、软引用、弱引用和虚引用](https://juejin.im/post/5b82c02df265da436152f5ad#heading-5)
