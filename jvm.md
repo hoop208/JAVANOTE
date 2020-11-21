@@ -8,6 +8,8 @@
 
 [一文了解jvm](https://segmentfault.com/a/1190000019845827?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
 
+[jvm连环十问](https://mp.weixin.qq.com/s/_0IANOvyP_UNezDm0bxXmg)
+
 # 类加载子系统
 
 [你知道 Java 类是如何被加载的吗？](https://mp.weixin.qq.com/s/QoDuR3_aeqylMioNQuDh6Q)
@@ -39,12 +41,6 @@ class：
 
 [Java中Class类详解、用法及泛化](https://www.cnblogs.com/bethunebtj/p/4680532.html)
 
-[jvm连环十问](https://mp.weixin.qq.com/s/_0IANOvyP_UNezDm0bxXmg)
-
-[int类型在栈中是否会被缓存](https://mp.weixin.qq.com/s/EeIrG82ki5RD3wRg-2Gbkg)
-
-[Java代码编译和执行的整个过程](https://mp.weixin.qq.com/s/MY-FcTsDGnXvYCG41Ur9mA)
-
 # GC
 
 [哪些对象可以作为GC Roots？](https://yq.aliyun.com/articles/753815)
@@ -64,6 +60,8 @@ class：
 [大话Java对象在虚拟机中是什么样子？](https://mp.weixin.qq.com/s/fyvoraVu9yjgqX-xhn6EHQ)
 
 [java对象都是在堆上分配内存吗](https://mp.weixin.qq.com/s/J9cSgfs7nO0eC363AVuwcQ)
+
+[int类型在栈中是否会被缓存](https://mp.weixin.qq.com/s/EeIrG82ki5RD3wRg-2Gbkg)
 
 # 引用
 
@@ -94,6 +92,11 @@ class：
 [java异常有效实践](https://www.cnblogs.com/dongxishaonian/p/12029980.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [令人惊讶的Java异常真相－底层到底发生了什么？](https://chenyongjun.vip/articles/29)
+
+# 执行引擎
+
+[Java代码编译和执行的整个过程](https://mp.weixin.qq.com/s/MY-FcTsDGnXvYCG41Ur9mA)
+
 
 
 
