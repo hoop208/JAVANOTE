@@ -4,6 +4,8 @@
 
 [Java虚拟机工作原理](/ https://mp.weixin.qq.com/s/Xri-gc5B_cxpgWluLFgJRQ)
 
+[JVM解毒——JVM与Java体系结构](https://mp.weixin.qq.com/s/a83cgJb5oCBsjSg9PB_jqA)
+
 # 类加载子系统
 
 [你知道 Java 类是如何被加载的吗？](https://mp.weixin.qq.com/s/QoDuR3_aeqylMioNQuDh6Q)
