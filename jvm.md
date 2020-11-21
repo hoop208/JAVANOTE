@@ -2,6 +2,8 @@
 
 [什么是JVM？](https://mp.weixin.qq.com/s/LA1sJPI5iNRyWrUr6kYuwQ)
 
+[Java虚拟机工作原理](/ https://mp.weixin.qq.com/s/Xri-gc5B_cxpgWluLFgJRQ)
+
 # 类加载子系统
 
 [你知道 Java 类是如何被加载的吗？](https://mp.weixin.qq.com/s/QoDuR3_aeqylMioNQuDh6Q)
@@ -39,15 +41,11 @@ class：
 
 [Java代码编译和执行的整个过程](https://mp.weixin.qq.com/s/MY-FcTsDGnXvYCG41Ur9mA)
 
-# 运行时数据区
-
-[探究Java虚拟机栈](https://mp.weixin.qq.com/s/dG93G2lsD632nMZrKtCZwA)
-
 # GC
 
 [哪些对象可以作为GC Roots？](https://yq.aliyun.com/articles/753815)
 
-# 内存模型
+# 运行时数据区
 
 [虚拟机系列 | JVM运行时数据区](https://mp.weixin.qq.com/s/CMvhvV5kwzijq2t9eqlsoA)
 
@@ -56,6 +54,8 @@ class：
 [java内存结构](https://mp.weixin.qq.com/s/kBNBDpatl-IzvWQQlU5qKw)
 
 [万字精美图文，带你掌握 JVM 内存布局及细节分析](https://mp.weixin.qq.com/s/YpBz7gQ26h3zJWoXcjArpA)
+
+[探究Java虚拟机栈](https://mp.weixin.qq.com/s/dG93G2lsD632nMZrKtCZwA)
 
 # 引用
 
