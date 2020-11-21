@@ -1,5 +1,7 @@
 # 知识点
 
+[什么是JVM？](https://mp.weixin.qq.com/s/LA1sJPI5iNRyWrUr6kYuwQ)
+
 # 类加载子系统
 
 [你知道 Java 类是如何被加载的吗？](https://mp.weixin.qq.com/s/QoDuR3_aeqylMioNQuDh6Q)
