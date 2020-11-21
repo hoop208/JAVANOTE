@@ -51,6 +51,8 @@ class：
 
 [java内存结构](https://mp.weixin.qq.com/s/kBNBDpatl-IzvWQQlU5qKw)
 
+[万字精美图文，带你掌握 JVM 内存布局及细节分析](https://mp.weixin.qq.com/s/YpBz7gQ26h3zJWoXcjArpA)
+
 # 引用
 
 [理解Java的强引用、软引用、弱引用和虚引用](https://juejin.im/post/5b82c02df265da436152f5ad#heading-5)
