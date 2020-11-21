@@ -41,6 +41,8 @@ class：
 
 # 运行时数据区
 
+[探究Java虚拟机栈](https://mp.weixin.qq.com/s/dG93G2lsD632nMZrKtCZwA)
+
 # GC
 
 [哪些对象可以作为GC Roots？](https://yq.aliyun.com/articles/753815)
