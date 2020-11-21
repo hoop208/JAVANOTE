@@ -57,6 +57,8 @@
 
 [深入探讨 java.lang.ref 包](https://developer.ibm.com/zh/articles/j-lo-langref/)
 
+[Java Reference核心原理分析](http://ifeve.com/java-reference%E6%A0%B8%E5%BF%83%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90/)
+
 # 异常机制
 
 [Java异常处理12条军规](https://mp.weixin.qq.com/s/Oo53o8Qhiu8VHH70dTIOuA)
