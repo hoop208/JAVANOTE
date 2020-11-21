@@ -6,6 +6,8 @@
 
 [JVM解毒——JVM与Java体系结构](https://mp.weixin.qq.com/s/a83cgJb5oCBsjSg9PB_jqA)
 
+[一文了解jvm](https://segmentfault.com/a/1190000019845827?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
+
 # 类加载子系统
 
 [你知道 Java 类是如何被加载的吗？](https://mp.weixin.qq.com/s/QoDuR3_aeqylMioNQuDh6Q)
