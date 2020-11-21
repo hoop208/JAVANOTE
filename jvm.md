@@ -53,6 +53,8 @@
 
 [Java 7之基础 - 强引用、弱引用、软引用、虚引用](https://blog.csdn.net/mazhimazh/article/details/19752475)
 
+[一文读懂java中的Reference和引用类型](https://my.oschina.net/flydean/blog/4263694/print)
+
 # 异常机制
 
 [Java异常处理12条军规](https://mp.weixin.qq.com/s/Oo53o8Qhiu8VHH70dTIOuA)
