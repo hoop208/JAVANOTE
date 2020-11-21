@@ -1,3 +1,5 @@
+# 知识点
+
 # class
 
 [深入研究java.lang.Class类](https://blog.51cto.com/lavasoft/15433)
@@ -28,6 +30,8 @@
 
 [Android解析ClassLoader（一）Java中的ClassLoader](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649841793&idx=1&sn=809d1d2b4a0bf02d4853708c7497cc94&scene=19#wechat_redirect)  
 [Android解析ClassLoader（二）Android中的ClassLoader](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649841837&idx=1&sn=b7ed366003ae168119a9bd42cd500c9c&scene=19#wechat_redirect)  
+
+# 内存结构
 
 # GC
 
@@ -60,6 +64,8 @@
 [Java finally 语句到底是在 return 之前还是之后执行？](https://mp.weixin.qq.com/s/MhEEJLvMrXvVXTohiEEDZA)
 
 [java异常有效实践](https://www.cnblogs.com/dongxishaonian/p/12029980.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[令人惊讶的Java异常真相－底层到底发生了什么？](https://chenyongjun.vip/articles/29)
 
 
 
