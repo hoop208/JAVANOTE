@@ -79,6 +79,8 @@ class：
 
 [十三张图解java内存模型](https://mp.weixin.qq.com/s/KyxPWBmRxm9KP37ePY5xVQ)
 
+[jvm虚拟机内存模型](https://mp.weixin.qq.com/s/OUBQNE_C2AfwYPLTxy6PUA)
+
 # 引用
 
 [理解Java的强引用、软引用、弱引用和虚引用](https://juejin.im/post/5b82c02df265da436152f5ad#heading-5)
