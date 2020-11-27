@@ -73,6 +73,8 @@ class：
 
 [int类型在栈中是否会被缓存](https://mp.weixin.qq.com/s/EeIrG82ki5RD3wRg-2Gbkg)
 
+[深入理解java内存模型](https://mp.weixin.qq.com/s/YIaeYc1XE-iN62XzvXKI6Q)
+
 # 引用
 
 [理解Java的强引用、软引用、弱引用和虚引用](https://juejin.im/post/5b82c02df265da436152f5ad#heading-5)
