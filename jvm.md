@@ -47,6 +47,8 @@ class：
 
 [哪些对象可以作为GC Roots？](https://yq.aliyun.com/articles/753815)
 
+[深度揭秘垃圾回收底层](https://mp.weixin.qq.com/s/AZ_Xv28cF1xxloluJaniww)
+
 # 运行时数据区
 
 [虚拟机系列 | JVM运行时数据区](https://mp.weixin.qq.com/s/CMvhvV5kwzijq2t9eqlsoA)
