@@ -51,6 +51,8 @@ class：
 
 [怎样解决引用计数gc的循环引用问题](https://mp.weixin.qq.com/s/K7Y0NUYf40jwlLsDjS8C4Q)
 
+[咱们从头到尾说一次 Java 的垃圾回收](https://mp.weixin.qq.com/s/feJKRqYJTVEIxl6jvjevAg)
+
 # 运行时数据区
 
 [虚拟机系列 | JVM运行时数据区](https://mp.weixin.qq.com/s/CMvhvV5kwzijq2t9eqlsoA)
