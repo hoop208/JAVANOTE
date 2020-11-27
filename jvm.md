@@ -53,6 +53,8 @@ class：
 
 [咱们从头到尾说一次 Java 的垃圾回收](https://mp.weixin.qq.com/s/feJKRqYJTVEIxl6jvjevAg)
 
+[这次，真正学懂 Java 垃圾回收机制](https://mp.weixin.qq.com/s/wn_7qve6OCD0SpYILvcKtg)
+
 # 运行时数据区
 
 [虚拟机系列 | JVM运行时数据区](https://mp.weixin.qq.com/s/CMvhvV5kwzijq2t9eqlsoA)
