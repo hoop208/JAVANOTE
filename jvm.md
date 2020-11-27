@@ -71,15 +71,15 @@ class：
 
 [java对象都是在堆上分配内存吗](https://mp.weixin.qq.com/s/J9cSgfs7nO0eC363AVuwcQ)
 
-[int类型在栈中是否会被缓存](https://mp.weixin.qq.com/s/EeIrG82ki5RD3wRg-2Gbkg)
+[十三张图解java内存布局](https://mp.weixin.qq.com/s/KyxPWBmRxm9KP37ePY5xVQ)
 
-[深入理解java内存模型](https://mp.weixin.qq.com/s/YIaeYc1XE-iN62XzvXKI6Q)
+[int类型在栈中是否会被缓存](https://mp.weixin.qq.com/s/EeIrG82ki5RD3wRg-2Gbkg)
 
 # JMM
 
-[十三张图解java内存模型](https://mp.weixin.qq.com/s/KyxPWBmRxm9KP37ePY5xVQ)
-
 [jvm虚拟机内存模型](https://mp.weixin.qq.com/s/OUBQNE_C2AfwYPLTxy6PUA)
+
+[深入理解java内存模型](https://mp.weixin.qq.com/s/YIaeYc1XE-iN62XzvXKI6Q)
 
 # 引用
 
