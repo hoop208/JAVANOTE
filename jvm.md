@@ -10,6 +10,8 @@
 
 [jvm连环十问](https://mp.weixin.qq.com/s/_0IANOvyP_UNezDm0bxXmg)
 
+[jvm基础知识](https://mp.weixin.qq.com/s/-Dgh1u0i6L09kRF-Wq_83Q)
+
 # 类加载子系统
 
 [你知道 Java 类是如何被加载的吗？](https://mp.weixin.qq.com/s/QoDuR3_aeqylMioNQuDh6Q)
