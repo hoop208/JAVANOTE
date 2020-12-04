@@ -57,6 +57,8 @@ class：
 
 [这次，真正学懂 Java 垃圾回收机制](https://mp.weixin.qq.com/s/wn_7qve6OCD0SpYILvcKtg)
 
+[JVM垃圾回收概述](https://segmentfault.com/a/1190000023937207)
+
 # 运行时数据区
 
 [虚拟机系列 | JVM运行时数据区](https://mp.weixin.qq.com/s/CMvhvV5kwzijq2t9eqlsoA)
