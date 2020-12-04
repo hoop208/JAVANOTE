@@ -75,6 +75,8 @@ class：
 
 [int类型在栈中是否会被缓存](https://mp.weixin.qq.com/s/EeIrG82ki5RD3wRg-2Gbkg)
 
+[jvm运行时数据区概述](https://segmentfault.com/a/1190000023859912)
+
 # JMM
 
 [jvm虚拟机内存模型](https://mp.weixin.qq.com/s/OUBQNE_C2AfwYPLTxy6PUA)
