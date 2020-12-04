@@ -12,6 +12,8 @@
 
 [jvm基础知识](https://mp.weixin.qq.com/s/-Dgh1u0i6L09kRF-Wq_83Q)
 
+[18个jvm面试问题](https://mp.weixin.qq.com/s/stY5FJJ-9FahZSuLaG-q8g)
+
 # 类加载子系统
 
 [你知道 Java 类是如何被加载的吗？](https://mp.weixin.qq.com/s/QoDuR3_aeqylMioNQuDh6Q)
