@@ -16,6 +16,8 @@
 
 [10个jvm面试题](https://mp.weixin.qq.com/s/lcgER1UWmLPjWPcleh8qVw)
 
+[Java 虚拟机系列一：一文搞懂 JVM 架构和运行时数据区 (内存区域)](https://segmentfault.com/a/1190000021643533)
+
 # 类加载子系统
 
 [你知道 Java 类是如何被加载的吗？](https://mp.weixin.qq.com/s/QoDuR3_aeqylMioNQuDh6Q)
