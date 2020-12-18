@@ -16,9 +16,6 @@
 
 [那些常见的并发模型相关知识](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247485265&idx=1&sn=5dbe59ef48ad8fb72d5358f65fcac8cb&chksm=a69daa6f91ea23792690a293bb8db6100d41ff74fd7a2d81aa2be947f394c0b11998dd11a9f3&token=1451689666&lang=zh_CN#rd)
 
-[高并发编程学习(1)——并发基础](https://mp.weixin.qq.com/s/gFQowVpBWUtiE-caTCGSyA)  
-[高并发编程学习(2)——线程通信详解](https://mp.weixin.qq.com/s/efBpMT-6RK6q4XvMVtH1yQ)
-
 [大白话搞懂什么是同步/异步/阻塞/非阻塞](https://mp.weixin.qq.com/s/TW82I31CVRbKOwJGnTTP8A)
 
 [原创 | 灵魂拷问：Java对象的内存分配过程是如何保证线程安全的？](https://mp.weixin.qq.com/s/kCGYWuWORDW1oCECIHRV7A)
@@ -27,15 +24,15 @@
 
 [Java线程安全策略与多线程并发最佳实践](https://www.jianshu.com/p/965f324b8d74?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[JAVA并发编程与实践](https://rdc.hundsun.com/portal/article/954.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[JAVA多线程使用场景和注意事项简版](https://mp.weixin.qq.com/s/d9zHIXsSA8olmNA89kpHvQ)
+
 [Java 并发专题 ： Timer的缺陷 用ScheduledExecutorService替代](https://blog.csdn.net/lmj623565791/article/details/27109467)  
 [Java 并发专题 ： CyclicBarrier 打造一个安全的门禁系统](https://blog.csdn.net/lmj623565791/article/details/26829117)  
 [Java 并发专题 ：FutureTask 实现预加载数据 在线看电子书、浏览器浏览网页等](https://blog.csdn.net/lmj623565791/article/details/26817403)  
 [Java 并发专题 ： Semaphore 实现 互斥 与 连接池](https://blog.csdn.net/lmj623565791/article/details/26810813)  
 [Java 并发专题 ：闭锁 CountDownLatch 之一家人一起吃个饭](https://blog.csdn.net/lmj623565791/article/details/26626391)  
-
-[JAVA并发编程与实践](https://rdc.hundsun.com/portal/article/954.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-
-[JAVA多线程使用场景和注意事项简版](https://mp.weixin.qq.com/s/d9zHIXsSA8olmNA89kpHvQ)
 
 [Java并发编程：Callable、Future和FutureTask](https://www.cnblogs.com/dolphin0520/p/3949310.html)  
 [Java 并发编程：核心理论](https://www.cnblogs.com/paddix/p/5374810.html)  
@@ -49,6 +46,9 @@
 [并发编程](https://segmentfault.com/blog/kkxmoye)
 
 [2018汇总Java并发核心篇](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247484908&idx=1&sn=fe9004cd8369cabf448c9f43466bad0f&chksm=a69da8d291ea21c493d82e63705604055e2bd4d09f42c5e835051e3187a9cfefa317e6484b65&scene=21#wechat_redirect)
+
+[高并发编程学习(1)——并发基础](https://mp.weixin.qq.com/s/gFQowVpBWUtiE-caTCGSyA)  
+[高并发编程学习(2)——线程通信详解](https://mp.weixin.qq.com/s/efBpMT-6RK6q4XvMVtH1yQ)
 
 
 # atomic相关
