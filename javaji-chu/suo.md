@@ -1,3 +1,7 @@
+#AQS
+
+[1.5万字 30张图彻底掌握aqs](https://mp.weixin.qq.com/s/y_e3ciU-hiqlb5vseuOFyw)
+
 # 锁
 
 [不懂什么是锁？看看这篇你就明白了](https://segmentfault.com/a/1190000021307302)
