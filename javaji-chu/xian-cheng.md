@@ -20,6 +20,8 @@
 
 [bugly-杂谈android线程优先级](https://mp.weixin.qq.com/s/ofmqH2oXhKJdTzrTiQdziA)
 
+[七张图轻松理解java线程安全](https://mp.weixin.qq.com/s/QHs5AXvTSSqSaw68wwPR-A)
+
 # callable&future
 
 [深入理解 Java 之 FutureTask 和 Callable](https://allenwu.itscoder.com/java-futuretask)
