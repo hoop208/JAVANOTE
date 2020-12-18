@@ -2,6 +2,8 @@
 
 [深入理解 Java 并发核心机制，看完后好爽~](https://mp.weixin.qq.com/s/RXBAep1FI4bEP24-6-kW5A)
 
+[多线程面试](https://mp.weixin.qq.com/s/k_6shN16l9pPR_k3kufLQQ)
+
 [忘掉什么鬼并发，先听完这个故事！](https://mp.weixin.qq.com/s/Hb8dq0Lqd7bA-2-b3c6Qjg)
 
 [生产者和消费者问题](https://github.com/francistao/LearningNotes/blob/master/Part2/JavaConcurrent/%E7%94%9F%E4%BA%A7%E8%80%85%E5%92%8C%E6%B6%88%E8%B4%B9%E8%80%85%E9%97%AE%E9%A2%98.md)
