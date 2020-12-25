@@ -32,6 +32,8 @@
 
 [并发编程中的分而治之思想](https://mp.weixin.qq.com/s/5X_IhchMz04P3dtY75qMxg)
 
+[一篇文章看懂java并发编程](https://mp.weixin.qq.com/s/BE6Lj3d83aeeKF8dT90r6Q)
+
 [Java 并发专题 ： Timer的缺陷 用ScheduledExecutorService替代](https://blog.csdn.net/lmj623565791/article/details/27109467)  
 [Java 并发专题 ： CyclicBarrier 打造一个安全的门禁系统](https://blog.csdn.net/lmj623565791/article/details/26829117)  
 [Java 并发专题 ：FutureTask 实现预加载数据 在线看电子书、浏览器浏览网页等](https://blog.csdn.net/lmj623565791/article/details/26817403)  
