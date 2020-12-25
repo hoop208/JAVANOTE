@@ -1,3 +1,5 @@
+# synchronized
+
 使用
 
 [Java线程同步：synchronized锁住的是代码还是对象](https://blog.csdn.net/xiao__gui/article/details/8188833)
@@ -23,4 +25,21 @@
 [且听我一个故事讲透一个锁原理之synchronized](https://mp.weixin.qq.com/s/i1jtqQcP7kz5uS86GZ6Lgg)
 
 [死磕Synchronized底层实现](https://mp.weixin.qq.com/s/C8i-Xsn7M_L8sEFmE0SN1g)
+
+#AQS
+
+[1.5万字 30张图彻底掌握aqs](https://mp.weixin.qq.com/s/y_e3ciU-hiqlb5vseuOFyw)
+
+[深入解析aqs和cas](https://mp.weixin.qq.com/s/gtf8_DJvZQjPWboeErQvog)
+
+# 锁
+
+[不懂什么是锁？看看这篇你就明白了](https://segmentfault.com/a/1190000021307302)
+
+[深入 Java Lock 锁](https://mp.weixin.qq.com/s/27z4mD-fnWYgdYlnD4ZJhw)
+
+[同步锁基本原理与实现，看这篇就够了！](https://mp.weixin.qq.com/s/izhT-GiGwwSLmOk1m5T_oQ)
+
+[Java中的锁，你真的了解了嘛？](https://mp.weixin.qq.com/s/1mmEUZEIec4i7sJFlfqMJw)
+
 
