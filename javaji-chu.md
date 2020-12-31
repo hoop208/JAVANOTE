@@ -9,7 +9,7 @@
 [生产者和消费者问题](https://github.com/francistao/LearningNotes/blob/master/Part2/JavaConcurrent/%E7%94%9F%E4%BA%A7%E8%80%85%E5%92%8C%E6%B6%88%E8%B4%B9%E8%80%85%E9%97%AE%E9%A2%98.md)
 
 [java并发编程的艺术](https://www.infoq.cn/profile/1277812)
-
+[](https://mp.weixin.qq.com/s/Oxsf-eQdJIdi5hkYQfKC-Q)
 [Java并发基础，不怕你看不懂！](https://mp.weixin.qq.com/s/qDhNySGzD3Dc4jsQei_Rwg)
 
 [谈谈Java任务的并行处理](https://mp.weixin.qq.com/s/TaO2Gg39P7E1tESJT8VXIg)
@@ -33,6 +33,8 @@
 [并发编程中的分而治之思想](https://mp.weixin.qq.com/s/5X_IhchMz04P3dtY75qMxg)
 
 [一篇文章看懂java并发编程](https://mp.weixin.qq.com/s/BE6Lj3d83aeeKF8dT90r6Q)
+
+[线程间共享了哪些进城资源](https://mp.weixin.qq.com/s/Oxsf-eQdJIdi5hkYQfKC-Q)
 
 [Java 并发专题 ： Timer的缺陷 用ScheduledExecutorService替代](https://blog.csdn.net/lmj623565791/article/details/27109467)  
 [Java 并发专题 ： CyclicBarrier 打造一个安全的门禁系统](https://blog.csdn.net/lmj623565791/article/details/26829117)  
