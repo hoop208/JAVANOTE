@@ -84,6 +84,8 @@
 
 [新手一看就懂的线程池！](https://segmentfault.com/a/1190000038220635)
 
+[别再说你不懂线程池——做个优雅的攻城狮](https://mp.weixin.qq.com/s/nG-xg41zJVrNDExssYFe5Q)
+
 源码
 
 [分析源码，线程池的正确用法你知道吗？](https://mp.weixin.qq.com/s/oZA_ct1uiZRBR6hECxBpeA)
