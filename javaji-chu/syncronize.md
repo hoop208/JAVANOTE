@@ -48,4 +48,6 @@
 
 [互斥锁 读写锁 自旋锁 乐观锁 悲观锁的应用场景](https://mp.weixin.qq.com/s/B338aVa3bPTVogT17f5Huw)
 
+[浅谈java并发下的乐观锁](https://mp.weixin.qq.com/s/Zes3vpt33Uk2yiJKKIB77A)
+
 
