@@ -44,4 +44,6 @@
 
 [reentrantlock非公平锁源码分析](https://mp.weixin.qq.com/s/Vqpzg3mWIUEy1S7XW9s-gw)
 
+[ReentrantLock 源码分析从入门到入土](https://segmentfault.com/a/1190000021500355)
+
 
