@@ -82,6 +82,8 @@
 
 [为什么阿里巴巴要禁用 Executors 创建线程池？](https://mp.weixin.qq.com/s/dIcmMfguaPav0918SqEyrQ)
 
+[新手一看就懂的线程池！](https://segmentfault.com/a/1190000038220635)
+
 源码
 
 [分析源码，线程池的正确用法你知道吗？](https://mp.weixin.qq.com/s/oZA_ct1uiZRBR6hECxBpeA)
