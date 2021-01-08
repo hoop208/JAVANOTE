@@ -46,4 +46,6 @@
 
 [ReentrantLock 源码分析从入门到入土](https://segmentfault.com/a/1190000021500355)
 
+[互斥锁 读写锁 自旋锁 乐观锁 悲观锁的应用场景](https://mp.weixin.qq.com/s/B338aVa3bPTVogT17f5Huw)
+
 
