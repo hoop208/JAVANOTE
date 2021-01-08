@@ -34,13 +34,9 @@
 
 [一篇文章看懂java并发编程](https://mp.weixin.qq.com/s/BE6Lj3d83aeeKF8dT90r6Q)
 
-[线程间共享了哪些进城资源](https://mp.weixin.qq.com/s/Oxsf-eQdJIdi5hkYQfKC-Q)
-
 [探索android多线程优化方法](https://mp.weixin.qq.com/s/bAGo2JkjwosQjO_HGfGiqw)
 
 [面试官:说说多线程并发问题](https://mp.weixin.qq.com/s/eftg-ysAh30I-q3wSsfSJA)
-
-[图文介绍进城和线程的区别](https://mp.weixin.qq.com/s/A33VTL85v2kQqtAQzULFHA)
 
 [Java 并发专题 ： Timer的缺陷 用ScheduledExecutorService替代](https://blog.csdn.net/lmj623565791/article/details/27109467)  
 [Java 并发专题 ： CyclicBarrier 打造一个安全的门禁系统](https://blog.csdn.net/lmj623565791/article/details/26829117)  

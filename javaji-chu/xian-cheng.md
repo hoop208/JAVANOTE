@@ -22,6 +22,10 @@
 
 [七张图轻松理解java线程安全](https://mp.weixin.qq.com/s/QHs5AXvTSSqSaw68wwPR-A)
 
+[线程间共享了哪些进城资源](https://mp.weixin.qq.com/s/Oxsf-eQdJIdi5hkYQfKC-Q)
+
+[图文介绍进城和线程的区别](https://mp.weixin.qq.com/s/A33VTL85v2kQqtAQzULFHA)
+
 # callable&future
 
 [深入理解 Java 之 FutureTask 和 Callable](https://allenwu.itscoder.com/java-futuretask)
