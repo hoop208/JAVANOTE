@@ -26,6 +26,8 @@
 
 [图文介绍进城和线程的区别](https://mp.weixin.qq.com/s/A33VTL85v2kQqtAQzULFHA)
 
+[10 张图聊聊线程的生命周期和常用 APIs](https://segmentfault.com/a/1190000038252613)
+
 # callable&future
 
 [深入理解 Java 之 FutureTask 和 Callable](https://allenwu.itscoder.com/java-futuretask)
