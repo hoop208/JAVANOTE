@@ -81,6 +81,8 @@
 
 [Java ThreadLocal的使用](http://ifeve.com/java-threadlocal%E7%9A%84%E4%BD%BF%E7%94%A8/)
 
+[22张图图解threadlocal](https://mp.weixin.qq.com/s/x7683wVs7cIUL1EEsmRJIA)
+
 # volatile
 
 [既生synchronized，何生volatil](https://www.hollischuang.com/archives/3928?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
