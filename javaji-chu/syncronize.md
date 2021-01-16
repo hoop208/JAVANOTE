@@ -30,6 +30,8 @@
 
 [17张图图解syncronized](https://mp.weixin.qq.com/s/uoNoSa3D2LOQPeYYFgGDtg)
 
+[了解syncronized](https://mp.weixin.qq.com/s/hnj7yWefNK4_q0PBR2a-cg)
+
 #AQS
 
 [1.5万字 30张图彻底掌握aqs](https://mp.weixin.qq.com/s/y_e3ciU-hiqlb5vseuOFyw)
