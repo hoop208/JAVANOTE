@@ -26,6 +26,8 @@
 
 [死磕Synchronized底层实现](https://mp.weixin.qq.com/s/C8i-Xsn7M_L8sEFmE0SN1g)
 
+[Java的synchronized 能防止指令重排序吗？](https://mp.weixin.qq.com/s/Fqo6EVuQGkLYI8vgTKY6Kw?scene=1&subscene=10000&clicktime=1607096756&enterid=1607096756)
+
 #AQS
 
 [1.5万字 30张图彻底掌握aqs](https://mp.weixin.qq.com/s/y_e3ciU-hiqlb5vseuOFyw)
