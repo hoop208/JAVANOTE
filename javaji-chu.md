@@ -97,3 +97,5 @@
 
 [你真的了解 Java volatile 关键字吗？](https://cloud.tencent.com/developer/article/1637782)
 
+[jmm和volatile详解](https://mp.weixin.qq.com/s/M_lpmH4k14k6jOirwvybrg)
+
