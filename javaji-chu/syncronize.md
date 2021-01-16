@@ -32,6 +32,8 @@
 
 [了解syncronized](https://mp.weixin.qq.com/s/hnj7yWefNK4_q0PBR2a-cg)
 
+[syncronized同步机制](https://mp.weixin.qq.com/s/7grYZFDD4GWx_vwbEZpqwA)
+
 #AQS
 
 [1.5万字 30张图彻底掌握aqs](https://mp.weixin.qq.com/s/y_e3ciU-hiqlb5vseuOFyw)
