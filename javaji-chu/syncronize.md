@@ -28,6 +28,8 @@
 
 [Java的synchronized 能防止指令重排序吗？](https://mp.weixin.qq.com/s/Fqo6EVuQGkLYI8vgTKY6Kw?scene=1&subscene=10000&clicktime=1607096756&enterid=1607096756)
 
+[17张图图解syncronized](https://mp.weixin.qq.com/s/uoNoSa3D2LOQPeYYFgGDtg)
+
 #AQS
 
 [1.5万字 30张图彻底掌握aqs](https://mp.weixin.qq.com/s/y_e3ciU-hiqlb5vseuOFyw)
