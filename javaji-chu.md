@@ -100,3 +100,5 @@
 [jmm和volatile详解](https://mp.weixin.qq.com/s/M_lpmH4k14k6jOirwvybrg)
 
 [从计算机的角度理解volatile关键字](https://mp.weixin.qq.com/s/rlXDOOJl2WKz7aosj2OqNg)
+
+[26张图搞懂volatile](https://mp.weixin.qq.com/s/egKkiRyoyFl_b2v0CYlzXQ)
