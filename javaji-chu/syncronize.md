@@ -34,6 +34,8 @@
 
 [syncronized同步机制](https://mp.weixin.qq.com/s/7grYZFDD4GWx_vwbEZpqwA)
 
+[Synchronized深入分析](https://cloud.tencent.com/developer/article/1703092)
+
 #AQS
 
 [1.5万字 30张图彻底掌握aqs](https://mp.weixin.qq.com/s/y_e3ciU-hiqlb5vseuOFyw)
