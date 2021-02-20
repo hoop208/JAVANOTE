@@ -8,6 +8,9 @@
 [AspectJ in Android （二），AspectJ 语法](https://johnnyshieh.me/posts/aspectj-grammar/)  
 [AspectJ in Android （三），AspectJ 两种用法以及常见问题](https://johnnyshieh.me/posts/aspectj-in-android-usage/)  
 
+[Is AspectJ Still Useful for Android? Part 1](http://www.davidwong.com.au/blog/2020/05/is-aspectj-still-useful-for-android-part-1/)  
+[Is AspectJ Still Useful for Android? Part 2](http://www.davidwong.com.au/blog/2020/06/is-aspectj-still-useful-for-android-part-2/)
+
 # JavaAssist
 
 [用 Javassist 进行类转换](https://www.ibm.com/developerworks/cn/java/j-dyn0916/index.html)
@@ -33,3 +36,5 @@
 [一起用Gradle Transform API + ASM完成代码织入呀～](https://mp.weixin.qq.com/s/wMrk_RkY4nucL3n3JKNg7A)
 
 [Aspect Oriented Programming in Android](https://fernandocejas.com/2014/08/03/aspect-oriented-programming-in-android/)
+
+
