@@ -32,3 +32,4 @@
 
 [一起用Gradle Transform API + ASM完成代码织入呀～](https://mp.weixin.qq.com/s/wMrk_RkY4nucL3n3JKNg7A)
 
+[Aspect Oriented Programming in Android](https://fernandocejas.com/2014/08/03/aspect-oriented-programming-in-android/)
