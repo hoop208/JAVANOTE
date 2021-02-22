@@ -64,14 +64,6 @@
 
 [Java并发编程：线程池的使用](https://www.cnblogs.com/dolphin0520/p/3932921.html)
 
-[探索JAVA并发 - 线程池详解](https://acupt.cn/2019/07/30/concurrent-thread-pool/)
-
-[Java 四种线程池的用法分析](https://blog.csdn.net/u011974987/article/details/51027795)
-
-[如何优雅的使用和理解线程池](https://segmentfault.com/a/1190000015808897)
-
-[Java四种线程池的使用](https://www.iteye.com/blog/cuisuqiang-2019372)
-
 [深入理解 Java 线程池：ThreadPoolExecutor](https://juejin.im/entry/58fada5d570c350058d3aaad)
 
 [Android开发之线程池使用总结](https://blog.csdn.net/u012702547/article/details/52259529)
@@ -95,8 +87,6 @@
 [深入理解 Java 线程池，讲解的太清晰了](https://mp.weixin.qq.com/s/-_sW-5CQVhFMk5UqHQhg3A)
 
 [从源码的角度解析线程池运行原理](https://mp.weixin.qq.com/s/2pspUsnFOXDNVfcB_tj22w)
-
-[深入分析java线程池的实现原理](https://www.jianshu.com/p/87bff5cc8d8c)
 
 [线程池中多余的线程是如何回收的](https://mp.weixin.qq.com/s/GjI9HSP_rPxXylrlHIMnvQ)
 
