@@ -2,7 +2,7 @@
 
 [什么是JVM？](https://mp.weixin.qq.com/s/LA1sJPI5iNRyWrUr6kYuwQ)
 
-[Java虚拟机工作原理](/ https://mp.weixin.qq.com/s/Xri-gc5B_cxpgWluLFgJRQ)
+[Java虚拟机工作原理](https://mp.weixin.qq.com/s/Xri-gc5B_cxpgWluLFgJRQ)
 
 [JVM解毒——JVM与Java体系结构](https://mp.weixin.qq.com/s/a83cgJb5oCBsjSg9PB_jqA)
 
@@ -90,11 +90,15 @@ class：
 
 [jvm运行时数据区概述](https://segmentfault.com/a/1190000023859912)
 
+[java内存布局](https://mp.weixin.qq.com/s/r0OYuo7FPHEji8QugOPr8A)
+
 # JMM
 
 [jvm虚拟机内存模型](https://mp.weixin.qq.com/s/OUBQNE_C2AfwYPLTxy6PUA)
 
 [深入理解java内存模型](https://mp.weixin.qq.com/s/YIaeYc1XE-iN62XzvXKI6Q)
+
+[嘿，同学，你要的 Java 内存模型 (JMM) 来了](https://xie.infoq.cn/article/739920a92d0d27e2053174ef2)
 
 # 引用
 
