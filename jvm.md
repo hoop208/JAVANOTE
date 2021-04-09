@@ -18,6 +18,10 @@
 
 [函数运行时在进程中是什么样子](https://mp.weixin.qq.com/s/LadnQo8KXOU8HVhrGptWvQ)
 
+[深入理解jvm中的方法调用](https://mp.weixin.qq.com/s/88ARkQCDoV9TYWS-MdJPZQ)
+
+[10个jvm面试问题](https://mp.weixin.qq.com/s/MJVo48KKa3MsmzQm79Misg)
+
 [Java 虚拟机系列一：一文搞懂 JVM 架构和运行时数据区 (内存区域)](https://segmentfault.com/a/1190000021643533)  
 [Java 虚拟机系列二：垃圾收集机制详解，动图帮你理解](https://segmentfault.com/a/1190000021667919)
 
@@ -31,7 +35,7 @@
 
 [手动写一个java热加载](https://mp.weixin.qq.com/s/iGKprJEqCZpIO77sAMYRCQ)
 
-[一看你就懂，超详细java中的ClassLoader详解](/ https://frank909.blog.csdn.net/article/details/54973413)
+[一看你就懂，超详细java中的ClassLoader详解](https://frank909.blog.csdn.net/article/details/54973413)
 
 [android类加载机制](http://gityuan.com/2017/03/19/android-classloader/)
 
@@ -43,6 +47,8 @@
 
 [jvm类加载概述](https://segmentfault.com/a/1190000023762235)
 
+[谈谈 Android 中的 PathClassLoader 和 DexClassLoader](https://juejin.cn/post/6844903929562529800)
+
 [Android解析ClassLoader（一）Java中的ClassLoader](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649841793&idx=1&sn=809d1d2b4a0bf02d4853708c7497cc94&scene=19#wechat_redirect)  
 [Android解析ClassLoader（二）Android中的ClassLoader](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649841837&idx=1&sn=b7ed366003ae168119a9bd42cd500c9c&scene=19#wechat_redirect)  
 
@@ -53,6 +59,8 @@ class：
 [深入理解Java类型信息(Class对象)与反射机制](https://blog.csdn.net/javazejian/article/details/70768369)
 
 [Java中Class类详解、用法及泛化](https://www.cnblogs.com/bethunebtj/p/4680532.html)
+
+[你管这破玩意叫class？](https://mp.weixin.qq.com/s/pekAvJY84qSefHi69d3qgw)
 
 # GC
 
@@ -67,6 +75,8 @@ class：
 [这次，真正学懂 Java 垃圾回收机制](https://mp.weixin.qq.com/s/wn_7qve6OCD0SpYILvcKtg)
 
 [JVM垃圾回收概述](https://segmentfault.com/a/1190000023937207)
+
+[图解垃圾回收机制](https://mp.weixin.qq.com/s/UpqNHH1kPp-YX79XMhzdLA)
 
 # 运行时数据区
 
@@ -133,6 +143,8 @@ class：
 # 执行引擎
 
 [Java代码编译和执行的整个过程](https://mp.weixin.qq.com/s/MY-FcTsDGnXvYCG41Ur9mA)
+
+[jvm的即时编译器和优化](https://mp.weixin.qq.com/s/zzJWYP9gOyzXJ8zYMXbguw)
 
 
 
