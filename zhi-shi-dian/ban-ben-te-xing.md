@@ -1,4 +1,4 @@
-# java8
+# 版本特性
 
 知识点
 
@@ -14,7 +14,7 @@
 
 [Java 8的这个新特性，你用了吗？](https://mp.weixin.qq.com/s/252Uay68lH39sGh80rnbGg)
 
-[Java 8：一文掌握 Lambda 表达式 | CSDN 博文精选](https://mp.weixin.qq.com/s/8k92CCGg9I6EAR7pAq698A)
+[Java 8：一文掌握 Lambda 表达式 \| CSDN 博文精选](https://mp.weixin.qq.com/s/8k92CCGg9I6EAR7pAq698A)
 
 Stream
 
@@ -27,8 +27,4 @@ Stream
 [简洁方便的集合处理——Java 8 stream流](https://segmentfault.com/a/1190000019574204?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
 
 [深入理解Java Stream流水线](https://www.cnblogs.com/CarpenterLee/p/6637118.html)
-
-
-
-
 

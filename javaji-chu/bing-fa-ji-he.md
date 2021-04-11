@@ -1,4 +1,6 @@
-# CopyOnWriteArrayList
+# 并发集合
+
+## CopyOnWriteArrayList
 
 [CopyOnWriteArrayList详解](https://www.cnblogs.com/myseries/p/10877420.html)
 
@@ -10,7 +12,7 @@
 
 [CopyOnWriteArrayList详解](https://my.oschina.net/jielucky/blog/167198)
 
-# ConcurrentHashmap
+## ConcurrentHashmap
 
 [漫画：什么是ConcurrentHashMap？](https://zhuanlan.zhihu.com/p/31614308)
 
@@ -20,7 +22,7 @@
 
 [别再问我ConcurrentHashMap了](https://mp.weixin.qq.com/s?__biz=MzIwNTI2ODY5OA==&mid=2649938471&idx=1&sn=2964df2adc4feaf87c11b4915b9a018e)
 
-# 阻塞队列
+## 阻塞队列
 
 [Java并发编程：阻塞队列](https://www.cnblogs.com/dolphin0520/p/3932906.html)
 

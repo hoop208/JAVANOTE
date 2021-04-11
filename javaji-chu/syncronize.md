@@ -1,4 +1,6 @@
-# synchronized
+# syncronize$锁
+
+## synchronized
 
 使用
 
@@ -36,13 +38,13 @@
 
 [Synchronized深入分析](https://cloud.tencent.com/developer/article/1703092)
 
-#AQS
+## AQS
 
 [1.5万字 30张图彻底掌握aqs](https://mp.weixin.qq.com/s/y_e3ciU-hiqlb5vseuOFyw)
 
 [深入解析aqs和cas](https://mp.weixin.qq.com/s/gtf8_DJvZQjPWboeErQvog)
 
-# 锁
+## 锁
 
 [不懂什么是锁？看看这篇你就明白了](https://segmentfault.com/a/1190000021307302)
 
@@ -59,7 +61,4 @@
 [互斥锁 读写锁 自旋锁 乐观锁 悲观锁的应用场景](https://mp.weixin.qq.com/s/B338aVa3bPTVogT17f5Huw)
 
 [浅谈java并发下的乐观锁](https://mp.weixin.qq.com/s/Zes3vpt33Uk2yiJKKIB77A)
-
-
-
 

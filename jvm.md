@@ -1,4 +1,6 @@
-# 知识点
+# jvm
+
+## 知识点
 
 [什么是JVM？](https://mp.weixin.qq.com/s/LA1sJPI5iNRyWrUr6kYuwQ)
 
@@ -22,14 +24,16 @@
 
 [10个jvm面试问题](https://mp.weixin.qq.com/s/MJVo48KKa3MsmzQm79Misg)
 
-[Java 虚拟机系列一：一文搞懂 JVM 架构和运行时数据区 (内存区域)](https://segmentfault.com/a/1190000021643533)  
+[不要让你的Java对象"逃逸"了！](https://mp.weixin.qq.com/s/Pub_K7PSCNE82F-96y2v6g)
+
+[Java 虚拟机系列一：一文搞懂 JVM 架构和运行时数据区 \(内存区域\)](https://segmentfault.com/a/1190000021643533)  
 [Java 虚拟机系列二：垃圾收集机制详解，动图帮你理解](https://segmentfault.com/a/1190000021667919)
 
-# 类加载子系统
+## 类加载子系统
 
 [你知道 Java 类是如何被加载的吗？](https://mp.weixin.qq.com/s/QoDuR3_aeqylMioNQuDh6Q)
 
-[你有真正理解 Java 的类加载机制吗？| 原力计划](https://mp.weixin.qq.com/s/pU-yPiO2F5lBcaxcV0lS5g)
+[你有真正理解 Java 的类加载机制吗？\| 原力计划](https://mp.weixin.qq.com/s/pU-yPiO2F5lBcaxcV0lS5g)
 
 [深入理解java类加载机制](https://blog.csdn.net/javazejian/article/details/73413292)
 
@@ -50,19 +54,21 @@
 [谈谈 Android 中的 PathClassLoader 和 DexClassLoader](https://juejin.cn/post/6844903929562529800)
 
 [Android解析ClassLoader（一）Java中的ClassLoader](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649841793&idx=1&sn=809d1d2b4a0bf02d4853708c7497cc94&scene=19#wechat_redirect)  
-[Android解析ClassLoader（二）Android中的ClassLoader](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649841837&idx=1&sn=b7ed366003ae168119a9bd42cd500c9c&scene=19#wechat_redirect)  
+[Android解析ClassLoader（二）Android中的ClassLoader](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649841837&idx=1&sn=b7ed366003ae168119a9bd42cd500c9c&scene=19#wechat_redirect)
 
 class：
 
 [深入研究java.lang.Class类](https://blog.51cto.com/lavasoft/15433)
 
-[深入理解Java类型信息(Class对象)与反射机制](https://blog.csdn.net/javazejian/article/details/70768369)
+[深入理解Java类型信息\(Class对象\)与反射机制](https://blog.csdn.net/javazejian/article/details/70768369)
 
 [Java中Class类详解、用法及泛化](https://www.cnblogs.com/bethunebtj/p/4680532.html)
 
 [你管这破玩意叫class？](https://mp.weixin.qq.com/s/pekAvJY84qSefHi69d3qgw)
 
-# GC
+[为什么给Java代码加个空行，class文件就翻脸不认人了？](https://mp.weixin.qq.com/s/262ogDIKLAY-R6sUX6afEw)
+
+## GC
 
 [哪些对象可以作为GC Roots？](https://yq.aliyun.com/articles/753815)
 
@@ -78,9 +84,9 @@ class：
 
 [图解垃圾回收机制](https://mp.weixin.qq.com/s/UpqNHH1kPp-YX79XMhzdLA)
 
-# 运行时数据区
+## 运行时数据区
 
-[虚拟机系列 | JVM运行时数据区](https://mp.weixin.qq.com/s/CMvhvV5kwzijq2t9eqlsoA)
+[虚拟机系列 \| JVM运行时数据区](https://mp.weixin.qq.com/s/CMvhvV5kwzijq2t9eqlsoA)
 
 [动画：深度解析JVM运行时数据区 之 线程独占区](https://mp.weixin.qq.com/s/MB7XcCtvzCmARPwJ_oCQbQ)
 
@@ -102,19 +108,19 @@ class：
 
 [java内存布局](https://mp.weixin.qq.com/s/r0OYuo7FPHEji8QugOPr8A)
 
-# JMM
+## JMM
 
 [jvm虚拟机内存模型](https://mp.weixin.qq.com/s/OUBQNE_C2AfwYPLTxy6PUA)
 
 [深入理解java内存模型](https://mp.weixin.qq.com/s/YIaeYc1XE-iN62XzvXKI6Q)
 
-[嘿，同学，你要的 Java 内存模型 (JMM) 来了](https://xie.infoq.cn/article/739920a92d0d27e2053174ef2)
+[嘿，同学，你要的 Java 内存模型 \(JMM\) 来了](https://xie.infoq.cn/article/739920a92d0d27e2053174ef2)
 
-# 引用
+## 引用
 
 [理解Java的强引用、软引用、弱引用和虚引用](https://juejin.im/post/5b82c02df265da436152f5ad#heading-5)
 
-[强软弱虚引用，只有体会过了，才能记住](https://www.javazhiyin.com/60330.html) 
+[强软弱虚引用，只有体会过了，才能记住](https://www.javazhiyin.com/60330.html)
 
 [译文：理解Java中的弱引用](https://droidyue.com/blog/2014/10/12/understanding-weakreference-in-java/)
 
@@ -126,7 +132,7 @@ class：
 
 [Java Reference核心原理分析](http://ifeve.com/java-reference%E6%A0%B8%E5%BF%83%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90/)
 
-# 异常机制
+## 异常机制
 
 [Java异常处理12条军规](https://mp.weixin.qq.com/s/Oo53o8Qhiu8VHH70dTIOuA)
 
@@ -140,20 +146,9 @@ class：
 
 [令人惊讶的Java异常真相－底层到底发生了什么？](https://chenyongjun.vip/articles/29)
 
-# 执行引擎
+## 执行引擎
 
 [Java代码编译和执行的整个过程](https://mp.weixin.qq.com/s/MY-FcTsDGnXvYCG41Ur9mA)
 
 [jvm的即时编译器和优化](https://mp.weixin.qq.com/s/zzJWYP9gOyzXJ8zYMXbguw)
-
-
-
-
-
-
-
-
-
-
-
 

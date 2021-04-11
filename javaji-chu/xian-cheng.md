@@ -1,4 +1,6 @@
-# 知识点
+# 线程&线程池
+
+## 知识点
 
 [进程与线程的一个简单解释](http://www.ruanyifeng.com/blog/2013/04/processes_and_threads.html)
 
@@ -28,7 +30,7 @@
 
 [10 张图聊聊线程的生命周期和常用 APIs](https://segmentfault.com/a/1190000038252613)
 
-# callable&future
+## callable&future
 
 [深入理解 Java 之 FutureTask 和 Callable](https://allenwu.itscoder.com/java-futuretask)
 
@@ -40,23 +42,23 @@
 
 [使用Java的Callable接口运行线程](https://www.iteye.com/blog/tonl-1874187)
 
-# join
+## join
 
-[Java Thread.join()等待线程](http://www.51gjie.com/java/718.html)
+[Java Thread.join\(\)等待线程](http://www.51gjie.com/java/718.html)
 
-[(四)Thread.join的作用和原理](https://segmentfault.com/a/1190000017255019)
+[\(四\)Thread.join的作用和原理](https://segmentfault.com/a/1190000017255019)
 
-[Java多线程系列--“基础篇”08之 join()](https://www.cnblogs.com/skywang12345/p/3479275.html)
+[Java多线程系列--“基础篇”08之 join\(\)](https://www.cnblogs.com/skywang12345/p/3479275.html)
 
-# 等待&唤醒
+## 等待&唤醒
 
 [深入理解Object提供的阻塞和唤醒API](https://www.throwable.club/2019/04/30/java-object-wait-notify/#Object%E6%8F%90%E4%BE%9B%E7%9A%84%E9%98%BB%E5%A1%9E%E5%92%8C%E5%94%A4%E9%86%92API)
 
-[为什么说“除非深思熟虑，尽量使用 notifyAll()”？](https://mp.weixin.qq.com/s/b5Nnqh64Qx_Tet9m1OqJbg)
+[为什么说“除非深思熟虑，尽量使用 notifyAll\(\)”？](https://mp.weixin.qq.com/s/b5Nnqh64Qx_Tet9m1OqJbg)
 
-[Java中sleep()与wait()区别](https://blog.csdn.net/u012050154/article/details/50903326)
+[Java中sleep\(\)与wait\(\)区别](https://blog.csdn.net/u012050154/article/details/50903326)
 
-# 线程池
+## 线程池
 
 使用
 
@@ -89,8 +91,4 @@
 [从源码的角度解析线程池运行原理](https://mp.weixin.qq.com/s/2pspUsnFOXDNVfcB_tj22w)
 
 [线程池中多余的线程是如何回收的](https://mp.weixin.qq.com/s/GjI9HSP_rPxXylrlHIMnvQ)
-
-
-
-
 
