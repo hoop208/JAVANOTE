@@ -62,6 +62,8 @@
 
 [构造函数没有返回值 是怎么赋值的](https://mp.weixin.qq.com/s/7Pi5fQGALeNxYqJEz_TdJA)
 
+[java为什么不支持多继承](https://mp.weixin.qq.com/s/F9w_ETabtaGGrwOVnAYZYA)
+
 # String
 
 [别因为string再吃大亏了](https://mp.weixin.qq.com/s/O2tG--s_ecPleBHnQ-YYtQ)
@@ -87,6 +89,8 @@
 [string有多长](https://mp.weixin.qq.com/s/1UC5sM6Z2QPNCWRztWuQCQ)
 
 [深入java源码剖析之字符串常量](https://mp.weixin.qq.com/s/YvHt9uKKOdYZDdipGJXQYA)
+
+[为什么string对象是不可变的](https://mp.weixin.qq.com/s/dQUrWBcS2TjS8GpiKwor6g)
 
 # javadoc
 
