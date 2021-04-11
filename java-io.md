@@ -10,6 +10,10 @@
 
 [Java文件IO操作应该抛弃File拥抱Paths和Files](https://www.cnblogs.com/digdeep/p/4478734.html)
 
+[常见的io模型](https://mp.weixin.qq.com/s/mP8r2WMgLTuxcT8yV10yZA)
+
+[理解一下五种io模型 阻塞io和非阻塞io 同步io和异步io](https://mp.weixin.qq.com/s/ZW4RFb3sqRIOWB83SGS4DA)
+
 # 序列化
 
 [Java中的关键字 transient](https://www.cnblogs.com/chenpi/p/6185773.html)
@@ -27,5 +31,17 @@
 [Serializable 和 Parcelable 的再次回忆](https://juejin.im/entry/5815cd86570c3500606c7130)
 
 [Serializable 都这么牛逼了，Parcelable，我还要你何用](https://juejin.im/post/5a24fd8151882531ea651c37)
+
+[什么是序列化 怎么序列化](https://mp.weixin.qq.com/s/YEhgCrVoMZA8Cl3PJFowUA)
+
+# NIO
+
+[十分钟看懂nio底层原理](https://mp.weixin.qq.com/s/Bo7lMh15WzEkfWfrAkboVQ)
+
+[一个故事讲清楚nio](https://mp.weixin.qq.com/s/8Sy37m0hplvXYPpeeoIBmA)
+
+[大文件拷贝 试试nio的内存映射](https://mp.weixin.qq.com/s/GBaWxQ-vN510sJ8VIBNBTA)
+
+[彻底搞懂nio效率高的原理](https://mp.weixin.qq.com/s/wVoHfhh28Vh5sgKQbPXk8w)
 
 
