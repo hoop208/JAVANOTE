@@ -58,6 +58,10 @@
 
 [java为什么不支持多继承](https://mp.weixin.qq.com/s/F9w_ETabtaGGrwOVnAYZYA)
 
+[final关键字的八个小细节](https://mp.weixin.qq.com/s/YKn9eUOQ8efdjbNMN1BYag)
+
+[java到底是值传递还是引用传递](https://mp.weixin.qq.com/s/eguNU4kceuICWfqmL6siHQ)
+
 ## String
 
 [别因为string再吃大亏了](https://mp.weixin.qq.com/s/O2tG--s_ecPleBHnQ-YYtQ)
