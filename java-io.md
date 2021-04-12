@@ -20,6 +20,8 @@
 
 [Java对象克隆（Clone）及Cloneable接口、Serializable接口的深入探讨](https://blog.csdn.net/kenthong/article/details/5758884)
 
+[什么是java深浅拷贝](https://mp.weixin.qq.com/s/2CQH29jzwOqq16TVfbxGtw)
+
 ## 序列化
 
 [Java中的关键字 transient](https://www.cnblogs.com/chenpi/p/6185773.html)
