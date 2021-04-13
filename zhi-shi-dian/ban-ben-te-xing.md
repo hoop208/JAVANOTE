@@ -10,3 +10,4 @@
 
 [深入理解Java Stream流水线](https://www.cnblogs.com/CarpenterLee/p/6637118.html)
 
+[玩转stream](https://mp.weixin.qq.com/s/QI_17FIqsy34boNC2mwJ2g)
