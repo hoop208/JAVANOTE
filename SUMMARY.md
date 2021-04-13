@@ -9,7 +9,7 @@
   * [并发集合](javaji-chu/bing-fa-ji-he.md)
 * [知识点](zhi-shi-dian/README.md)
   * [Aop](zhi-shi-dian/aop.md)
-  * [版本特性](zhi-shi-dian/ban-ben-te-xing.md)
+  * [Stream](zhi-shi-dian/ban-ben-te-xing.md)
   * [反射框架](zhi-shi-dian/fan-she-kuang-jia.md)
 * [jvm](jvm.md)
 * [javaee](javaee.md)

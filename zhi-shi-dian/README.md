@@ -70,6 +70,14 @@
 
 [文件描述符到底是啥](https://mp.weixin.qq.com/s/aclOUSSMiS389-l-Sro1Hg)
 
+[Java 8新特性（三）：Optional类](https://lw900925.github.io/java/java8-optional.html)
+
+[菜鸟教程-Java 8 Optional 类](https://www.runoob.com/java/java8-optional-class.html)
+
+[Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial)
+
+[Java 8的这个新特性，你用了吗？](https://mp.weixin.qq.com/s/252Uay68lH39sGh80rnbGg)
+
 ## String
 
 [别因为string再吃大亏了](https://mp.weixin.qq.com/s/O2tG--s_ecPleBHnQ-YYtQ)
@@ -119,6 +127,12 @@
 [匿名内部类的这几个骚操作，99% 的人都不知道！](https://mp.weixin.qq.com/s/qIpwEjRd2rYEze6KzC6o6Q)
 
 [lambda完整学习指南](https://mp.weixin.qq.com/s/ogcRRWBE8CtOY5l6kcQvhg)
+
+[菜鸟教程-Java 8 方法引用](https://www.runoob.com/java/java8-method-references.html)
+
+[菜鸟教程-Java 8 函数式接口](https://www.runoob.com/java/java8-functional-interfaces.html)
+
+[Java 8：一文掌握 Lambda 表达式 \| CSDN 博文精选](https://mp.weixin.qq.com/s/8k92CCGg9I6EAR7pAq698A)
 
 ## IOC&DI
 
