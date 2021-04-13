@@ -62,6 +62,14 @@
 
 [java到底是值传递还是引用传递](https://mp.weixin.qq.com/s/eguNU4kceuICWfqmL6siHQ)
 
+[java继承详解](https://mp.weixin.qq.com/s/qeDwu5Jg8X5Czv-I5eIFfg)
+
+[为什么java中的main方法必须是public static void](https://mp.weixin.qq.com/s/t4KBXSadDvvnF4D6Di87eQ)
+
+[为什么阿里禁用bigdecimal的equals方法做等值比较](https://mp.weixin.qq.com/s/3CoFxV2tHsQAqbml65tAIw)
+
+[文件描述符到底是啥](https://mp.weixin.qq.com/s/aclOUSSMiS389-l-Sro1Hg)
+
 ## String
 
 [别因为string再吃大亏了](https://mp.weixin.qq.com/s/O2tG--s_ecPleBHnQ-YYtQ)
