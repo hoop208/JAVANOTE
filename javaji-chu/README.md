@@ -12,7 +12,7 @@
 
 [生产者和消费者问题](https://github.com/francistao/LearningNotes/blob/master/Part2/JavaConcurrent/%E7%94%9F%E4%BA%A7%E8%80%85%E5%92%8C%E6%B6%88%E8%B4%B9%E8%80%85%E9%97%AE%E9%A2%98.md)
 
-[java并发编程的艺术](https://www.infoq.cn/profile/1277812)  [Java并发基础，不怕你看不懂！](https://mp.weixin.qq.com/s/qDhNySGzD3Dc4jsQei_Rwg)
+[java并发编程的艺术](https://www.infoq.cn/profile/1277812) [Java并发基础，不怕你看不懂！](https://mp.weixin.qq.com/s/qDhNySGzD3Dc4jsQei_Rwg)
 
 [谈谈Java任务的并行处理](https://mp.weixin.qq.com/s/TaO2Gg39P7E1tESJT8VXIg)
 
@@ -42,10 +42,6 @@
 
 [由浅入深cas](https://mp.weixin.qq.com/s/WKZYa0_srnquQqMCyV8cEQ)
 
-[java线程的状态与转换](https://mp.weixin.qq.com/s/6kAMFCXT46mWfxRdega1vA)
-
-[线程间到底共享了哪些进程资源？](https://mp.weixin.qq.com/s/-TzN4U052F6kOkPhNEe3Cg)
-
 [多线程那些事，硬核有趣](https://mp.weixin.qq.com/s/k_6shN16l9pPR_k3kufLQQ)
 
 [Java 并发专题 ： Timer的缺陷 用ScheduledExecutorService替代](https://blog.csdn.net/lmj623565791/article/details/27109467)  
@@ -60,12 +56,6 @@
 [Java并发编程：Synchronized底层优化（偏向锁、轻量级锁）](https://www.cnblogs.com/paddix/p/5405678.html)  
 [Java 并发编程：线程间的协作\(wait/notify/sleep/yield/join\)](https://www.cnblogs.com/paddix/p/5381958.html)  
 [Java 并发编程：volatile的使用及其原理](https://www.cnblogs.com/paddix/p/5428507.html)
-
-[Java多线程系列目录\(共43篇\)](https://www.cnblogs.com/skywang12345/p/java_threads_category.html)
-
-[并发编程](https://segmentfault.com/blog/kkxmoye)
-
-[2018汇总Java并发核心篇](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247484908&idx=1&sn=fe9004cd8369cabf448c9f43466bad0f&chksm=a69da8d291ea21c493d82e63705604055e2bd4d09f42c5e835051e3187a9cfefa317e6484b65&scene=21#wechat_redirect)
 
 [高并发编程学习\(1\)——并发基础](https://mp.weixin.qq.com/s/gFQowVpBWUtiE-caTCGSyA)  
 [高并发编程学习\(2\)——线程通信详解](https://mp.weixin.qq.com/s/efBpMT-6RK6q4XvMVtH1yQ)

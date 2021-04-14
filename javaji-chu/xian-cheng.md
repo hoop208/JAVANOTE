@@ -30,6 +30,10 @@
 
 [10 张图聊聊线程的生命周期和常用 APIs](https://segmentfault.com/a/1190000038252613)
 
+[java线程的状态与转换](https://mp.weixin.qq.com/s/6kAMFCXT46mWfxRdega1vA)
+
+[线程间到底共享了哪些进程资源？](https://mp.weixin.qq.com/s/-TzN4U052F6kOkPhNEe3Cg)
+
 ## callable&future
 
 [深入理解 Java 之 FutureTask 和 Callable](https://allenwu.itscoder.com/java-futuretask)
