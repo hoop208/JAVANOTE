@@ -40,6 +40,14 @@
 
 [面试官:说说多线程并发问题](https://mp.weixin.qq.com/s/eftg-ysAh30I-q3wSsfSJA)
 
+[由浅入深cas](https://mp.weixin.qq.com/s/WKZYa0_srnquQqMCyV8cEQ)
+
+[java线程的状态与转换](https://mp.weixin.qq.com/s/6kAMFCXT46mWfxRdega1vA)
+
+[线程间到底共享了哪些进程资源？](https://mp.weixin.qq.com/s/-TzN4U052F6kOkPhNEe3Cg)
+
+[多线程那些事，硬核有趣](https://mp.weixin.qq.com/s/k_6shN16l9pPR_k3kufLQQ)
+
 [Java 并发专题 ： Timer的缺陷 用ScheduledExecutorService替代](https://blog.csdn.net/lmj623565791/article/details/27109467)  
 [Java 并发专题 ： CyclicBarrier 打造一个安全的门禁系统](https://blog.csdn.net/lmj623565791/article/details/26829117)  
 [Java 并发专题 ：FutureTask 实现预加载数据 在线看电子书、浏览器浏览网页等](https://blog.csdn.net/lmj623565791/article/details/26817403)  
@@ -79,6 +87,8 @@
 [Java ThreadLocal的使用](http://ifeve.com/java-threadlocal%E7%9A%84%E4%BD%BF%E7%94%A8/)
 
 [22张图图解threadlocal](https://mp.weixin.qq.com/s/x7683wVs7cIUL1EEsmRJIA)
+
+[threadlocal深度解析](https://mp.weixin.qq.com/s/SaIAyidUd2Qr_eQRsjnMIg)
 
 ## volatile
 
