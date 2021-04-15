@@ -34,6 +34,10 @@
 
 [线程间到底共享了哪些进程资源？](https://mp.weixin.qq.com/s/-TzN4U052F6kOkPhNEe3Cg)
 
+[进程和线程基础知识全家桶，30 张图一套带走](https://mp.weixin.qq.com/s/YXl6WZVzRKCfxzerJWyfrg)
+
+[java线程和操作系统线程间的关系](https://mp.weixin.qq.com/s/1DBqevIIZAzynUzBAeyPXQ)
+
 ## callable&future
 
 [深入理解 Java 之 FutureTask 和 Callable](https://allenwu.itscoder.com/java-futuretask)
