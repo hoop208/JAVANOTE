@@ -38,11 +38,15 @@
 
 [Synchronized深入分析](https://cloud.tencent.com/developer/article/1703092)
 
+[17 张图看穿 synchronized 关键字](https://mp.weixin.qq.com/s/LKODNreV7ktMPFDFkUlFyw)
+
 ## AQS
 
 [1.5万字 30张图彻底掌握aqs](https://mp.weixin.qq.com/s/y_e3ciU-hiqlb5vseuOFyw)
 
 [深入解析aqs和cas](https://mp.weixin.qq.com/s/gtf8_DJvZQjPWboeErQvog)
+
+[十六张图揭开aqs](https://mp.weixin.qq.com/s/Y4GbMdNmSDvHtomxtObRSg)
 
 ## 锁
 
@@ -61,4 +65,6 @@
 [互斥锁 读写锁 自旋锁 乐观锁 悲观锁的应用场景](https://mp.weixin.qq.com/s/B338aVa3bPTVogT17f5Huw)
 
 [浅谈java并发下的乐观锁](https://mp.weixin.qq.com/s/Zes3vpt33Uk2yiJKKIB77A)
+
+[面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://mp.weixin.qq.com/s/CqIXHowIDT1kxyBOO0x7TQ)
 
