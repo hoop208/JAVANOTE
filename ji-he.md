@@ -48,6 +48,10 @@
 
 [ArrayList集合为什么不能使用foreach增删改？](https://mp.weixin.qq.com/s/yISMOS5rOSlgNsgKRP7aTA)
 
+[谨慎使用arrays.aslist和arraylist.sublist](https://mp.weixin.qq.com/s/lgfFFy36gVDWKxASUBO9YQ)
+
+[从面试角度分析arraylist源码](https://mp.weixin.qq.com/s/OX-U2QvKLI6jnO-wcRAgJQ)
+
 ## LinkedList
 
 [Java 集合系列05之 LinkedList详细介绍\(源码解析\)和使用示例](https://www.cnblogs.com/skywang12345/p/3308807.html)
