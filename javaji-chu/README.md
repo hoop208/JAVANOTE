@@ -104,3 +104,4 @@
 
 [26张图搞懂volatile](https://mp.weixin.qq.com/s/egKkiRyoyFl_b2v0CYlzXQ)
 
+[volatile之可见性](https://mp.weixin.qq.com/s/2tuUq1QOtfhARfXh5VQx8A)
