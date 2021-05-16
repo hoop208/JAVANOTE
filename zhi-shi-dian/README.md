@@ -22,8 +22,6 @@
 
 [Java常量池理解与总结](https://www.jianshu.com/p/c7f47de2ee80)
 
-[java.text.NumberFormat用法](https://blog.csdn.net/pengchua/article/details/1956810)
-
 [SimpleDateFormat与DateTimeFormatter](https://www.jianshu.com/p/b212afa16f1f)
 
 [消灭 Java 代码的“坏味道”](https://mp.weixin.qq.com/s/yvG2KdNewPmOL_YVE4VX8A)
@@ -48,8 +46,6 @@
 
 [老大，你为什么在代码中要求我们使用LocalDateTime而不是Date？](https://mp.weixin.qq.com/s/Dd_7yUh3lq3TqE2cjsYXvw)
 
-[你真的理解integer的缓存问题吗](https://mp.weixin.qq.com/s/QfCxkNute2IsZAX-dsPNqw)
-
 [为什么要重写hashcode和equals方法](https://mp.weixin.qq.com/s/dnyEc6-WWOm_Ijg7MfSmWw)
 
 [new一个对象的过程中发生了什么](https://mp.weixin.qq.com/s/BBAk_-sfs1CiHCLkXg15eg)
@@ -66,8 +62,6 @@
 
 [为什么java中的main方法必须是public static void](https://mp.weixin.qq.com/s/t4KBXSadDvvnF4D6Di87eQ)
 
-[为什么阿里禁用bigdecimal的equals方法做等值比较](https://mp.weixin.qq.com/s/3CoFxV2tHsQAqbml65tAIw)
-
 [文件描述符到底是啥](https://mp.weixin.qq.com/s/aclOUSSMiS389-l-Sro1Hg)
 
 [Java 8新特性（三）：Optional类](https://lw900925.github.io/java/java8-optional.html)
@@ -77,6 +71,16 @@
 [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial)
 
 [Java 8的这个新特性，你用了吗？](https://mp.weixin.qq.com/s/252Uay68lH39sGh80rnbGg)
+
+## 数值类
+
+[你以为用了BigDecimal后，计算结果就一定精确了？](https://mp.weixin.qq.com/s/F0kd81DUmpuVng4AbU1rpw)
+
+[java.text.NumberFormat用法](https://blog.csdn.net/pengchua/article/details/1956810)
+
+[你真的理解integer的缓存问题吗](https://mp.weixin.qq.com/s/QfCxkNute2IsZAX-dsPNqw)
+
+[为什么阿里禁用bigdecimal的equals方法做等值比较](https://mp.weixin.qq.com/s/3CoFxV2tHsQAqbml65tAIw)
 
 ## String
 
@@ -105,6 +109,8 @@
 [深入java源码剖析之字符串常量](https://mp.weixin.qq.com/s/YvHt9uKKOdYZDdipGJXQYA)
 
 [为什么string对象是不可变的](https://mp.weixin.qq.com/s/dQUrWBcS2TjS8GpiKwor6g)
+
+[面试官：String长度有限制吗？是多少？我又凉了！](https://mp.weixin.qq.com/s/4M9rHNJEWwn4iHnsODRfsg)
 
 ## javadoc
 

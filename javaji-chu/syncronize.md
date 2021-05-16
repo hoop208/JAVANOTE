@@ -68,3 +68,7 @@
 
 [面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://mp.weixin.qq.com/s/CqIXHowIDT1kxyBOO0x7TQ)
 
+[5000字 \| 24张图带你彻底理解Java中的21种锁](https://mp.weixin.qq.com/s/0aCVt0u3d1s9o_wYHXr4Uw)
+
+[通俗易懂的ReentrantLock，不懂你来砍我](https://mp.weixin.qq.com/s/ks1-_tsTdWm1FEux42rgZw)
+

@@ -46,6 +46,8 @@
 
 [semaphore自白:限流器用我就对了](https://mp.weixin.qq.com/s/g6L_AQFOZ49zMxFSVVeQGQ)
 
+[『图解Java并发』面试必问的CAS原理你会了吗？](https://mp.weixin.qq.com/s/Vpr7889ldKPDY4TmbN0RHg)
+
 [Java 并发专题 ： Timer的缺陷 用ScheduledExecutorService替代](https://blog.csdn.net/lmj623565791/article/details/27109467)  
 [Java 并发专题 ： CyclicBarrier 打造一个安全的门禁系统](https://blog.csdn.net/lmj623565791/article/details/26829117)  
 [Java 并发专题 ：FutureTask 实现预加载数据 在线看电子书、浏览器浏览网页等](https://blog.csdn.net/lmj623565791/article/details/26817403)  
@@ -66,6 +68,8 @@
 
 [Java中的Atomic包使用指南](http://ifeve.com/java-atomic/)
 
+[告诉你一个 AtomicInteger 的惊天大秘密！](https://mp.weixin.qq.com/s/WuSU12HhH8dXriS1j_nDLw)
+
 ## ThreadLocal
 
 [使用 ThreadLocal 一次解决老大难问题](https://mp.weixin.qq.com/s/eRxGPIoUbijYot2uqulVGQ)
@@ -81,6 +85,8 @@
 [22张图图解threadlocal](https://mp.weixin.qq.com/s/x7683wVs7cIUL1EEsmRJIA)
 
 [threadlocal深度解析](https://mp.weixin.qq.com/s/SaIAyidUd2Qr_eQRsjnMIg)
+
+[ThreadLocal不好用？那是你没用对！](https://mp.weixin.qq.com/s/WHXuzQiHhWg1EuukYiaMdg)
 
 ## volatile
 
@@ -107,3 +113,4 @@
 [26张图搞懂volatile](https://mp.weixin.qq.com/s/egKkiRyoyFl_b2v0CYlzXQ)
 
 [volatile之可见性](https://mp.weixin.qq.com/s/2tuUq1QOtfhARfXh5VQx8A)
+

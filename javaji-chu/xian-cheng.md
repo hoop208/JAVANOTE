@@ -38,6 +38,8 @@
 
 [java线程和操作系统线程间的关系](https://mp.weixin.qq.com/s/1DBqevIIZAzynUzBAeyPXQ)
 
+[额！Java中用户线程和守护线程区别这么大？](https://mp.weixin.qq.com/s/-wTTrkP8vn4SyhhufJ5Jng)
+
 ## callable&future
 
 [深入理解 Java 之 FutureTask 和 Callable](https://allenwu.itscoder.com/java-futuretask)
