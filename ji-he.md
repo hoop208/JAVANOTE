@@ -20,6 +20,8 @@
 
 [HashSet的秘密](https://zhuanlan.zhihu.com/p/29021276)
 
+### [Java中竟有18种队列？45张图！安排](https://mp.weixin.qq.com/s/I4zPjAzRvceDr3qNfsiMbg) <a id="activity-name"></a>
+
 ## hashmap
 
 [HashMap深度分析](https://www.jianshu.com/p/8b372f3a195d)
