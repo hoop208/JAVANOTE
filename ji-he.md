@@ -20,7 +20,13 @@
 
 [HashSet的秘密](https://zhuanlan.zhihu.com/p/29021276)
 
-### [Java中竟有18种队列？45张图！安排](https://mp.weixin.qq.com/s/I4zPjAzRvceDr3qNfsiMbg) <a id="activity-name"></a>
+[Java中竟有18种队列？45张图！安排](https://mp.weixin.qq.com/s/I4zPjAzRvceDr3qNfsiMbg)
+
+[SafeIterableMap：一个能在遍历中删除元素的数据结构](https://mp.weixin.qq.com/s/dhgSKA44OugnNBZURgHteg)
+
+[vector的所有操作一定是线程安全的吗？](https://mp.weixin.qq.com/s/I9VnZLuRqr3NJrLWEEkA1g)
+
+[深入浅出arraydeque](https://mp.weixin.qq.com/s/fbnkFoE9MRnxtG0VSDb_pA)
 
 ## hashmap
 
@@ -37,6 +43,10 @@
 [Map 综述（一）：彻头彻尾理解 HashMap](https://blog.csdn.net/justloveyou_/article/details/62893086) [Map 综述（二）：彻头彻尾理解 LinkedHashMap](https://blog.csdn.net/justloveyou_/article/details/71713781) [Map 综述（三）：彻头彻尾理解 ConcurrentHashMap](https://blog.csdn.net/justloveyou_/article/details/72783008) [Map 综述（四）：彻头彻尾理解 HashTable](https://blog.csdn.net/justloveyou_/article/details/72862373)
 
 [用漫画告诉你—什么是HashMap？](https://zhuanlan.zhihu.com/p/78079598)
+
+[java linkedhashmap源码解析](https://mp.weixin.qq.com/s/vXL6YPOD8c6mHdCCVNO-Sg)
+
+[java中最大的数据结构，linkedhashmap了解一下](https://mp.weixin.qq.com/s/K2EgTPFjEtjOtBVARc2OMw)
 
 ## ArrayList
 
