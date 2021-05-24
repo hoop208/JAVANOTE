@@ -28,6 +28,8 @@
 
 [深入浅出arraydeque](https://mp.weixin.qq.com/s/fbnkFoE9MRnxtG0VSDb_pA)
 
+[深入浅出分析priorityqueue](https://mp.weixin.qq.com/s/zxKpTL0bG0MqK1IXfxxBhw)
+
 ## hashmap
 
 [HashMap深度分析](https://www.jianshu.com/p/8b372f3a195d)

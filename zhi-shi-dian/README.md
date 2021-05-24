@@ -72,6 +72,10 @@
 
 [Java 8的这个新特性，你用了吗？](https://mp.weixin.qq.com/s/252Uay68lH39sGh80rnbGg)
 
+[你知道为什么Java的main方法必须是public static void？](https://mp.weixin.qq.com/s/8EwuCtF6xflQEMipqqUMrw)
+
+[面试官：问点基础，说说Object类下面有几种方法呢？](https://mp.weixin.qq.com/s/NkRzUX8y78WbtLa0m1Vyqw)
+
 ## 数值类
 
 [你以为用了BigDecimal后，计算结果就一定精确了？](https://mp.weixin.qq.com/s/F0kd81DUmpuVng4AbU1rpw)
@@ -81,6 +85,8 @@
 [你真的理解integer的缓存问题吗](https://mp.weixin.qq.com/s/QfCxkNute2IsZAX-dsPNqw)
 
 [为什么阿里禁用bigdecimal的equals方法做等值比较](https://mp.weixin.qq.com/s/3CoFxV2tHsQAqbml65tAIw)
+
+[Integer、new Integer\(\) 和 int 比较的面试题，考验你技术功底的时候到了！](https://mp.weixin.qq.com/s/XHEvPF-qhIAl5Kbqw-GwXA)
 
 ## String
 
