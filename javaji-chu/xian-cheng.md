@@ -40,6 +40,8 @@
 
 [额！Java中用户线程和守护线程区别这么大？](https://mp.weixin.qq.com/s/-wTTrkP8vn4SyhhufJ5Jng)
 
+[美团面试官：为什么 Java 线程没有Running状态？我懵了](https://mp.weixin.qq.com/s/Cun16dSnXrRlxUpoLMoAdw)
+
 ## callable&future
 
 [深入理解 Java 之 FutureTask 和 Callable](https://allenwu.itscoder.com/java-futuretask)

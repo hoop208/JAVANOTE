@@ -48,6 +48,10 @@
 
 [『图解Java并发』面试必问的CAS原理你会了吗？](https://mp.weixin.qq.com/s/Vpr7889ldKPDY4TmbN0RHg)
 
+[SimpleDateFormat线程不安全的5种解决方案！](https://mp.weixin.qq.com/s/5jArXdKP9n1AVdCZNt7nWQ)
+
+[美团面试官：StringBuilder 线程不安全的点在哪儿？](https://mp.weixin.qq.com/s/8JLSpfKrMCER-DotIeXe3Q)
+
 [Java 并发专题 ： Timer的缺陷 用ScheduledExecutorService替代](https://blog.csdn.net/lmj623565791/article/details/27109467)  
 [Java 并发专题 ： CyclicBarrier 打造一个安全的门禁系统](https://blog.csdn.net/lmj623565791/article/details/26829117)  
 [Java 并发专题 ：FutureTask 实现预加载数据 在线看电子书、浏览器浏览网页等](https://blog.csdn.net/lmj623565791/article/details/26817403)  
