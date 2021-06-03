@@ -76,6 +76,10 @@
 
 [面试官：问点基础，说说Object类下面有几种方法呢？](https://mp.weixin.qq.com/s/NkRzUX8y78WbtLa0m1Vyqw)
 
+[面试题系列：Java 夺命连环16问](https://mp.weixin.qq.com/s/UASAEiGWrTUnSaG81eC27w)
+
+[用System.currentTimeMillis\(\) 竟然遇到性能问题，有点不相信~](https://mp.weixin.qq.com/s/slRSPXDBXj8KsLHuoOgLEw)
+
 ## 数值类
 
 [你以为用了BigDecimal后，计算结果就一定精确了？](https://mp.weixin.qq.com/s/F0kd81DUmpuVng4AbU1rpw)
