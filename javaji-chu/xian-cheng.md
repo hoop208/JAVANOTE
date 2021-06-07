@@ -42,6 +42,8 @@
 
 [美团面试官：为什么 Java 线程没有Running状态？我懵了](https://mp.weixin.qq.com/s/Cun16dSnXrRlxUpoLMoAdw)
 
+[腾讯面试官：如何停止一个正在运行的线程？我一脸蒙蔽。。。](https://mp.weixin.qq.com/s/lNhndb4erm7t1CC34a_vYQ)
+
 ## callable&future
 
 [深入理解 Java 之 FutureTask 和 Callable](https://allenwu.itscoder.com/java-futuretask)

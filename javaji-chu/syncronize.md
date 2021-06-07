@@ -72,3 +72,5 @@
 
 [通俗易懂的ReentrantLock，不懂你来砍我](https://mp.weixin.qq.com/s/ks1-_tsTdWm1FEux42rgZw)
 
+[图文并茂的聊聊ReentrantReadWriteLock的位运算](https://mp.weixin.qq.com/s/NvNWmqZzpbKGRLhBJq9GuA)
+

@@ -92,6 +92,8 @@
 
 [ThreadLocal不好用？那是你没用对！](https://mp.weixin.qq.com/s/WHXuzQiHhWg1EuukYiaMdg)
 
+[ThreadLocal内存溢出代码演示和原因分析！](https://mp.weixin.qq.com/s/hmKR03jem35FYAM50QHU8Q)
+
 ## volatile
 
 [既生synchronized，何生volatil](https://www.hollischuang.com/archives/3928?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
