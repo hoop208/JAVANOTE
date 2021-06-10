@@ -1,6 +1,6 @@
 # Aop
 
-## AspectJ
+### AspectJ
 
 [AspectJ基本用法](https://www.jianshu.com/p/27b997677149)
 
@@ -38,4 +38,10 @@
 [一起用Gradle Transform API + ASM完成代码织入呀～](https://mp.weixin.qq.com/s/wMrk_RkY4nucL3n3JKNg7A)
 
 [Aspect Oriented Programming in Android](https://fernandocejas.com/2014/08/03/aspect-oriented-programming-in-android/)
+
+[AOP vs functions](https://elizarov.medium.com/aop-vs-functions-2dc66ae3c260)
+
+[  
+](https://elizarov.medium.com/?source=post_page-----2dc66ae3c260--------------------------------)[  
+](https://elizarov.medium.com/?source=post_page-----2dc66ae3c260--------------------------------)
 
