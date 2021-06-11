@@ -40,6 +40,10 @@
 
 [17 张图看穿 synchronized 关键字](https://mp.weixin.qq.com/s/LKODNreV7ktMPFDFkUlFyw)
 
+[13张图，深入理解Synchronized](https://mp.weixin.qq.com/s/0_5DLbBhA8MsgVAwXVv_Aw)
+
+[synchronized 的超多干货！](https://mp.weixin.qq.com/s/48PL2nIeCeiJsZA_-T72Aw)
+
 ## AQS
 
 [1.5万字 30张图彻底掌握aqs](https://mp.weixin.qq.com/s/y_e3ciU-hiqlb5vseuOFyw)
