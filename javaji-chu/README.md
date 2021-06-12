@@ -52,6 +52,8 @@
 
 [美团面试官：StringBuilder 线程不安全的点在哪儿？](https://mp.weixin.qq.com/s/8JLSpfKrMCER-DotIeXe3Q)
 
+[什么时候线程不安全？怎样做到线程安全？一文安利的明明白白](https://mp.weixin.qq.com/s/N2j8F-eavgClwHZRMNH6yw)
+
 [Java 并发专题 ： Timer的缺陷 用ScheduledExecutorService替代](https://blog.csdn.net/lmj623565791/article/details/27109467)  
 [Java 并发专题 ： CyclicBarrier 打造一个安全的门禁系统](https://blog.csdn.net/lmj623565791/article/details/26829117)  
 [Java 并发专题 ：FutureTask 实现预加载数据 在线看电子书、浏览器浏览网页等](https://blog.csdn.net/lmj623565791/article/details/26817403)  

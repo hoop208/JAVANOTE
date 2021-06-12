@@ -44,6 +44,8 @@
 
 [腾讯面试官：如何停止一个正在运行的线程？我一脸蒙蔽。。。](https://mp.weixin.qq.com/s/lNhndb4erm7t1CC34a_vYQ)
 
+[漫话：如何给女朋友解释为什么Java线程没有Running状态？](https://mp.weixin.qq.com/s/Vr5E68TEcU2tu7-5K03MBA)
+
 ## callable&future
 
 [深入理解 Java 之 FutureTask 和 Callable](https://allenwu.itscoder.com/java-futuretask)
@@ -94,6 +96,10 @@
 
 [别再说你不懂线程池——做个优雅的攻城狮](https://mp.weixin.qq.com/s/nG-xg41zJVrNDExssYFe5Q)
 
+[大话Java线程池，这篇能让你和面试官聊了半小时](https://mp.weixin.qq.com/s/eGOgXtHUnY29s6f63LeQDQ)
+
+[蚂蚁金服后端一面：Java怎么使用线程池/理解/处理什么问题](https://mp.weixin.qq.com/s/jAvTl3ZXtO8BHljIWJCDVw)
+
 源码
 
 [分析源码，线程池的正确用法你知道吗？](https://mp.weixin.qq.com/s/oZA_ct1uiZRBR6hECxBpeA)
@@ -105,4 +111,8 @@
 [从源码的角度解析线程池运行原理](https://mp.weixin.qq.com/s/2pspUsnFOXDNVfcB_tj22w)
 
 [线程池中多余的线程是如何回收的](https://mp.weixin.qq.com/s/GjI9HSP_rPxXylrlHIMnvQ)
+
+[为什么阿里巴巴要禁用 Executors 创建线程池？](https://mp.weixin.qq.com/s/wROfaruwMX1BB3kHPseUlQ)
+
+[面试官：说一下线程池内部工作原理？](https://mp.weixin.qq.com/s/3Uq-AKU64jJuxgdSHy6Mpg)
 
