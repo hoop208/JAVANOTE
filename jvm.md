@@ -55,6 +55,8 @@
 
 [手写一个java热加载](https://mp.weixin.qq.com/s/BT2KdwXjRWZVXux9bAqT3g)
 
+[Java类加载器：坑爹是我的特色](https://mp.weixin.qq.com/s/BRs3GM2cvvSSmm4CDsEEqQ)
+
 [Android解析ClassLoader（一）Java中的ClassLoader](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649841793&idx=1&sn=809d1d2b4a0bf02d4853708c7497cc94&scene=19#wechat_redirect)  
 [Android解析ClassLoader（二）Android中的ClassLoader](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649841837&idx=1&sn=b7ed366003ae168119a9bd42cd500c9c&scene=19#wechat_redirect)
 
@@ -134,6 +136,8 @@ class：
 
 [Java Reference核心原理分析](http://ifeve.com/java-reference%E6%A0%B8%E5%BF%83%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90/)
 
+[让人蛋疼的JAVA虚引用！](https://mp.weixin.qq.com/s/V62uA82vhS0hZFkyX5VHYw)
+
 ## 异常机制
 
 [Java异常处理12条军规](https://mp.weixin.qq.com/s/Oo53o8Qhiu8VHH70dTIOuA)
@@ -147,6 +151,8 @@ class：
 [java异常有效实践](https://www.cnblogs.com/dongxishaonian/p/12029980.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [令人惊讶的Java异常真相－底层到底发生了什么？](https://chenyongjun.vip/articles/29)
+
+[try-catch-finally中的4个巨坑，老程序员也搞不定！](https://mp.weixin.qq.com/s/8tJ8g1JKW_z6ZugQI4gb8Q)
 
 ## 执行引擎
 

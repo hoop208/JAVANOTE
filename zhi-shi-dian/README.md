@@ -80,6 +80,8 @@
 
 [用System.currentTimeMillis\(\) 竟然遇到性能问题，有点不相信~](https://mp.weixin.qq.com/s/slRSPXDBXj8KsLHuoOgLEw)
 
+[Java生成随机数的4种方式，以后就用它了!](https://mp.weixin.qq.com/s/ZRAgSOHVEY1HLE73vmCZww)
+
 ## 数值类
 
 [你以为用了BigDecimal后，计算结果就一定精确了？](https://mp.weixin.qq.com/s/F0kd81DUmpuVng4AbU1rpw)
@@ -121,6 +123,8 @@
 [为什么string对象是不可变的](https://mp.weixin.qq.com/s/dQUrWBcS2TjS8GpiKwor6g)
 
 [面试官：String长度有限制吗？是多少？我又凉了！](https://mp.weixin.qq.com/s/4M9rHNJEWwn4iHnsODRfsg)
+
+[漫话：如何给女朋友解释String对象是不可变的？](https://mp.weixin.qq.com/s/tmpQlReSpI3qqnKJmXjUJQ)
 
 ## javadoc
 
