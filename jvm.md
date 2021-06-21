@@ -26,10 +26,14 @@
 
 [不要让你的Java对象"逃逸"了！](https://mp.weixin.qq.com/s/Pub_K7PSCNE82F-96y2v6g)
 
+[这 10 个的 JVM 面试题，牛逼！](https://mp.weixin.qq.com/s/sMfd46gGzpjH-hkff4Lpww)
+
+[某团面试题：JVM 堆内存溢出后，其他线程是否可继续工作？](https://mp.weixin.qq.com/s/B46xA4hVK9aaa8I7DWn7hw)
+
 [Java 虚拟机系列一：一文搞懂 JVM 架构和运行时数据区 \(内存区域\)](https://segmentfault.com/a/1190000021643533)  
 [Java 虚拟机系列二：垃圾收集机制详解，动图帮你理解](https://segmentfault.com/a/1190000021667919)
 
-## 类加载子系统
+### 类加载子系统
 
 [你知道 Java 类是如何被加载的吗？](https://mp.weixin.qq.com/s/QoDuR3_aeqylMioNQuDh6Q)
 
@@ -72,7 +76,7 @@ class：
 
 [为什么给Java代码加个空行，class文件就翻脸不认人了？](https://mp.weixin.qq.com/s/262ogDIKLAY-R6sUX6afEw)
 
-## GC
+### GC
 
 [哪些对象可以作为GC Roots？](https://yq.aliyun.com/articles/753815)
 
@@ -88,7 +92,9 @@ class：
 
 [图解垃圾回收机制](https://mp.weixin.qq.com/s/UpqNHH1kPp-YX79XMhzdLA)
 
-## 运行时数据区
+[一文搞懂 Java 垃圾回收机制](https://mp.weixin.qq.com/s/OQaQu8Akf5SfilZAOnIg7A)
+
+### 运行时数据区
 
 [虚拟机系列 \| JVM运行时数据区](https://mp.weixin.qq.com/s/CMvhvV5kwzijq2t9eqlsoA)
 
@@ -112,7 +118,7 @@ class：
 
 [java内存布局](https://mp.weixin.qq.com/s/r0OYuo7FPHEji8QugOPr8A)
 
-## JMM
+### JMM
 
 [jvm虚拟机内存模型](https://mp.weixin.qq.com/s/OUBQNE_C2AfwYPLTxy6PUA)
 
@@ -120,7 +126,9 @@ class：
 
 [嘿，同学，你要的 Java 内存模型 \(JMM\) 来了](https://xie.infoq.cn/article/739920a92d0d27e2053174ef2)
 
-## 引用
+[面试官：说说什么是Java内存模型？](https://mp.weixin.qq.com/s/J3_ZuEU35Q73CfMcsTIZXg)
+
+### 引用
 
 [理解Java的强引用、软引用、弱引用和虚引用](https://juejin.im/post/5b82c02df265da436152f5ad#heading-5)
 
@@ -138,7 +146,7 @@ class：
 
 [让人蛋疼的JAVA虚引用！](https://mp.weixin.qq.com/s/V62uA82vhS0hZFkyX5VHYw)
 
-## 异常机制
+### 异常机制
 
 [Java异常处理12条军规](https://mp.weixin.qq.com/s/Oo53o8Qhiu8VHH70dTIOuA)
 
@@ -154,7 +162,7 @@ class：
 
 [try-catch-finally中的4个巨坑，老程序员也搞不定！](https://mp.weixin.qq.com/s/8tJ8g1JKW_z6ZugQI4gb8Q)
 
-## 执行引擎
+### 执行引擎
 
 [Java代码编译和执行的整个过程](https://mp.weixin.qq.com/s/MY-FcTsDGnXvYCG41Ur9mA)
 
