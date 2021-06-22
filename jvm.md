@@ -30,6 +30,8 @@
 
 [某团面试题：JVM 堆内存溢出后，其他线程是否可继续工作？](https://mp.weixin.qq.com/s/B46xA4hVK9aaa8I7DWn7hw)
 
+[面试题系列：JVM 夺命连环10问](https://mp.weixin.qq.com/s/dtsBOBPm59fabce0S4tKUA)
+
 [Java 虚拟机系列一：一文搞懂 JVM 架构和运行时数据区 \(内存区域\)](https://segmentfault.com/a/1190000021643533)  
 [Java 虚拟机系列二：垃圾收集机制详解，动图帮你理解](https://segmentfault.com/a/1190000021667919)
 
@@ -94,6 +96,8 @@ class：
 
 [一文搞懂 Java 垃圾回收机制](https://mp.weixin.qq.com/s/OQaQu8Akf5SfilZAOnIg7A)
 
+[漫画：什么是JVM的垃圾回收？](https://mp.weixin.qq.com/s/L4VlLqbYhL6r-b9DxwJtvw)
+
 ### 运行时数据区
 
 [虚拟机系列 \| JVM运行时数据区](https://mp.weixin.qq.com/s/CMvhvV5kwzijq2t9eqlsoA)
@@ -117,6 +121,8 @@ class：
 [jvm运行时数据区概述](https://segmentfault.com/a/1190000023859912)
 
 [java内存布局](https://mp.weixin.qq.com/s/r0OYuo7FPHEji8QugOPr8A)
+
+[一文看懂JVM内存分布与作用](https://mp.weixin.qq.com/s/q4_nyxNZle5hUeyYCiu37g)
 
 ### JMM
 
