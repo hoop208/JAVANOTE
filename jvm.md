@@ -168,6 +168,8 @@ class：
 
 [try-catch-finally中的4个巨坑，老程序员也搞不定！](https://mp.weixin.qq.com/s/8tJ8g1JKW_z6ZugQI4gb8Q)
 
+[Java中的finally一定会被执行吗？](https://mp.weixin.qq.com/s/M9yU8H5_KYSwBvhYF6D-Vw)
+
 ### 执行引擎
 
 [Java代码编译和执行的整个过程](https://mp.weixin.qq.com/s/MY-FcTsDGnXvYCG41Ur9mA)
