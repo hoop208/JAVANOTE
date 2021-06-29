@@ -87,3 +87,5 @@
 
 [Java 基础：动态代理、多态原理](https://blog.piasy.com/2017/01/17/Java-Basics-Dynamic-proxy-and-Polymorphism/index.html)
 
+[Java进阶 \| Proxy动态代理机制详解](https://mp.weixin.qq.com/s/HFMlfC-ocGBXXgxYWKND9g)
+
