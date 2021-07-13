@@ -116,5 +116,3 @@
 
 [面试官：说一下线程池内部工作原理？](https://mp.weixin.qq.com/s/3Uq-AKU64jJuxgdSHy6Mpg)
 
-[叮咚 \| 线程池为什么设计成这样？](https://mp.weixin.qq.com/s/G2cAMBpkpt6WtxPkc9kBQQ)
-
